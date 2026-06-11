@@ -1,0 +1,662 @@
+{
+  "touristAttractionCategory": [
+    {
+      "ID": 1,
+      "code": "touAC01",
+      "db": 1,
+      "touristAttractionCategory": "แหล่งท่องเที่ยวทางธรรมชาติ"
+    },
+    {
+      "ID": 2,
+      "code": "touAC02",
+      "db": 2,
+      "touristAttractionCategory": "แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม"
+    },
+    {
+      "ID": 3,
+      "code": "touAC03",
+      "db": 3,
+      "touristAttractionCategory": "แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ"
+    }
+  ],
+  "touristAttractionType_nature": [
+    {
+      "ID": 1,
+      "code": "touAT01",
+      "db": 1,
+      "touristAttractionType": "หมู่เกาะ"
+    },
+    {
+      "ID": 2,
+      "code": "touAT02",
+      "db": 2,
+      "touristAttractionType": "เขตรักษาพันธุ์สัตว์ป่า"
+    },
+    {
+      "ID": 3,
+      "code": "touAT03",
+      "db": 3,
+      "touristAttractionType": "เขตห้ามล่าสัตว์ป่า"
+    },
+    {
+      "ID": 4,
+      "code": "touAT04",
+      "db": 4,
+      "touristAttractionType": "จุดชมวิว"
+    },
+    {
+      "ID": 5,
+      "code": "touAT05",
+      "db": 5,
+      "touristAttractionType": "ซากฟอสซิล"
+    },
+    {
+      "ID": 6,
+      "code": "touAT06",
+      "db": 6,
+      "touristAttractionType": "ถ้ำ"
+    },
+    {
+      "ID": 7,
+      "code": "touAT07",
+      "db": 7,
+      "touristAttractionType": "ทะเลสาบ/หนอง/บึง"
+    },
+    {
+      "ID": 8,
+      "code": "touAT08",
+      "db": 8,
+      "touristAttractionType": "ทุ่งดอกไม้และพืชพันธุ์"
+    },
+    {
+      "ID": 9,
+      "code": "touAT09",
+      "db": 9,
+      "touristAttractionType": "น้ำตก"
+    },
+    {
+      "ID": 10,
+      "code": "touAT10",
+      "db": 10,
+      "touristAttractionType": "น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ"
+    },
+    {
+      "ID": 11,
+      "code": "touAT11",
+      "db": 11,
+      "touristAttractionType": "แหล่งปะการังน้ำลึก/น้ำตื้น"
+    },
+    {
+      "ID": 12,
+      "code": "touAT12",
+      "db": 12,
+      "touristAttractionType": "ป่าชายเลน/พื้นที่ชุ่มน้ำ"
+    },
+    {
+      "ID": 13,
+      "code": "touAT13",
+      "db": 13,
+      "touristAttractionType": "ภูเขา/ธรณีสัณฐานเฉพาะ"
+    },
+    {
+      "ID": 14,
+      "code": "touAT14",
+      "db": 14,
+      "touristAttractionType": "แม่น้ำ/ลำคลอง/แก่ง"
+    },
+    {
+      "ID": 15,
+      "code": "touAT15",
+      "db": 15,
+      "touristAttractionType": "วนอุทยาน"
+    },
+    {
+      "ID": 16,
+      "code": "touAT16",
+      "db": 16,
+      "touristAttractionType": "อุทยานแห่งชาติ"
+    },
+    {
+      "ID": 17,
+      "code": "touAT17",
+      "db": 17,
+      "touristAttractionType": "ศูนย์ศึกษาธรรมชาติ/พิพิธภัณธ์ธรรมชาติ (พืชพันธุ์)"
+    },
+    {
+      "ID": 18,
+      "code": "touAT18",
+      "db": 18,
+      "touristAttractionType": "ส่วนรุกชาติ"
+    },
+    {
+      "ID": 19,
+      "code": "touAT19",
+      "db": 19,
+      "touristAttractionType": "อ่าว/หาดทราย/ชายทะเล"
+    },
+    {
+      "ID": 20,
+      "code": "touAT20",
+      "db": 20,
+      "touristAttractionType": "สวนพฤกษศาสตร์"
+    },
+    {
+      "ID": 21,
+      "code": "touAT21",
+      "db": 21,
+      "touristAttractionType": "เขื่อน/อ่างเก็บน้ำ"
+    }
+  ],
+  "tourismAttractionType_culture": [
+    {
+      "ID": 1,
+      "code": "touAT31",
+      "db": 31,
+      "touristAttractionType": "กำแพงเมือง/คูเมือง"
+    },
+    {
+      "ID": 2,
+      "code": "touAT32",
+      "db": 32,
+      "touristAttractionType": "ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ"
+    },
+    {
+      "ID": 3,
+      "code": "touAT33",
+      "db": 33,
+      "touristAttractionType": "ประวัติความเป็นมา"
+    },
+    {
+      "ID": 4,
+      "code": "touAT34",
+      "db": 34,
+      "touristAttractionType": "พระตำหนัก/วัง/พระราชวัง"
+    },
+    {
+      "ID": 5,
+      "code": "touAT35",
+      "db": 35,
+      "touristAttractionType": "พิพิธภัณฑ์"
+    },
+    {
+      "ID": 6,
+      "code": "touAT36",
+      "db": 36,
+      "touristAttractionType": "ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)"
+    },
+    {
+      "ID": 7,
+      "code": "touAT37",
+      "db": 37,
+      "touristAttractionType": "ศูนย์ศึกษาประวัติศาสตร์"
+    },
+    {
+      "ID": 8,
+      "code": "touAT38",
+      "db": 38,
+      "touristAttractionType": "อนุสาวรีย์/อนุสรณ์สถาน"
+    },
+    {
+      "ID": 9,
+      "code": "touAT39",
+      "db": 39,
+      "touristAttractionType": "อุทยานประวัติศาสตร์"
+    },
+    {
+      "ID": 10,
+      "code": "touAT40",
+      "db": 40,
+      "touristAttractionType": "ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)"
+    },
+    {
+      "ID": 11,
+      "code": "touAT41",
+      "db": 41,
+      "touristAttractionType": "ศูนย์วัฒนธรรม"
+    },
+    {
+      "ID": 12,
+      "code": "touAT42",
+      "db": 42,
+      "touristAttractionType": "ศูนย์หัตถกรรม"
+    },
+    {
+      "ID": 13,
+      "code": "touAT43",
+      "db": 43,
+      "touristAttractionType": "วิถีชีวิตความเป็นอยู่ (ชุมชน)"
+    },
+    {
+      "ID": 14,
+      "code": "touAT44",
+      "db": 44,
+      "touristAttractionType": "หมู่บ้าน"
+    },
+    {
+      "ID": 15,
+      "code": "touAT45",
+      "db": 45,
+      "touristAttractionType": "ตลาดน้ำ/ตลาดโบราณ"
+    },
+    {
+      "ID": 16,
+      "code": "touAT46",
+      "db": 46,
+      "touristAttractionType": "เหมือง/ประวัติศาสตร์การทำเหมือง"
+    },
+    {
+      "ID": 17,
+      "code": "touAT47",
+      "db": 47,
+      "touristAttractionType": "งานประเพณี"
+    }
+  ],
+  "touristAttractionType_special": [
+    {
+      "ID": 1,
+      "code": "touAT61",
+      "db": 61,
+      "touristAttractionType": "ศูนย์ประชุมฯ"
+    },
+    {
+      "ID": 2,
+      "code": "touAT62",
+      "db": 62,
+      "touristAttractionType": "ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ"
+    },
+    {
+      "ID": 3,
+      "code": "touAT63",
+      "db": 63,
+      "touristAttractionType": "ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)"
+    },
+    {
+      "ID": 4,
+      "code": "touAT64",
+      "db": 64,
+      "touristAttractionType": "โครงการหลวง/โครงการพระราชดำริ"
+    },
+    {
+      "ID": 5,
+      "code": "touAT65",
+      "db": 65,
+      "touristAttractionType": "ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)"
+    },
+    {
+      "ID": 6,
+      "code": "touAT66",
+      "db": 66,
+      "touristAttractionType": "สวนสาธารณะ/สวนหย่อม"
+    },
+    {
+      "ID": 7,
+      "code": "touAT67",
+      "db": 67,
+      "touristAttractionType": "สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์"
+    },
+    {
+      "ID": 8,
+      "code": "touAT68",
+      "db": 68,
+      "touristAttractionType": "สวนสนุก/สวนน้ำ"
+    },
+    {
+      "ID": 9,
+      "code": "touAT69",
+      "db": 69,
+      "touristAttractionType": "ธีมปาร์ค (Theme Park)"
+    },
+    {
+      "ID": 10,
+      "code": "touAT70",
+      "db": 70,
+      "touristAttractionType": "สถานปฏิบัติธรรม"
+    },
+    {
+      "ID": 11,
+      "code": "touAT71",
+      "db": 71,
+      "touristAttractionType": "โรงละคร/โรงมหรสพ (โชว์)"
+    },
+    {
+      "ID": 12,
+      "code": "touAT72",
+      "db": 72,
+      "touristAttractionType": "โรงภาพยนต์โบราณ (โรงหนังเก่า)"
+    },
+    {
+      "ID": 13,
+      "code": "touAT73",
+      "db": 73,
+      "touristAttractionType": "ห้างสรรพสินค้า/แหล่งชอปปิง/ตลาดสด/ตลาดนัด/ถนนคนเดิน"
+    },
+    {
+      "ID": 14,
+      "code": "touAT74",
+      "db": 74,
+      "touristAttractionType": "สุขภาพและความงาม"
+    },
+    {
+      "ID": 15,
+      "code": "touAT75",
+      "db": 75,
+      "touristAttractionType": "จุดผ่านแดน/ชายแดน"
+    }
+  ],
+  "targetGroup": [
+    {
+      "ID": 1,
+      "code": "tarG01",
+      "db": 11,
+      "targetGroup": "กลุ่มครอบครัว"
+    },
+    {
+      "ID": 2,
+      "code": "tarG02",
+      "db": 12,
+      "targetGroup": "กลุ่มผู้สูงอายุ"
+    },
+    {
+      "ID": 3,
+      "code": "tarG03",
+      "db": 13,
+      "targetGroup": "กลุ่มวัยทำงาน"
+    },
+    {
+      "ID": 4,
+      "code": "tarG04",
+      "db": 15,
+      "targetGroup": "กลุ่มสตรี"
+    },
+    {
+      "ID": 5,
+      "code": "tarG05",
+      "db": 16,
+      "targetGroup": "กลุ่มมุสลิม"
+    },
+    {
+      "ID": 6,
+      "code": "tarG06",
+      "db": 17,
+      "targetGroup": "กลุ่มคู่รัก/คู่แต่งงาน"
+    },
+    {
+      "ID": 7,
+      "code": "tarG07",
+      "db": 30,
+      "targetGroup": "นักเรียนนักศึกษา/เยาวชน/วัยรุ่น"
+    }
+  ],
+  "specialTargetGroup": [
+    {
+      "ID": 1,
+      "code": "speTG01",
+      "db": 21,
+      "specificTargetGroup": "กลุ่ม Golf"
+    },
+    {
+      "ID": 2,
+      "code": "speTG02",
+      "db": 22,
+      "specificTargetGroup": "กลุ่ม Wedding & Honeymoon"
+    },
+    {
+      "ID": 3,
+      "code": "speTG03",
+      "db": 23,
+      "specificTargetGroup": "กลุ่ม Health & Wellness"
+    },
+    {
+      "ID": 4,
+      "code": "speTG04",
+      "db": 24,
+      "specificTargetGroup": "กลุ่ม Soft Adventure & Ecotourism"
+    },
+    {
+      "ID": 5,
+      "code": "speTG05",
+      "db": 25,
+      "specificTargetGroup": "กลุ่มท่องเที่ยวเชิงศาสนา"
+    },
+    {
+      "ID": 6,
+      "code": "speTG06",
+      "db": 26,
+      "specificTargetGroup": "กลุ่ม MICE/ศึกษาดูงาน"
+    },
+    {
+      "ID": 7,
+      "code": "speTG07",
+      "db": 27,
+      "specificTargetGroup": "กลุ่ม Volunteer Tourism"
+    },
+    {
+      "ID": 8,
+      "code": "speTG08",
+      "db": 28,
+      "specificTargetGroup": "กลุ่มศิลปวัฒนธรรม/ประวัติศาสตร์"
+    },
+    {
+      "ID": 9,
+      "code": "speTG09",
+      "db": 29,
+      "specificTargetGroup": "กลุ่มวิถีชีวิต/ชุมชน/วิถีเกษตร"
+    }
+  ],
+  "transportation": [
+    {
+      "ID": 1,
+      "code": "tra01",
+      "db": 1,
+      "transportation": "รถยนต์"
+    },
+    {
+      "ID": 2,
+      "code": "tra02",
+      "db": 2,
+      "transportation": "รถไฟ"
+    },
+    {
+      "ID": 3,
+      "code": "tra03",
+      "db": 3,
+      "transportation": "เรือ"
+    },
+    {
+      "ID": 4,
+      "code": "tra04",
+      "db": 4,
+      "transportation": "รถโดยสารประจำทาง"
+    },
+    {
+      "ID": 5,
+      "code": "tra05",
+      "db": 5,
+      "transportation": "เดินเท้า"
+    },
+    {
+      "ID": 6,
+      "code": "tra06",
+      "db": 6,
+      "transportation": "มอเตอร์ไซค์"
+    },
+    {
+      "ID": 7,
+      "code": "tra07",
+      "db": 7,
+      "transportation": "จักรยาน"
+    },
+    {
+      "ID": 8,
+      "code": "tra08",
+      "db": 8,
+      "transportation": "รถไฟฟ้า (BTS)"
+    },
+    {
+      "ID": 9,
+      "code": "tra09",
+      "db": 9,
+      "transportation": "รถไฟฟ้าใต้ดิน (MRT)"
+    },
+    {
+      "ID": 10,
+      "code": "tra10",
+      "db": 10,
+      "transportation": "อื่น ๆ"
+    }
+  ],
+  "facility": [
+    {
+      "ID": 1,
+      "code": "fac01",
+      "db": 1,
+      "facility": "ลานจอดรถ"
+    },
+    {
+      "ID": 2,
+      "code": "fac02",
+      "db": 2,
+      "facility": "สุขา"
+    },
+    {
+      "ID": 3,
+      "code": "fac03",
+      "db": 3,
+      "facility": "ร้านอาหาร"
+    },
+    {
+      "ID": 4,
+      "code": "fac04",
+      "db": 4,
+      "facility": "ศูนย์บริการนักท่องเที่ยว"
+    },
+    {
+      "ID": 5,
+      "code": "fac05",
+      "db": 5,
+      "facility": "ร้านขายสินค้าที่ระลึก"
+    },
+    {
+      "ID": 6,
+      "code": "fac06",
+      "db": 6,
+      "facility": "มัคคุเทศก์ท้องถิ่น"
+    },
+    {
+      "ID": 7,
+      "code": "fac07",
+      "db": 7,
+      "facility": "ป้ายสื่อความหมาย"
+    },
+    {
+      "ID": 8,
+      "code": "fac08",
+      "db": 8,
+      "facility": "ป้ายชี้ทางเข้าถึง"
+    },
+    {
+      "ID": 9,
+      "code": "fac09",
+      "db": 9,
+      "facility": "ที่พักสัตว์เลี้ยง (สุนัข)"
+    },
+    {
+      "ID": 10,
+      "code": "fac10",
+      "db": 10,
+      "facility": "ที่พักสัตว์เลี้ยง (แมว)"
+    },
+    {
+      "ID": 11,
+      "code": "fac11",
+      "db": 11,
+      "facility": "ที่พักสัตว์เลี้ยง(อื่น ๆ)"
+    },
+    {
+      "ID": 12,
+      "code": "fac12",
+      "db": 12,
+      "facility": "บริการอินเตอร์เน็ต wifi"
+    },
+    {
+      "ID": 13,
+      "code": "fac13",
+      "db": 13,
+      "facility": "ร้านกาแฟ"
+    },
+    {
+      "ID": 14,
+      "code": "fac14",
+      "db": 14,
+      "facility": "ห้องน้ำผู้สูงอายุ"
+    },
+    {
+      "ID": 15,
+      "code": "fac15",
+      "db": 15,
+      "facility": "นำสัตว์เลี้ยงเข้าได้"
+    },
+    {
+      "ID": 16,
+      "code": "fac16",
+      "db": 16,
+      "facility": "ตู้เอทีเอ็ม"
+    },
+    {
+      "ID": 17,
+      "code": "fac17",
+      "db": 17,
+      "facility": "ที่สูบบุหรี่"
+    },
+    {
+      "ID": 18,
+      "code": "fac22",
+      "db": 41,
+      "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+    }
+  ],
+  "disabledFacility": [
+    {
+      "ID": 1,
+      "code": "hanF01",
+      "db": 1,
+      "disabledFacility": "ลานจอดรถผู้พิการ/ผู้สูงอายุ"
+    },
+    {
+      "ID": 2,
+      "code": "hanF02",
+      "db": 2,
+      "disabledFacility": "ศูนย์บริการสำหรับผู้พิการ"
+    },
+    {
+      "ID": 3,
+      "code": "hanF03",
+      "db": 3,
+      "disabledFacility": "ทางลาด"
+    },
+    {
+      "ID": 4,
+      "code": "hanF04",
+      "db": 4,
+      "disabledFacility": "ห้องน้ำสำหรับคนพิการ"
+    },
+    {
+      "ID": 5,
+      "code": "hanF05",
+      "db": 5,
+      "disabledFacility": "ลิฟท์"
+    },
+    {
+      "ID": 6,
+      "code": "hanF06",
+      "db": 6,
+      "disabledFacility": "อักษรเบลล์"
+    },
+    {
+      "ID": 7,
+      "code": "hanF07",
+      "db": 7,
+      "disabledFacility": "บริการรถเข็น"
+    }
+  ]
+}

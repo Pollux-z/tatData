@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    attributeFormDefault="Unqualified" elementFormDefault="qualified" >
+    <xs:element name="touristBehavior">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="demographic" > 
+                    <xs:element name="gender" type="xs: String" /> 
+                    <xs:element name="age" type="xs: Integer" /> 
+                    <xs:element name="occupation" type="xs: String" /> 
+                    <xs:element name="income" type="xs: Integer" /> 
+                    <xs:element name="residence" type="xs: String" /> 
+                    <xs:element name="nationality" type="xs: String" />
+                    <xs:element name="maritalStatus" type="xs: String" /> 
+                </xs:element name="demographic" > 
+                <xs:element name="motivationAndDecision"> 
+                    <xs:element name="travelDecisionFactors" type="xs: String" /> 
+                    <xs:element name="frequencyOfTravelingAborad" type="xs: Integer" /> 
+                    <xs:element name="motivation" type="xs: String" /> 
+                    <xs:element name="resources" type="xs: String" /> 
+                </xs:element name="motivationAndDecision"> 
+                <xs:element name="travelDetail" > 
+                    <xs:element name="purposeOfTraveling" type="xs: String" /> 
+                    <xs:element name="frequencyOfVisitingThailand" type="xs: String" /> 
+                    <xs:element name="travelChannel" type="xs: String" /> 
+                    <xs:element name="decisionMaker" type="xs: String" /> 
+                    <xs:element name="reservation" type="xs: String" /> 
+                </xs:element name="travelDetail" > 
+                <xs:element name="travelBehaviorInThailand" > 
+                    <xs:element name="travelType" type="xs: String" /> 
+                    <xs:element name="travelCompanion" type="xs: String" /> 
+                    <xs:element name="lengthOfStay" type="xs: String" /> 
+                    <xs:element name="destinationProvince" type="xs: String" /> 
+                    <xs:element name="accommodationType" type="xs: String" /> 
+                    <xs:element name="activityType " type="xs: String" /> 
+                    <xs:element name="averageCost" type="xs: Integer" /> 
+                    <xs:element name="commonDestinationCountries" type="xs: String" /> 
+                    <xs:element name="satisfaction" type="xs: String" /> 
+                    <xs:element name="recommended" type="xs: String" /> 
+                    <xs:element name="opportunityToReturnToThailand" type="xs: String" /> 
+                </xs:element name="travelBehaviorInThailand" > 
+                <xs:element name="attitude" > 
+                    <xs:element name="attitudeTowardsTravelinThailand" type="xs: String" /> 
+                    <xs:element name="improveThings" type="xs: String" /> 
+                </xs:element name="attitude" > 
+            </xs:all>
+        </xs:complexType>
+    </xs:element>

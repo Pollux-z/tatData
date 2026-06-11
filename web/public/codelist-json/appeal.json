@@ -1,0 +1,460 @@
+{
+    "caseType": [
+        {
+            "ID": 1,
+            "code": "casT01",
+            "caseType": "ร้องเรียน"
+        },
+        {
+            "ID": 2,
+            "code": "casT02",
+            "caseType": "ติชม"
+        },
+        {
+            "ID": 3,
+            "code": "casT03",
+            "caseType": "แสดงข้อคิดเห็น"
+        }
+    ],
+    "TransportationTopics": [
+        {
+            "ID": 1,
+            "code": "traT01",
+            "transportationTopics": "รถโดยสารประจำทาง"
+        },
+        {
+            "ID": 2,
+            "code": "traT02",
+            "transportationTopics": "รถทัวร์"
+        },
+        {
+            "ID": 3,
+            "code": "traT03",
+            "transportationTopics": "รถตู้"
+        },
+        {
+            "ID": 4,
+            "code": "traT04",
+            "transportationTopics": "รถไฟ"
+        },
+        {
+            "ID": 5,
+            "code": "traT05",
+            "transportationTopics": "เครื่องบิน"
+        },
+        {
+            "ID": 6,
+            "code": "traT06",
+            "transportationTopics": "เรือ"
+        },
+        {
+            "ID": 7,
+            "code": "traT07",
+            "transportationTopics": "รถแท็กซี่/รถสามล้อ"
+        },
+        {
+            "ID": 8,
+            "code": "traT08",
+            "transportationTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "accommodationTopics": [
+        {
+            "ID": 1,
+            "code": "accT01",
+            "accommodationTopics": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "accT02",
+            "accommodationTopics": "รีสอร์ท"
+        },
+        {
+            "ID": 3,
+            "code": "accT03",
+            "accommodationTopics": "บังกะโล"
+        },
+        {
+            "ID": 4,
+            "code": "accT04",
+            "accommodationTopics": "เกสต์เฮ้าส์"
+        },
+        {
+            "ID": 5,
+            "code": "accT05",
+            "accommodationTopics": "โฮมสเตย์"
+        },
+        {
+            "ID": 6,
+            "code": "accT06",
+            "accommodationTopics": "บ้านเช่า"
+        },
+        {
+            "ID": 7,
+            "code": "accT07",
+            "accommodationTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "tourServiceTopics": [
+        {
+            "ID": 1,
+            "code": "touST01",
+            "tourServiceTopics": "การซื้อรายการนำเที่ยว"
+        },
+        {
+            "ID": 2,
+            "code": "touST02",
+            "tourServiceTopics": "การจองบัตรโดยสาร"
+        },
+        {
+            "ID": 3,
+            "code": "touST03",
+            "tourServiceTopics": "การจองที่พัก"
+        },
+        {
+            "ID": 4,
+            "code": "touST04",
+            "tourServiceTopics": "การใช้บริการมัคคุเทศก์"
+        },
+        {
+            "ID": 5,
+            "code": "touST05",
+            "tourServiceTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "rentalVehicleTopics": [
+        {
+            "ID": 1,
+            "code": "accT01",
+            "rentalVehicleTopics": "รถบัส"
+        },
+        {
+            "ID": 2,
+            "code": "accT02",
+            "rentalVehicleTopics": "รถยนต์"
+        },
+        {
+            "ID": 3,
+            "code": "accT03",
+            "rentalVehicleTopics": "รถตู้"
+        },
+        {
+            "ID": 4,
+            "code": "accT04",
+            "rentalVehicleTopics": "กระเช้าชมวิว"
+        },
+        {
+            "ID": 5,
+            "code": "accT05",
+            "rentalVehicleTopics": "เรือ/แพ"
+        },
+        {
+            "ID": 6,
+            "code": "accT06",
+            "rentalVehicleTopics": "รถจักรยาน"
+        },
+        {
+            "ID": 7,
+            "code": "accT07",
+            "rentalVehicleTopics": "รถจักรยานยนต์"
+        },
+        {
+            "ID": 8,
+            "code": "accT08",
+            "rentalVehicleTopics": "เจ็ทสกี"
+        },
+        {
+            "ID": 9,
+            "code": "accT09",
+            "rentalVehicleTopics": "รถชมวิว"
+        },
+        {
+            "ID": 10,
+            "code": "accT10",
+            "rentalVehicleTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "serviceAndRestaurantTopics": [
+        {
+            "ID": 1,
+            "code": "fooAST01",
+            "serviceAndRestaurantTopics": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "fooAST02",
+            "serviceAndRestaurantTopics": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fooAST03",
+            "serviceAndRestaurantTopics": "ศูนย์อาหาร"
+        },
+        {
+            "ID": 4,
+            "code": "fooAST04",
+            "serviceAndRestaurantTopics": "ร้านจำหน่ายเครื่องดื่ม"
+        },
+        {
+            "ID": 5,
+            "code": "fooAST05",
+            "serviceAndRestaurantTopics": "สปา/ร้านนวด"
+        },
+        {
+            "ID": 6,
+            "code": "fooAST06",
+            "serviceAndRestaurantTopics": "สถานบันเทิง"
+        },
+        {
+            "ID": 7,
+            "code": "fooAST07",
+            "serviceAndRestaurantTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "purchasedGoodsTopics": [
+        {
+            "ID": 1,
+            "code": "shoT01",
+            "purchasedGoodsTopics": "ห้างสรรพสินค้า"
+        },
+        {
+            "ID": 2,
+            "code": "shoT02",
+            "purchasedGoodsTopics": "ร้านค้า"
+        },
+        {
+            "ID": 3,
+            "code": "shoT03",
+            "purchasedGoodsTopics": "ห้าง Modern Trade"
+        },
+        {
+            "ID": 4,
+            "code": "shoT04",
+            "purchasedGoodsTopics": "ร้านสะดวกซื้อ"
+        },
+        {
+            "ID": 5,
+            "code": "shoT05",
+            "purchasedGoodsTopics": "ร้านขายของที่ระลึก"
+        },
+        {
+            "ID": 6,
+            "code": "shoT06",
+            "purchasedGoodsTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "TourismAttractionTopics": [
+        {
+            "ID": 1,
+            "code": "attT01",
+            "tourismAttractionTopics": "การจัดการ"
+        },
+        {
+            "ID": 2,
+            "code": "attT02",
+            "tourismAttractionTopics": "ขยะ"
+        },
+        {
+            "ID": 3,
+            "code": "attT03",
+            "tourismAttractionTopics": "น้ำเสีย"
+        },
+        {
+            "ID": 4,
+            "code": "attT04",
+            "tourismAttractionTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "governmentOfficeTopics": [
+        {
+            "ID": 1,
+            "code": "govAT01",
+            "governmentOfficeTopics": "ระบบของหน่วยงานภาครัฐ"
+        },
+        {
+            "ID": 2,
+            "code": "govAT02",
+            "governmentOfficeTopics": "การบริการของเจ้าหน้าที่ภาครัฐ"
+        },
+        {
+            "ID": 3,
+            "code": "govAT03",
+            "governmentOfficeTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "tatOfficeTopics": [
+        {
+            "ID": 1,
+            "code": "tatT01",
+            "tatOfficeTopics": "ข้อมูลท่องเที่ยว"
+        },
+        {
+            "ID": 2,
+            "code": "tatT02",
+            "tatOfficeTopics": "ข้อมูลการตลาด"
+        },
+        {
+            "ID": 3,
+            "code": "tatT03",
+            "tatOfficeTopics": "กิจกรรม/โครงการ การท่องเที่ยวแห่งประเทศไทย"
+        },
+        {
+            "ID": 4,
+            "code": "tatT04",
+            "tatOfficeTopics": "การจัดซื้อจัดจ้าง"
+        },
+        {
+            "ID": 5,
+            "code": "tatT05",
+            "tatOfficeTopics": "เจ้าหน้าที่ การท่องเที่ยวแห่งประเทศไทย"
+        },
+        {
+            "ID": 6,
+            "code": "tatT06",
+            "tatOfficeTopics": "Trade Show/Roadshow"
+        },
+        {
+            "ID": 7,
+            "code": "tatT07",
+            "tatOfficeTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "otherTopics": [
+        {
+            "ID": 1,
+            "code": "othT01",
+            "otherTopics": "การเกิดอุบัติเหตุ"
+        },
+        {
+            "ID": 2,
+            "code": "othT02",
+            "otherTopics": "การลักทรัพย์/วิ่งราว"
+        },
+        {
+            "ID": 3,
+            "code": "othT03",
+            "otherTopics": "การทำร้ายร่างกาย"
+        },
+        {
+            "ID": 4,
+            "code": "othT04",
+            "otherTopics": "การทารุณสัตว์"
+        },
+        {
+            "ID": 5,
+            "code": "othT05",
+            "otherTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "complaintIssue": [
+        {
+            "ID": 1,
+            "code": "appl01",
+            "complaintIssue": "หลอกลวง"
+        },
+        {
+            "ID": 2,
+            "code": "appl02",
+            "complaintIssue": "ฉ้อโกง"
+        },
+        {
+            "ID": 3,
+            "code": "appl03",
+            "complaintIssue": "เอารัดเอาเปรียบ"
+        },
+        {
+            "ID": 4,
+            "code": "appl04",
+            "complaintIssue": "สินค้าและบริการไม่ได้มาตรฐาน/เป็นอันตรายต่อสุขภาพ/ชีวิต/ทรัพย์สิน"
+        },
+        {
+            "ID": 5,
+            "code": "appl05",
+            "complaintIssue": "ระบบของหน่วยงานไม่มีประสิทธิภาพ"
+        },
+        {
+            "ID": 6,
+            "code": "appl06",
+            "complaintIssue": "เจ้าหน้าที่ไม่สุภาพ/ไม่มีความรู้/สื่อสารไม่ได้เจ้าหน้าที่ทุจริต/เจ้าหน้าที่ทำงานไม่มีประสิทธิภาพ"
+        },
+        {
+            "ID": 7,
+            "code": "appl07",
+            "complaintIssue": "ขโมยทรัพย์สิน/สิ่งของ"
+        },
+        {
+            "ID": 8,
+            "code": "appl08",
+            "complaintIssue": "สิ่งแวดล้อม"
+        },
+        {
+            "ID": 9,
+            "code": "appl09",
+            "complaintIssue": "ทารุณสัตว์"
+        },
+        {
+            "ID": 10,
+            "code": "appl10",
+            "complaintIssue": "อื่น ๆ ระบุ"
+        }
+    ],
+    "attachedDocuments": [
+        {
+            "ID": 1,
+            "code": "attD01",
+            "attachedDocuments": "ใบเสร็จรับเงิน/หลักฐานการจอง/ตั๋วโดยสาร/หลักฐานการขอยกเลิกการจอง/หลักฐานอื่น ๆ ที่เกี่ยวข้อง"
+        },
+        {
+            "ID": 2,
+            "code": "attD02",
+            "attachedDocuments": "หมายเลขทะเบียนรถ/หมายเลขเรือ/หมายเลขอื่น ๆ ที่เกี่ยวข้องกับเหตุที่เกิด"
+        },
+        {
+            "ID": 3,
+            "code": "attD03",
+            "attachedDocuments": "ภาพถ่ายที่เกี่ยวข้องกับเหตุที่เกิด/ภาพถ่ายสถานที่เกิดเหตุ"
+        },
+        {
+            "ID": 4,
+            "code": "attD04",
+            "attachedDocuments": "สำเนาบัตรประชาชน/สำเนาพาสปอร์ตของผู้ร้องเรียน"
+        },
+        {
+            "ID": 5,
+            "code": "attD05",
+            "attachedDocuments": "หลักฐานอื่น ๆ ที่เกี่ยวข้อง (เช่น ใบแจ้งความ/ใบวินิจฉัยแพทย์)"
+        },
+        {
+            "ID": 6,
+            "code": "attD06",
+            "attachedDocuments": "ไม่จำเป็นต้องมีเอกสาร/หลักฐาน"
+        }
+    ],
+    "contactDateType": [
+        {
+            "ID": 1,
+            "code": "contD01",
+            "contactDateType": "วันจอง"
+        },
+        {
+            "ID": 2,
+            "code": "contD02",
+            "contactDateType": "วันชำระเงิน"
+        },
+        {
+            "ID": 3,
+            "code": "contD03",
+            "contactDateType": "วันที่ซื้อสินค้า"
+        },
+        {
+            "ID": 4,
+            "code": "contD04",
+            "contactDateType": "วันที่รับบริการ"
+        },
+        {
+            "ID": 5,
+            "code": "contD05",
+            "contactDateType": "วันที่เกิดเหตุ"
+        }
+    ]
+}

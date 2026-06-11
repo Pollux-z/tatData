@@ -1,0 +1,38 @@
+{
+  "ประเภทเส้นทางการท่องเที่ยว (touristRouteType)": [
+    { "id": 1, "code": "routeT01", "touristRouteType": "การท่องเที่ยวเชิงอาหาร" },
+    { "id": 2, "code": "routeT02", "touristRouteType": "การท่องเที่ยวเชิงธรรมชาติ" },
+    { "id": 3, "code": "routeT03", "touristRouteType": "การท่องเที่ยวเชิงนิเวศ" },
+    { "id": 4, "code": "routeT04", "touristRouteType": "การท่องเที่ยวเชิงสุขภาพ" },
+    { "id": 5, "code": "routeT05", "touristRouteType": "การท่องเที่ยวแบบหรูหรา" },
+    { "id": 6, "code": "routeT06", "touristRouteType": "การท่องเที่ยวเชิงกีฬา" },
+    { "id": 7, "code": "routeT07", "touristRouteType": "การท่องเที่ยวชุมชน" },
+    { "id": 8, "code": "routeT08", "touristRouteType": "การท่องเที่ยวศิลปวัฒนธรรม" },
+    { "id": 9, "code": "routeT09", "touristRouteType": "การท่องเที่ยวเชิงศาสนา" },
+    { "id": 10, "code": "routeT10", "touristRouteType": "การท่องเที่ยวเชิงผจญภัย" },
+    { "id": 11, "code": "routeT11", "touristRouteType": "การท่องเที่ยวเชิงธุรกิจ" },
+    { "id": 12, "code": "routeT12", "touristRouteType": "การท่องเที่ยวเพื่อการศึกษา" },
+    { "id": 13, "code": "routeT13", "touristRouteType": "การท่องเที่ยววิถีเมือง" },
+    { "id": 14, "code": "routeT14", "touristRouteType": "การท่องเที่ยวเชิงเกษตร" },
+    { "id": 15, "code": "routeT99", "touristRouteType": "อื่น ๆ" }
+  ],
+  "ฤดูกาลที่เหมาะสม (recommendedTravelSeason)": [
+    { "id": 1, "code": "season01", "recommendedTravelSeason": "ฤดูร้อน" },
+    { "id": 2, "code": "season02", "recommendedTravelSeason": "ฤดูฝน" },
+    { "id": 3, "code": "season03", "recommendedTravelSeason": "ฤดูหนาว" },
+    { "id": 4, "code": "season04", "recommendedTravelSeason": "ตลอดทั้งปี" }
+  ],
+  "กลุ่มเป้าหมาย (targetGroup)": [
+    { "id": 1, "code": "target01", "targetGroup": "กลุ่มครอบครัว" },
+    { "id": 2, "code": "target02", "targetGroup": "กลุ่มผู้สูงอายุ" },
+    { "id": 3, "code": "target03", "targetGroup": "กลุ่มวัยทำงาน" },
+    { "id": 4, "code": "target04", "targetGroup": "กลุ่มสตรี" },
+    { "id": 5, "code": "target05", "targetGroup": "กลุ่มคู่รัก/คู่แต่งงาน" },
+    { "id": 6, "code": "target06", "targetGroup": "นักเรียนนักศึกษา/เยาวชน/วัยรุ่น" },
+    { "id": 7, "code": "target07", "targetGroup": "กลุ่มนักท่องเที่ยวต่างชาติ" },
+    { "id": 8, "code": "target08", "targetGroup": "กลุ่มธุรกิจ/องค์กร" },
+    { "id": 9, "code": "target09", "targetGroup": "กลุ่มผู้พิการ" },
+    { "id": 10, "code": "target10", "targetGroup": "กลุ่มผู้ชื่นชอบการผจญภัย" },
+    { "id": 11, "code": "target99", "targetGroup": "อื่น ๆ" }
+  ]
+} 

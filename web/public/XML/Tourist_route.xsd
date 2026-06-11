@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="TouristRoute">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="touristRouteType" type="xs:string"/>
+        <xs:element name="touristRouteName" type="xs:string"/>
+        <xs:element name="sourceDestination">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fromProvince" type="xs:string"/>
+              <xs:element name="toProvince" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="recommendedTravelSeason" type="xs:string"/>
+        <xs:element name="recommendedTravelDate">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="fromDate" type="xs:date"/>
+              <xs:element name="toDate" type="xs:date"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tripDuration" type="xs:string"/>
+        <xs:element name="numberOfAttraction" type="xs:string"/>
+        <xs:element name="totalTripDistance" type="xs:string"/>
+        <xs:element name="responsibleOffice" type="xs:string"/>
+        <xs:element name="telephoneNumber" type="xs:string"/>
+        <xs:element name="tripBudget" type="xs:string"/>
+        <xs:element name="targetGroup" type="xs:string" maxOccurs="unbounded"/>
+        <xs:element name="routeSource" type="xs:string"/>
+        <xs:element name="touristAttractions" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dayInTrip" type="xs:int"/>
+              <xs:element name="tripOrder" type="xs:int"/>
+              <xs:element name="touristAttractionName" type="xs:string"/>
+              <xs:element name="description" type="xs:string"/>
+              <xs:element name="attractionURL" type="xs:string"/>
+              <xs:element name="gPSLocation">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="latitude" type="xs:decimal"/>
+                    <xs:element name="longitude" type="xs:decimal"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="numberOfNearbyAttraction" type="xs:int"/>
+              <xs:element name="nearbyAttraction" maxOccurs="unbounded">
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

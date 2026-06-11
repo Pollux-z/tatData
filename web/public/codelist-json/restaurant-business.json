@@ -1,0 +1,403 @@
+{
+    "foodType": [
+        {
+            "ID": 1,
+            "code": "fooT01",
+            "db": 1,
+            "foodType": "Thai northern food"
+        },
+        {
+            "ID": 2,
+            "code": "fooT02",
+            "db": 2,
+            "foodType": "Vietnamese food"
+        },
+        {
+            "ID": 3,
+            "code": "fooT03",
+            "db": 3,
+            "foodType": "Barbecue"
+        },
+        {
+            "ID": 4,
+            "code": "fooT04",
+            "db": 4,
+            "foodType": "Barcirerie/Cafe"
+        },
+        {
+            "ID": 5,
+            "code": "fooT05",
+            "db": 5,
+            "foodType": "Cajun/Creole/Soul"
+        },
+        {
+            "ID": 6,
+            "code": "fooT06",
+            "db": 6,
+            "foodType": "Chinese"
+        },
+        {
+            "ID": 7,
+            "code": "fooT07",
+            "db": 7,
+            "foodType": "Desserts"
+        },
+        {
+            "ID": 8,
+            "code": "fooT08",
+            "db": 8,
+            "foodType": "European"
+        },
+        {
+            "ID": 9,
+            "code": "fooT09",
+            "db": 9,
+            "foodType": "Fast Food/Snack"
+        },
+        {
+            "ID": 10,
+            "code": "fooT10",
+            "db": 10,
+            "foodType": "French/Bistro"
+        },
+        {
+            "ID": 11,
+            "code": "fooT11",
+            "db": 11,
+            "foodType": "Greek"
+        },
+        {
+            "ID": 12,
+            "code": "fooT12",
+            "db": 12,
+            "foodType": "Halal and Kosher"
+        },
+        {
+            "ID": 13,
+            "code": "fooT13",
+            "db": 13,
+            "foodType": "Icecream"
+        },
+        {
+            "ID": 14,
+            "code": "fooT14",
+            "db": 14,
+            "foodType": "Indonesian"
+        },
+        {
+            "ID": 15,
+            "code": "fooT15",
+            "db": 15,
+            "foodType": "American"
+        },
+        {
+            "ID": 16,
+            "code": "fooT16",
+            "db": 16,
+            "foodType": "Asian Fusion"
+        },
+        {
+            "ID": 17,
+            "code": "fooT17",
+            "db": 17,
+            "foodType": "Coffee Shop"
+        },
+        {
+            "ID": 18,
+            "code": "fooT18",
+            "db": 18,
+            "foodType": "Thai Food"
+        },
+        {
+            "ID": 19,
+            "code": "fooT19",
+            "db": 19,
+            "foodType": "Japanese"
+        },
+        {
+            "ID": 20,
+            "code": "fooT20",
+            "db": 20,
+            "foodType": "Thai-lsan"
+        },
+        {
+            "ID": 21,
+            "code": "fooT21",
+            "db": 21,
+            "foodType": "Noodle"
+        },
+        {
+            "ID": 22,
+            "code": "fooT22",
+            "db": 22,
+            "foodType": "Italian"
+        },
+        {
+            "ID": 23,
+            "code": "fooT23",
+            "db": 23,
+            "foodType": "Seafood"
+        },
+        {
+            "ID": 24,
+            "code": "fooT24",
+            "db": 24,
+            "foodType": "Muslim Food"
+        },
+        {
+            "ID": 25,
+            "code": "fooT25",
+            "db": 25,
+            "foodType": "Vietnam Food"
+        },
+        {
+            "ID": 26,
+            "code": "fooT26",
+            "db": 41,
+            "foodType": "Indian"
+        }
+    ],
+    "facility": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac03",
+            "db": 3,
+            "facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fac12",
+            "db": 12,
+            "facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 4,
+            "code": "fac13",
+            "db": 13,
+            "facility": "ร้านกาแฟ"
+        },
+        {
+            "ID": 5,
+            "code": "fac14",
+            "db": 14,
+            "facility": "ห้องน้ำผู้สูงอายุ"
+        },
+        {
+            "ID": 6,
+            "code": "fac15",
+            "db": 15,
+            "facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 7,
+            "code": "fac16",
+            "db": 16,
+            "facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 8,
+            "code": "fac17",
+            "db": 17,
+            "facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 9,
+            "code": "fac18",
+            "db": 18,
+            "facility": "อาหารเช้าแบบบุฟเฟต์"
+        },
+        {
+            "ID": 10,
+            "code": "fac19",
+            "db": 19,
+            "facility": "สระว่ายน้ำ"
+        },
+        {
+            "ID": 11,
+            "code": "fac20",
+            "db": 20,
+            "facility": "ฟิตเนส"
+        },
+        {
+            "ID": 12,
+            "code": "fac21",
+            "db": 21,
+            "facility": "บาร์/เลาจ์/ผับ"
+        },
+        {
+            "ID": 13,
+            "code": "fac22",
+            "db": 41,
+            "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "facilityService": [
+        {
+            "ID": 1,
+            "code": "facS06",
+            "db": 6,
+            "facilityService": "บริการ 24 ชม."
+        },
+        {
+            "ID": 2,
+            "code": "facS07",
+            "db": 8,
+            "facilityService": "บริการจองโต๊ะ"
+        }
+    ],
+    "serviceType": [
+        {
+            "ID": 1,
+            "code": "servT01",
+            "serviceType": "บริการ 24 ชั่วโมง"
+        },
+        {
+            "ID": 2,
+            "code": "servT02",
+            "serviceType": "ชายามบ่าย"
+        },
+        {
+            "ID": 3,
+            "code": "servT03",
+            "serviceType": "ร้านกลางแจ้ง"
+        },
+        {
+            "ID": 4,
+            "code": "servT04",
+            "serviceType": "บรันช์"
+        },
+        {
+            "ID": 5,
+            "code": "servT05",
+            "serviceType": "บุฟเฟต์"
+        },
+        {
+            "ID": 6,
+            "code": "servT06",
+            "serviceType": "คาเฟ่"
+        },
+        {
+            "ID": 7,
+            "code": "servT07",
+            "serviceType": "ราคาประหยัด"
+        },
+        {
+            "ID": 8,
+            "code": "servT08",
+            "serviceType": "ครอบครัว"
+        },
+        {
+            "ID": 9,
+            "code": "servT09",
+            "serviceType": "ชิลล์เอ้าต์"
+        },
+        {
+            "ID": 10,
+            "code": "servT10",
+            "serviceType": "จัดเลี้ยงบริษัท"
+        },
+        {
+            "ID": 11,
+            "code": "servT11",
+            "serviceType": "ดินเนอร์แบบทางการ"
+        },
+        {
+            "ID": 12,
+            "code": "servT12",
+            "serviceType": "เกย์และเลสเบี้ยน"
+        },
+        {
+            "ID": 13,
+            "code": "servT13",
+            "serviceType": "เล่นดนตรีสด"
+        },
+        {
+            "ID": 14,
+            "code": "servT14",
+            "serviceType": "ออร์แกนิก"
+        },
+        {
+            "ID": 15,
+            "code": "servT15",
+            "serviceType": "บรรยากาศส่วนตัว"
+        },
+        {
+            "ID": 16,
+            "code": "servT16",
+            "serviceType": "ผับและบาร์"
+        },
+        {
+            "ID": 17,
+            "code": "servT17",
+            "serviceType": "เงียบสงบ"
+        },
+        {
+            "ID": 18,
+            "code": "servT18",
+            "serviceType": "โรแมนติก เดตแรก"
+        },
+        {
+            "ID": 19,
+            "code": "servT19",
+            "serviceType": "ร้านในสวน"
+        },
+        {
+            "ID": 20,
+            "code": "servT20",
+            "serviceType": "อาหารค่ำ"
+        },
+        {
+            "ID": 21,
+            "code": "servT21",
+            "serviceType": "วิวสวย"
+        },
+        {
+            "ID": 22,
+            "code": "servT22",
+            "serviceType": "ริมน้ำ"
+        },
+        {
+            "ID": 23,
+            "code": "servT23",
+            "serviceType": "เครื่องดื่ม"
+        },
+        {
+            "ID": 24,
+            "code": "servT24",
+            "serviceType": "เบเกอรี่"
+        },
+        {
+            "ID": 25,
+            "code": "servT25",
+            "serviceType": "ของว่าง"
+        }
+    ],
+    "shopStatus": [
+        {
+            "ID": 1,
+            "code": "shopS01",
+            "shopStatus": "เปิด"
+        },
+        {
+            "ID": 2,
+            "code": "shopS02",
+            "shopStatus": "ปิดปรับปรุง"
+        },
+        {
+            "ID": 3,
+            "code": "shopS03",
+            "shopStatus": "ปิดกิจการ"
+        },
+        {
+            "ID": 4,
+            "code": "shopS04",
+            "shopStatus": "อื่นๆ"
+        }
+    ]
+}

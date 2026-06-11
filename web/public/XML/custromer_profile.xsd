@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified">
+
+  <!-- Root element: CustomerProfile -->
+  <xs:element name="CustomerProfile">
+    <xs:complexType>
+      <xs:sequence>
+
+        <!-- customerId -->
+        <xs:element name="customerId" type="xs:string" minOccurs="1" maxOccurs="1"/>
+
+        <!-- consentStatement -->
+        <xs:element name="consentStatement" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+
+        <!-- demographic -->
+        <xs:element name="demographic" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="age" type="xs:int" minOccurs="0"/>
+              <xs:element name="ageGroup" type="xs:string" minOccurs="0"/>
+              <xs:element name="ageGroupIdentify" type="xs:string" minOccurs="0"/>
+              <xs:element name="gender" type="xs:string" minOccurs="0"/>
+              <xs:element name="genderOther" type="xs:string" minOccurs="0"/>
+              <xs:element name="maritalStatus" type="xs:string" minOccurs="0"/>
+              <xs:element name="educationLevel" type="xs:string" minOccurs="0"/>
+              <xs:element name="occupation" type="xs:string" minOccurs="0"/>
+              <xs:element name="occupationOther" type="xs:string" minOccurs="0"/>
+              <xs:element name="monthlyIncome" type="xs:double" minOccurs="0"/>
+              <xs:element name="incomeGroup" type="xs:string" minOccurs="0"/>
+              <xs:element name="selfDescription" type="xs:string" minOccurs="0"/>
+              <xs:element name="countryOfResidence" type="xs:string" minOccurs="0"/>
+              <xs:element name="nationality" type="xs:string" minOccurs="0"/>
+              <xs:element name="nationalityOther" type="xs:string" minOccurs="0"/>
+              <xs:element name="isThaiNationality" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="birthProvince" type="xs:string" minOccurs="0"/>
+              <xs:element name="residentProvince" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- travelDetail -->
+        <xs:element name="travelDetail" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="participateInPlanning" type="xs:string" minOccurs="0"/>
+              <xs:element name="coverTravelExpenses" type="xs:string" minOccurs="0"/>
+              <xs:element name="frequencyOfVisitingThailand" type="xs:string" minOccurs="0"/>
+              <xs:element name="frequencyOfVisitingThailandPastQuarter" type="xs:string" minOccurs="0"/>
+              <xs:element name="reasonNotTravelPastQuarter" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- customerInteractionDetail -->
+        <xs:element name="customerInteractionDetail" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+
+              <xs:element name="engagedWithTatPastYear" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="engagedWithTatPastMonth" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="infoImportance" type="xs:string" minOccurs="0"/>
+              <xs:element name="frequencyReceivedCommunication" type="xs:string" minOccurs="0"/>
+              <xs:element name="frequencyUsedInformation" type="xs:string" minOccurs="0"/>
+
+              <!-- communicationChannels object -->
+              <xs:element name="communicationChannels" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="channelOnlineReviews" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelWordOfMouth" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelTravelAgency" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelEvents" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelEmail" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelMessagingApps" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelFacebook" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelTikTok" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelWebsite" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelTatOffice" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelOtherFlag" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="channelOtherDetail" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- planningFeatures object -->
+              <xs:element name="planningFeatures" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="featureWebsiteApp" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureSmartMaps" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureARVR" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureGame" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureDiscounts" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureSocialIntegration" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featurePersonalization" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureSustainability" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureInfluencerCollabs" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureInteractiveExperience" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureAccurateInfo" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureMultiChannel" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureUpdatedInfo" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureInfluencerActivities" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="featureSuggestions" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- customerAttitude object -->
+              <xs:element name="customerAttitude" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="infoTrustLevel" type="xs:string" minOccurs="0"/>
+                    <xs:element name="brandFamiliarity" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="brandAmazingThailandAsPerson" type="xs:string" minOccurs="0"/>
+                    <xs:element name="officeTatAsPerson" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- customerBehavior object -->
+              <xs:element name="customerBehavior" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="recommendationLikelihood" type="xs:int" minOccurs="0"/>
+                    <xs:element name="infoSatisfaction" type="xs:string" minOccurs="0"/>
+                    <xs:element name="usedAssistanceServices" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="serviceSatisfaction" type="xs:string" minOccurs="0"/>
+                    <xs:element name="unsatisfactoryExperience" type="xs:boolean" minOccurs="0"/>
+                    <xs:element name="unsatisfactoryDetail" type="xs:string" minOccurs="0"/>
+                    <xs:element name="futureProductSuggestions" type="xs:string" minOccurs="0"/>
+                    <xs:element name="platformSustainabilityInfluenceLevel" type="xs:string" minOccurs="0"/>
+                    <xs:element name="tatSustainabilityImpactLevel" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+        <!-- tatOfficeInteraction -->
+        <xs:element name="tatOfficeInteraction" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sourceOfSurveyLink" type="xs:string" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeCentral" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeNorth" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeSouth" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeNortheast" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeEast" type="xs:boolean" minOccurs="0"/>
+              <xs:element name="interactedTatOfficeOtherDetail" type="xs:string" minOccurs="0"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

@@ -1,0 +1,317 @@
+{
+  "CLS_DOCUMENT_TYPE (ประเภทเอกสาร)": [
+    {
+      "id": 1,
+      "code": "DOC_TYPE_01",
+      "name_th": "รายงานประจำปี",
+      "name_en": "Annual Report",
+      "description": "เอกสารรายงานผลการดำเนินงานประจำปี"
+    },
+    {
+      "id": 2,
+      "code": "DOC_TYPE_02",
+      "name_th": "อินโฟกราฟิก",
+      "name_en": "Infographic",
+      "description": "เอกสารนำเสนอข้อมูลในรูปแบบภาพกราฟิก"
+    },
+    {
+      "id": 3,
+      "code": "DOC_TYPE_03",
+      "name_th": "รายงานผลการดำเนินงาน",
+      "name_en": "Performance Report",
+      "description": "เอกสารรายงานผลการปฏิบัติงาน"
+    },
+    {
+      "id": 4,
+      "code": "DOC_TYPE_04",
+      "name_th": "รายงานสถานการณ์การท่องเที่ยว",
+      "name_en": "Tourism Situation Report",
+      "description": "รายงานแนวโน้มสถานการณ์การเดินทางท่องเที่ยว"
+    },
+    {
+      "id": 5,
+      "code": "DOC_TYPE_05",
+      "name_th": "รายงานตลาดต่างประเทศ",
+      "name_en": "International Market Report",
+      "description": "รายงานวิเคราะห์ตลาดนักท่องเที่ยวต่างชาติ"
+    },
+    {
+      "id": 6,
+      "code": "DOC_TYPE_06",
+      "name_th": "รายงานตลาดในประเทศ",
+      "name_en": "Domestic Market Report",
+      "description": "รายงานวิเคราะห์ตลาดผู้เยี่ยมเยือนชาวไทย"
+    }
+  ],
+  "CLS_UPDATE_FREQUENCY (ความถี่การปรับปรุง)": [
+    {
+      "id": 1,
+      "code": "FREQ_01",
+      "name_th": "รายปี",
+      "name_en": "Annually",
+      "description": "ปรับปรุงข้อมูลปีละครั้ง"
+    },
+    {
+      "id": 2,
+      "code": "FREQ_02",
+      "name_th": "รายไตรมาส",
+      "name_en": "Quarterly",
+      "description": "ปรับปรุงข้อมูลทุก 3 เดือน"
+    },
+    {
+      "id": 3,
+      "code": "FREQ_03",
+      "name_th": "รายเดือน",
+      "name_en": "Monthly",
+      "description": "ปรับปรุงข้อมูลทุกเดือน"
+    },
+    {
+      "id": 4,
+      "code": "FREQ_04",
+      "name_th": "รายสัปดาห์",
+      "name_en": "Weekly",
+      "description": "ปรับปรุงข้อมูลทุกสัปดาห์"
+    },
+    {
+      "id": 5,
+      "code": "FREQ_05",
+      "name_th": "รายวัน",
+      "name_en": "Daily",
+      "description": "ปรับปรุงข้อมูลทุกวัน"
+    },
+    {
+      "id": 6,
+      "code": "FREQ_06",
+      "name_th": "ตามเหตุการณ์",
+      "name_en": "Ad-hoc",
+      "description": "ปรับปรุงข้อมูลเมื่อมีเหตุการณ์สำคัญ"
+    }
+  ],
+  "CLS_LANGUAGE (ภาษา)": [
+    {
+      "id": 1,
+      "code": "LANG_01",
+      "name_th": "ภาษาไทย",
+      "name_en": "Thai",
+      "iso_code": "th"
+    },
+    {
+      "id": 2,
+      "code": "LANG_02",
+      "name_th": "ภาษาอังกฤษ",
+      "name_en": "English",
+      "iso_code": "en"
+    },
+    {
+      "id": 3,
+      "code": "LANG_03",
+      "name_th": "ภาษาจีน",
+      "name_en": "Chinese",
+      "iso_code": "zh"
+    },
+    {
+      "id": 4,
+      "code": "LANG_04",
+      "name_th": "ภาษาญี่ปุ่น",
+      "name_en": "Japanese",
+      "iso_code": "ja"
+    },
+    {
+      "id": 5,
+      "code": "LANG_05",
+      "name_th": "ภาษาเกาหลี",
+      "name_en": "Korean",
+      "iso_code": "ko"
+    },
+    {
+      "id": 6,
+      "code": "LANG_06",
+      "name_th": "ภาษามาเลเซีย",
+      "name_en": "Malay",
+      "iso_code": "ms"
+    },
+    {
+      "id": 7,
+      "code": "LANG_07",
+      "name_th": "ภาษาเยอรมัน",
+      "name_en": "German",
+      "iso_code": "de"
+    },
+    {
+      "id": 8,
+      "code": "LANG_08",
+      "name_th": "ภาษาฝรั่งเศส",
+      "name_en": "French",
+      "iso_code": "fr"
+    },
+    {
+      "id": 9,
+      "code": "LANG_09",
+      "name_th": "ภาษารัสเซีย",
+      "name_en": "Russian",
+      "iso_code": "ru"
+    }
+  ],
+  "CLS_DOCUMENT_STATUS (สถานะเอกสาร)": [
+    {
+      "id": 1,
+      "code": "STATUS_01",
+      "name_th": "เผยแพร่แล้ว",
+      "name_en": "Published",
+      "description": "เอกสารที่เผยแพร่สู่สาธารณะแล้ว"
+    },
+    {
+      "id": 2,
+      "code": "STATUS_02",
+      "name_th": "ฉบับร่าง",
+      "name_en": "Draft",
+      "description": "เอกสารที่อยู่ในขั้นตอนการจัดทำ"
+    },
+    {
+      "id": 3,
+      "code": "STATUS_03",
+      "name_th": "รออนุมัติ",
+      "name_en": "Pending Approval",
+      "description": "เอกสารที่รอการอนุมัติ"
+    },
+    {
+      "id": 4,
+      "code": "STATUS_04",
+      "name_th": "ยกเลิก",
+      "name_en": "Obsolete",
+      "description": "เอกสารที่ยกเลิกการใช้งาน"
+    },
+    {
+      "id": 5,
+      "code": "STATUS_05",
+      "name_th": "ปรับปรุง",
+      "name_en": "Under Revision",
+      "description": "เอกสารที่อยู่ระหว่างการปรับปรุง"
+    },
+    {
+      "id": 6,
+      "code": "STATUS_06",
+      "name_th": "เก็บถาวร",
+      "name_en": "Archived",
+      "description": "เอกสารที่เก็บถาวรแล้ว"
+    }
+  ],
+  "CLS_FILE_FORMAT (รูปแบบไฟล์)": [
+    {
+      "id": 1,
+      "code": "FILE_01",
+      "name_th": "เอกสาร PDF",
+      "name_en": "PDF Document",
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    {
+      "id": 2,
+      "code": "FILE_02",
+      "name_th": "รูปภาพ JPEG",
+      "name_en": "JPEG Image",
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg"
+    },
+    {
+      "id": 3,
+      "code": "FILE_03",
+      "name_th": "รูปภาพ PNG",
+      "name_en": "PNG Image",
+      "mime_type": "image/png",
+      "extension": ".png"
+    },
+    {
+      "id": 4,
+      "code": "FILE_04",
+      "name_th": "รูปภาพ GIF",
+      "name_en": "GIF Image",
+      "mime_type": "image/gif",
+      "extension": ".gif"
+    },
+    {
+      "id": 5,
+      "code": "FILE_05",
+      "name_th": "เอกสาร Word",
+      "name_en": "Microsoft Word",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx"
+    },
+    {
+      "id": 6,
+      "code": "FILE_06",
+      "name_th": "เอกสาร Excel",
+      "name_en": "Microsoft Excel",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx"
+    },
+    {
+      "id": 7,
+      "code": "FILE_07",
+      "name_th": "เอกสาร PowerPoint",
+      "name_en": "Microsoft PowerPoint",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx"
+    },
+    {
+      "id": 8,
+      "code": "FILE_08",
+      "name_th": "ไฟล์วิดีโอ MP4",
+      "name_en": "MP4 Video",
+      "mime_type": "video/mp4",
+      "extension": ".mp4"
+    },
+    {
+      "id": 9,
+      "code": "FILE_09",
+      "name_th": "ไฟล์เสียง MP3",
+      "name_en": "MP3 Audio",
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3"
+    }
+  ],
+  "CLS_LICENSE_TYPE (ประเภทสัญญาอนุญาต)": [
+    {
+      "id": 1,
+      "code": "LIC_01",
+      "name_th": "สัญญาอนุญาตข้อมูลเปิดรัฐบาล",
+      "name_en": "Open Government Data License Thailand",
+      "description": "สัญญาอนุญาตข้อมูลเปิดของรัฐบาลไทย"
+    },
+    {
+      "id": 2,
+      "code": "LIC_02",
+      "name_th": "Creative Commons BY 4.0",
+      "name_en": "CC BY 4.0",
+      "description": "อนุญาตให้ใช้งานโดยระบุแหล่งที่มา"
+    },
+    {
+      "id": 3,
+      "code": "LIC_03",
+      "name_th": "Creative Commons BY-SA 4.0",
+      "name_en": "CC BY-SA 4.0",
+      "description": "อนุญาตให้ใช้งานและแชร์ต่อในลิขสิทธิ์เดียวกัน"
+    },
+    {
+      "id": 4,
+      "code": "LIC_04",
+      "name_th": "Creative Commons BY-NC 4.0",
+      "name_en": "CC BY-NC 4.0",
+      "description": "อนุญาตให้ใช้งานเฉพาะที่ไม่แสวงหากำไร"
+    },
+    {
+      "id": 5,
+      "code": "LIC_05",
+      "name_th": "สงวนลิขสิทธิ์",
+      "name_en": "All Rights Reserved",
+      "description": "สงวนลิขสิทธิ์ทั้งหมด"
+    },
+    {
+      "id": 6,
+      "code": "LIC_06",
+      "name_th": "ใช้ภายในองค์กร",
+      "name_en": "Internal Use Only",
+      "description": "อนุญาตให้ใช้ภายในองค์กรเท่านั้น"
+    }
+  ]
+} 

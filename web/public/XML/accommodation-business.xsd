@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    attributeFormDefault="Unqualified" elementFormDefault="qualified" >
+    <xs:element name="BusinessOfAccommodation">
+        <xs:complexType>
+            <xs:all>  
+                <xs:element name="accommodationName" > 
+                    <xs:element name="accommodationNameThai" type="xs: String" /> 
+                    <xs:element name="accommodationNameEnglish" type="xs: String" /> 
+                </xs:element name="accommodationName" > 
+                <xs:element name="typeOfAccommodation" type="xs: String" /> 
+                <xs:element name="numberOfRooms" type="xs: Integer" /> 
+                <xs:element name="meetingRooms" > 
+                    <xs:element name="numberOfMeetingRooms" type="xs: Integer" /> 
+                    <xs:element name="sizeOfMeetingRooms" type="xs: String" /> 
+                </xs:element name="meetingRooms" > 
+                <xs:element name="hotelBusinessOperation" > 
+                    <xs:element name="hotelRegistrationStatus" type="xs: Boolean" /> 
+                    <xs:element name="thaMemberStatus" type="xs: Boolean" /> 
+                    <xs:element name="hotelBusinessLicense" type="xs: String" /> 
+                </xs:element name="hotelBusinessOperation" > 
+                <xs:element name="checkInTime" type="xs: Time" /> 
+                <xs:element name="checkOutTime" type="xs: Time" /> 
+                <xs:element name="seasonPeriod" > 
+                    <xs:element name="highSeasonPeriod" > 
+                        <xs:element name="highSeasonFrom" type="xs: Date" /> 
+                        <xs:element name="highSeasonTo" type="xs: Date" /> 
+                    </xs:element name="highSeasonPeriod" > 
+                    <xs:element name="lowSeasonPeriod" > 
+                        <xs:element name="lowSeasonFrom" type="xs: Date" /> 
+                        <xs:element name="lowSeasonTo" type="xs: Date" /> 
+                    </xs:element name="lowSeasonPeriod" > 
+                </xs:element name="seasonPeriod" > 
+                <xs:element name="attractionHighlight" type="xs: String" /> 
+                <xs:element name="hotelPrice" >
+                    <xs:element name="priceLevel" type="xs: String" /> 
+                    <xs:element name="maxPrice" type="xs: Integer" /> 
+                    <xs:element name="minPrice" type="xs: Integer" /> 
+                </xs:element name="hotelPrice" >
+                <xs:element name="contactInformation" > 
+                    <xs:element name="addressDetail"> 
+                        <xs:element name="tatRegion" type="xs: String" /> 
+                        <xs:element name="address" type="xs: String" /> 
+                        <xs:element name="alley" type="xs: String" /> 
+                        <xs:element name="road" type="xs: String" /> 
+                        <xs:element name="subdistrict" type="xs: String" /> 
+                        <xs:element name="district" type="xs: String" /> 
+                        <xs:element name="province" type="xs: String" />
+                        <xs:element name="postalCode" type="xs: String" /> 
+                        <xs:element name="landmark" type="xs: String" />                     
+                    </xs:element name="addressDetail"> 
+                    <xs:element name="contactChannel" > 
+                        <xs:element name="telephoneNumber" type="xs: String" /> 
+                        <xs:element name="email" type="xs: String" /> 
+                        <xs:element name="website" type="xs: String" /> 
+                        <xs:element name="facebook" type="xs: String" /> 
+                        <xs:element name="instragram" type="xs: String" /> 
+                        <xs:element name="line" type="xs: String" /> 
+                        <xs:element name="tiktok" type="xs: String" /> 
+                        <xs:element name="youtube" type="xs: String" /> 
+                    </xs:element name="contactChannel"> 
+                </xs:element name="contactInformation"> 
+                <xs:element name="awardAndStandardReceived"> 
+                    <xs:element name="awardReceived" type="xs: String" />
+                    <xs:element name="standard" > 
+                        <xs:element name="hotelStandard" type="xs: String" /> 
+                        <xs:element name="motsStarStandard" type="xs: Integer" /> 
+                        <xs:element name="greenLeafStandard" type="xs: String" /> 
+                    </xs:element name="standard" > 
+                </xs:element name="awardAndStandardReceived"> 
+                <xs:element name="remark" type="xs: String" /> 
+                <xs:element name="companyChainHotels" type="xs: String" /> 
+                <xs:element name="localChainName" type="xs: String" /> 
+                <xs:element name="internationalChainName" type="xs: String" /> 
+                <xs:element name="hotelCategory" type="xs: String" /> 
+                <xs:element name="touristCountryGroup" type="xs: String" /> 
+                <xs:element name="transportation" type="xs: String" /> 
+                <xs:element name="facility" type="xs: String" /> 
+                <xs:element name="facilityService" type="xs: String" /> 
+                <xs:element name="paymentChannel" type="xs: String" /> 
+                <xs:element name="operatedfromYear" type="xs: Date" /> 
+                <xs:element name="accommodationStatus" type="xs: String" /> 
+                <xs:element name="typeofService" type="xs: Boolean" /> 
+                <xs:element name="accommodationStartDate" type="xs: Date" /> 
+                <xs:element name="accommodationClosingEndDate" type="xs: Date" /> 
+                <xs:element name="gpsLocation" > 
+                    <xs:element name="latitude" type="xs: Double" /> 
+                    <xs:element name="longitude" type="xs: Double" /> 
+                </xs:element name="gpsLocation" > 
+                <xs:element name="importDataOrganization " type="xs: String" /> 
+            </xs:all>
+        </xs:complexType>
+    </xs:element>

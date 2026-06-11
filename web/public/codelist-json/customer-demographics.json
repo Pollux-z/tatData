@@ -1,0 +1,271 @@
+{
+  "CL_01 กลุ่มอายุ": [
+    {
+      "id": 1,
+      "code": "AGE01",
+      "ageGroup_TH": "18-25 ปี",
+      "ageGroup_EN": "18-25 years"
+    },
+    {
+      "id": 2,
+      "code": "AGE02",
+      "ageGroup_TH": "26-35 ปี",
+      "ageGroup_EN": "26-35 years"
+    },
+    {
+      "id": 3,
+      "code": "AGE03",
+      "ageGroup_TH": "36-45 ปี",
+      "ageGroup_EN": "36-45 years"
+    },
+    {
+      "id": 4,
+      "code": "AGE04",
+      "ageGroup_TH": "46-55 ปี",
+      "ageGroup_EN": "46-55 years"
+    },
+    {
+      "id": 5,
+      "code": "AGE05",
+      "ageGroup_TH": "56-65 ปี",
+      "ageGroup_EN": "56-65 years"
+    },
+    {
+      "id": 6,
+      "code": "AGE06",
+      "ageGroup_TH": "มากกว่า 65 ปี",
+      "ageGroup_EN": "Over 65 years"
+    }
+  ],
+  "CL_02 กลุ่มอายุแบบกว้าง": [
+    {
+      "id": 1,
+      "code": "GEN01",
+      "ageGroupIdentify_TH": "Gen Z (เกิด 1997-2012)",
+      "ageGroupIdentify_EN": "Gen Z (Born 1997-2012)"
+    },
+    {
+      "id": 2,
+      "code": "GEN02",
+      "ageGroupIdentify_TH": "Gen Y/Millennials (เกิด 1981-1996)",
+      "ageGroupIdentify_EN": "Gen Y/Millennials (Born 1981-1996)"
+    },
+    {
+      "id": 3,
+      "code": "GEN03",
+      "ageGroupIdentify_TH": "Gen X (เกิด 1965-1980)",
+      "ageGroupIdentify_EN": "Gen X (Born 1965-1980)"
+    },
+    {
+      "id": 4,
+      "code": "GEN04",
+      "ageGroupIdentify_TH": "Baby Boomers (เกิด 1946-1964)",
+      "ageGroupIdentify_EN": "Baby Boomers (Born 1946-1964)"
+    },
+    {
+      "id": 5,
+      "code": "GEN05",
+      "ageGroupIdentify_TH": "Silent Generation (เกิดก่อน 1946)",
+      "ageGroupIdentify_EN": "Silent Generation (Born before 1946)"
+    }
+  ],
+  "CL_03 เพศ": [
+    {
+      "id": 1,
+      "code": "GEN01",
+      "gender_TH": "ชาย",
+      "gender_EN": "Male"
+    },
+    {
+      "id": 2,
+      "code": "GEN02",
+      "gender_TH": "หญิง",
+      "gender_EN": "Female"
+    },
+    {
+      "id": 3,
+      "code": "GEN03",
+      "gender_TH": "ไม่ประสงค์เปิดเผย",
+      "gender_EN": "Prefer not to say"
+    },
+    {
+      "id": 4,
+      "code": "GEN04",
+      "gender_TH": "ต้องการอธิบายอัตลักษณ์ทางเพศเพิ่มเติม",
+      "gender_EN": "Self-describe"
+    }
+  ],
+  "CL_04 สถานะภาพ": [
+    {
+      "id": 1,
+      "code": "MAR01",
+      "maritalStatus_TH": "โสด",
+      "maritalStatus_EN": "Single"
+    },
+    {
+      "id": 2,
+      "code": "MAR02",
+      "maritalStatus_TH": "แต่งงานไม่มีลูก",
+      "maritalStatus_EN": "Married without children"
+    },
+    {
+      "id": 3,
+      "code": "MAR03",
+      "maritalStatus_TH": "แต่งงานมีลูก",
+      "maritalStatus_EN": "Married with children"
+    },
+    {
+      "id": 4,
+      "code": "MAR04",
+      "maritalStatus_TH": "หย่าร้าง",
+      "maritalStatus_EN": "Divorced"
+    },
+    {
+      "id": 5,
+      "code": "MAR05",
+      "maritalStatus_TH": "หม้าย",
+      "maritalStatus_EN": "Widowed"
+    },
+    {
+      "id": 6,
+      "code": "MAR06",
+      "maritalStatus_TH": "ไม่ประสงค์เปิดเผย",
+      "maritalStatus_EN": "Prefer not to say"
+    }
+  ],
+  "CL_05 ระดับการศึกษา": [
+    { "id": 1, "code": "EDU01", "educationLevel_TH": "ไม่มีการศึกษาอย่างเป็นทางการ", "educationLevel_EN": "No formal education" },
+    { "id": 2, "code": "EDU02", "educationLevel_TH": "ประถมศึกษา", "educationLevel_EN": "Primary education" },
+    { "id": 3, "code": "EDU03", "educationLevel_TH": "มัธยมต้น", "educationLevel_EN": "Lower secondary education" },
+    { "id": 4, "code": "EDU04", "educationLevel_TH": "มัธยมปลาย", "educationLevel_EN": "Upper secondary education" },
+    { "id": 5, "code": "EDU05", "educationLevel_TH": "ประกาศนียบัตรวิชาชีพ", "educationLevel_EN": "Vocational certificate" },
+    { "id": 6, "code": "EDU06", "educationLevel_TH": "ปริญญาตรี", "educationLevel_EN": "Bachelor's degree" },
+    { "id": 7, "code": "EDU07", "educationLevel_TH": "ปริญญาโทหรือสูงกว่า", "educationLevel_EN": "Master's degree or higher" }
+  ],
+  "CL_06 อาชีพ": [
+    { "id": 1, "code": "OCC01", "occupation_TH": "นักเรียน/นักศึกษา", "occupation_EN": "Student" },
+    { "id": 2, "code": "OCC02", "occupation_TH": "รับราชการ", "occupation_EN": "Government officer" },
+    { "id": 3, "code": "OCC03", "occupation_TH": "พนักงานรัฐวิสาหกิจ", "occupation_EN": "State enterprise employee" },
+    { "id": 4, "code": "OCC04", "occupation_TH": "พนักงานเอกชน/ลูกจ้างมีสังกัด", "occupation_EN": "Private sector employee" },
+    { "id": 5, "code": "OCC05", "occupation_TH": "เจ้าของกิจการ/ธุรกิจส่วนตัว", "occupation_EN": "Business owner" },
+    { "id": 6, "code": "OCC06", "occupation_TH": "รับจ้างอิสระ (Freelance)", "occupation_EN": "Freelancer" },
+    { "id": 7, "code": "OCC07", "occupation_TH": "อินฟลูเอนเซอร์ (Influencer)", "occupation_EN": "Influencer" },
+    { "id": 8, "code": "OCC08", "occupation_TH": "เกษตรกร", "occupation_EN": "Farmer" },
+    { "id": 9, "code": "OCC09", "occupation_TH": "เกษียณ", "occupation_EN": "Retired" },
+    { "id": 10, "code": "OCC10", "occupation_TH": "พ่อบ้าน/แม่บ้าน (ดูแลครอบครัว)", "occupation_EN": "Housewife/Househusband" },
+    { "id": 11, "code": "OCC11", "occupation_TH": "ไม่ได้ทำงาน/ว่างงาน", "occupation_EN": "Unemployed" },
+    { "id": 12, "code": "OCC12", "occupation_TH": "อื่น ๆ", "occupation_EN": "Others" }
+  ],
+  "CL_07 กลุ่มรายได้": [
+    { "id": 1, "code": "INC01", "incomeGroup_TH": "ไม่มีรายได้", "incomeGroup_EN": "No income" },
+    { "id": 2, "code": "INC02", "incomeGroup_TH": "ต่ำกว่า 10,000 บาท", "incomeGroup_EN": "Less than 10,000 THB" },
+    { "id": 3, "code": "INC03", "incomeGroup_TH": "10,001 - 15,000 บาท", "incomeGroup_EN": "10,001 - 15,000 THB" },
+    { "id": 4, "code": "INC04", "incomeGroup_TH": "15,001 - 30,000 บาท", "incomeGroup_EN": "15,001 - 30,000 THB" },
+    { "id": 5, "code": "INC05", "incomeGroup_TH": "30,001 - 45,000 บาท", "incomeGroup_EN": "30,001 - 45,000 THB" },
+    { "id": 6, "code": "INC06", "incomeGroup_TH": "45,001 - 60,000 บาท", "incomeGroup_EN": "45,001 - 60,000 THB" },
+    { "id": 7, "code": "INC07", "incomeGroup_TH": "60,001 - 75,000 บาท", "incomeGroup_EN": "60,001 - 75,000 THB" },
+    { "id": 8, "code": "INC08", "incomeGroup_TH": "75,001 - 90,000 บาท", "incomeGroup_EN": "75,001 - 90,000 THB" },
+    { "id": 9, "code": "INC09", "incomeGroup_TH": "มากกว่า 90,000 บาท", "incomeGroup_EN": "More than 90,000 THB" },
+    { "id": 10, "code": "INC10", "incomeGroup_TH": "ไม่ระบุ", "incomeGroup_EN": "Not specified" }
+  ],
+  "CL_08 การมีส่วนร่วมในการวางแผนท่องเที่ยว": [
+    { "id": 1, "code": "PLP01", "participateInPlanning_TH": "เป็นผู้ตัดสินใจหลัก", "participateInPlanning_EN": "Primary decision maker" },
+    { "id": 2, "code": "PLP02", "participateInPlanning_TH": "มีส่วนร่วมในการตัดสินใจ", "participateInPlanning_EN": "Participate in decision making" },
+    { "id": 3, "code": "PLP03", "participateInPlanning_TH": "ให้ความคิดเห็นเป็นครั้งคราว", "participateInPlanning_EN": "Occasional input" },
+    { "id": 4, "code": "PLP04", "participateInPlanning_TH": "ไม่มีส่วนร่วม", "participateInPlanning_EN": "No participation" }
+  ],
+  "CL_09 การออกค่าใช้จ่ายในการท่องเที่ยว": [
+    { "id": 1, "code": "CTE01", "coverTravelExpenses_TH": "ออกค่าใช้จ่ายทั้งหมดเอง", "coverTravelExpenses_EN": "Pay all expenses myself" },
+    { "id": 2, "code": "CTE02", "coverTravelExpenses_TH": "ออกค่าใช้จ่ายบางส่วน", "coverTravelExpenses_EN": "Share expenses" },
+    { "id": 3, "code": "CTE03", "coverTravelExpenses_TH": "ไม่ออกค่าใช้จ่าย", "coverTravelExpenses_EN": "Others pay for me" },
+    { "id": 4, "code": "CTE04", "coverTravelExpenses_TH": "ไม่แน่ใจ", "coverTravelExpenses_EN": "Not sure" }
+  ],
+  "CL_10 ความถี่ในการท่องเที่ยวประเทศไทย": [
+    { "id": 1, "code": "FVT01", "frequencyOfVisitingThailand_TH": "เป็นครั้งแรก", "frequencyOfVisitingThailand_EN": "First time" },
+    { "id": 2, "code": "FVT02", "frequencyOfVisitingThailand_TH": "1-2 ครั้งต่อปี", "frequencyOfVisitingThailand_EN": "1-2 times per year" },
+    { "id": 3, "code": "FVT03", "frequencyOfVisitingThailand_TH": "3-4 ครั้งต่อปี", "frequencyOfVisitingThailand_EN": "3-4 times per year" },
+    { "id": 4, "code": "FVT04", "frequencyOfVisitingThailand_TH": "5-6 ครั้งต่อปี", "frequencyOfVisitingThailand_EN": "5-6 times per year" },
+    { "id": 5, "code": "FVT05", "frequencyOfVisitingThailand_TH": "มากกว่า 6 ครั้งต่อปี", "frequencyOfVisitingThailand_EN": "More than 6 times per year" },
+    { "id": 6, "code": "FVT06", "frequencyOfVisitingThailand_TH": "ไม่แน่นอน/ขึ้นอยู่กับโอกาส", "frequencyOfVisitingThailand_EN": "Irregular/depends on opportunity" }
+  ],
+  "CL_11 ความถี่ท่องเที่ยวไทยช่วงไตรมาสล่าสุด": [
+    { "id": 1, "code": "FPQ01", "frequencyPastQuarter_TH": "ไม่ได้เดินทาง", "frequencyPastQuarter_EN": "Did not travel" },
+    { "id": 2, "code": "FPQ02", "frequencyPastQuarter_TH": "1 ครั้ง", "frequencyPastQuarter_EN": "1 time" },
+    { "id": 3, "code": "FPQ03", "frequencyPastQuarter_TH": "2 ครั้ง", "frequencyPastQuarter_EN": "2 times" },
+    { "id": 4, "code": "FPQ04", "frequencyPastQuarter_TH": "3 ครั้ง", "frequencyPastQuarter_EN": "3 times" },
+    { "id": 5, "code": "FPQ05", "frequencyPastQuarter_TH": "มากกว่า 3 ครั้ง", "frequencyPastQuarter_EN": "More than 3 times" }
+  ],
+  "CL_12 สาเหตุที่ไม่ท่องเที่ยวไทยช่วงไตรมาสล่าสุด": [
+    { "id": 1, "code": "RNT01", "reasonNotTravel_TH": "ไม่มีเวลา", "reasonNotTravel_EN": "No time" },
+    { "id": 2, "code": "RNT02", "reasonNotTravel_TH": "ไม่มีงบประมาณ", "reasonNotTravel_EN": "No budget" },
+    { "id": 3, "code": "RNT03", "reasonNotTravel_TH": "ติดภาระงาน", "reasonNotTravel_EN": "Work obligations" },
+    { "id": 4, "code": "RNT04", "reasonNotTravel_TH": "ปัญหาสุขภาพ", "reasonNotTravel_EN": "Health issues" },
+    { "id": 5, "code": "RNT05", "reasonNotTravel_TH": "ปัญหาการเดินทาง", "reasonNotTravel_EN": "Transportation issues" },
+    { "id": 6, "code": "RNT06", "reasonNotTravel_TH": "สถานการณ์โควิด-19", "reasonNotTravel_EN": "COVID-19 situation" },
+    { "id": 7, "code": "RNT07", "reasonNotTravel_TH": "ไม่มีความสนใจ", "reasonNotTravel_EN": "No interest" },
+    { "id": 8, "code": "RNT08", "reasonNotTravel_TH": "อื่น ๆ", "reasonNotTravel_EN": "Others" }
+  ],
+  "CL_13 ความสำคัญของข้อมูล ททท. ในการวางแผน": [
+    { "id": 1, "code": "IMP01", "infoImportance_TH": "สำคัญน้อยที่สุด (1)", "infoImportance_EN": "Very Low Importance (1)" },
+    { "id": 2, "code": "IMP02", "infoImportance_TH": "สำคัญน้อย (2)", "infoImportance_EN": "Low Importance (2)" },
+    { "id": 3, "code": "IMP03", "infoImportance_TH": "สำคัญปานกลาง (3)", "infoImportance_EN": "Medium Importance (3)" },
+    { "id": 4, "code": "IMP04", "infoImportance_TH": "สำคัญมาก (4)", "infoImportance_EN": "High Importance (4)" },
+    { "id": 5, "code": "IMP05", "infoImportance_TH": "สำคัญมากที่สุด (5)", "infoImportance_EN": "Very High Importance (5)" }
+  ],
+  "CL_14 ความถี่ได้รับข้อมูลสื่อสารจาก ททท.": [
+    { "id": 1, "code": "FRC01", "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อวัน", "frequencyUsed_EN": "Once a day" },
+    { "id": 2, "code": "FRC02", "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อสัปดาห์", "frequencyUsed_EN": "Once a week" },
+    { "id": 3, "code": "FRC03", "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อเดือน", "frequencyUsed_EN": "Once a month" },
+    { "id": 4, "code": "FRC04", "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อไตรมาส", "frequencyUsed_EN": "Once a quarter" },
+    { "id": 5, "code": "FRC05", "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อปี", "frequencyUsed_EN": "Once a year" },
+    { "id": 6, "code": "FRC06", "frequencyUsed_TH": "ได้รับนาน ๆ ครั้ง", "frequencyUsed_EN": "Rarely" },
+    { "id": 7, "code": "FRC07", "frequencyUsed_TH": "ไม่เคยได้รับ", "frequencyUsed_EN": "Never" }
+  ],
+  "CL_15 ความถี่ใช้ข้อมูล ททท. ประกอบการตัดสินใจ": [
+    { "id": 1, "code": "FUI01", "frequencyUsed_TH": "ใช้ทุกครั้งที่วางแผนท่องเที่ยว", "frequencyUsed_EN": "Every time I plan travel" },
+    { "id": 2, "code": "FUI02", "frequencyUsed_TH": "ใช้บ่อย ๆ", "frequencyUsed_EN": "Frequently" },
+    { "id": 3, "code": "FUI03", "frequencyUsed_TH": "ใช้เป็นครั้งคราว", "frequencyUsed_EN": "Occasionally" },
+    { "id": 4, "code": "FUI04", "frequencyUsed_TH": "ใช้นาน ๆ ครั้ง", "frequencyUsed_EN": "Rarely" },
+    { "id": 5, "code": "FUI05", "frequencyUsed_TH": "ไม่เคยใช้", "frequencyUsed_EN": "Never use" }
+  ],
+  "CL_16 ระดับความเชื่อถือข้อมูล ททท.": [
+    { "id": 1, "code": "TRL01", "trustLevel_TH": "เชื่อถือน้อยที่สุด (1)", "trustLevel_EN": "Very Low Trust (1)" },
+    { "id": 2, "code": "TRL02", "trustLevel_TH": "เชื่อถือน้อย (2)", "trustLevel_EN": "Low Trust (2)" },
+    { "id": 3, "code": "TRL03", "trustLevel_TH": "เชื่อถือปานกลาง (3)", "trustLevel_EN": "Medium Trust (3)" },
+    { "id": 4, "code": "TRL04", "trustLevel_TH": "เชื่อถือมาก (4)", "trustLevel_EN": "High Trust (4)" },
+    { "id": 5, "code": "TRL05", "trustLevel_TH": "เชื่อถือมากที่สุด (5)", "trustLevel_EN": "Very High Trust (5)" }
+  ],
+  "CL_17 ความพึงพอใจต่อข้อมูล ททท.": [
+    { "id": 1, "code": "SAT01", "infoSatisfaction_TH": "พึงพอใจน้อยที่สุด (1)", "infoSatisfaction_EN": "Very Dissatisfied (1)" },
+    { "id": 2, "code": "SAT02", "infoSatisfaction_TH": "พึงพอใจน้อย (2)", "infoSatisfaction_EN": "Dissatisfied (2)" },
+    { "id": 3, "code": "SAT03", "infoSatisfaction_TH": "พึงพอใจปานกลาง (3)", "infoSatisfaction_EN": "Neutral (3)" },
+    { "id": 4, "code": "SAT04", "infoSatisfaction_TH": "พึงพอใจมาก (4)", "infoSatisfaction_EN": "Satisfied (4)" },
+    { "id": 5, "code": "SAT05", "infoSatisfaction_TH": "พึงพอใจมากที่สุด (5)", "infoSatisfaction_EN": "Very Satisfied (5)" }
+  ],
+  "CL_18 ความพึงพอใจต่อการบริการ ททท.": [
+    { "id": 1, "code": "SST01", "serviceSatisfaction_TH": "พึงพอใจน้อยที่สุด (1)", "serviceSatisfaction_EN": "Very Dissatisfied (1)" },
+    { "id": 2, "code": "SST02", "serviceSatisfaction_TH": "พึงพอใจน้อย (2)", "serviceSatisfaction_EN": "Dissatisfied (2)" },
+    { "id": 3, "code": "SST03", "serviceSatisfaction_TH": "พึงพอใจปานกลาง (3)", "serviceSatisfaction_EN": "Neutral (3)" },
+    { "id": 4, "code": "SST04", "serviceSatisfaction_TH": "พึงพอใจมาก (4)", "serviceSatisfaction_EN": "Satisfied (4)" },
+    { "id": 5, "code": "SST05", "serviceSatisfaction_TH": "พึงพอใจมากที่สุด (5)", "serviceSatisfaction_EN": "Very Satisfied (5)" }
+  ],
+  "CL_19 อิทธิพลด้านความยั่งยืนต่อการตัดสินใจ": [
+    { "id": 1, "code": "SIL01", "sustainabilityInfluence_TH": "มีอิทธิพลน้อยที่สุด (1)", "sustainabilityInfluence_EN": "Very Low Influence (1)" },
+    { "id": 2, "code": "SIL02", "sustainabilityInfluence_TH": "มีอิทธิพลน้อย (2)", "sustainabilityInfluence_EN": "Low Influence (2)" },
+    { "id": 3, "code": "SIL03", "sustainabilityInfluence_TH": "มีอิทธิพลปานกลาง (3)", "sustainabilityInfluence_EN": "Medium Influence (3)" },
+    { "id": 4, "code": "SIL04", "sustainabilityInfluence_TH": "มีอิทธิพลมาก (4)", "sustainabilityInfluence_EN": "High Influence (4)" },
+    { "id": 5, "code": "SIL05", "sustainabilityInfluence_TH": "มีอิทธิพลมากที่สุด (5)", "sustainabilityInfluence_EN": "Very High Influence (5)" }
+  ],
+  "CL_20 ช่องทางได้รับลิงก์แบบสอบถาม": [
+    { "id": 1, "code": "SRC01", "surveySource_TH": "ททท. สำนักงานภูมิภาคภาคกลาง", "surveySource_EN": "TAT Central Region Office" },
+    { "id": 2, "code": "SRC02", "surveySource_TH": "ททท. สำนักงานภูมิภาคภาคเหนือ", "surveySource_EN": "TAT Northern Region Office" },
+    { "id": 3, "code": "SRC03", "surveySource_TH": "ththt. สำนักงานภูมิภาคภาคใต้", "surveySource_EN": "TAT Southern Region Office" },
+    { "id": 4, "code": "SRC04", "surveySource_TH": "ththt. สำนักงานภูมิภาคภาคตะวันออกเฉียงเหนือ", "surveySource_EN": "TAT Northeastern Region Office" },
+    { "id": 5, "code": "SRC05", "surveySource_TH": "ththt. สำนักงานภูมิภาคภาคตะวันออก", "surveySource_EN": "TAT Eastern Region Office" },
+    { "id": 6, "code": "SRC06", "surveySource_TH": "เว็บไซต์ ththt.", "surveySource_EN": "TAT Website" },
+    { "id": 7, "code": "SRC07", "surveySource_TH": "โซเชียลมีเดีย ththt.", "surveySource_EN": "TAT Social Media" },
+    { "id": 8, "code": "SRC08", "surveySource_TH": "Email", "surveySource_EN": "Email" },
+    { "id": 9, "code": "SRC09", "surveySource_TH": "Google", "surveySource_EN": "Google Search" },
+    { "id": 10, "code": "SRC10", "surveySource_TH": "อื่น ๆ", "surveySource_EN": "Others" }
+  ]
+} 

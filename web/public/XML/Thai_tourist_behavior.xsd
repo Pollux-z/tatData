@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://www.tat.or.th/tourism/behavior"
+           xmlns:tat="https://www.tat.or.th/tourism/behavior"
+           elementFormDefault="qualified">
+
+    <!-- Root element for dataset -->
+    <xs:element name="TouristBehaviorDataset" type="tat:TouristBehaviorDatasetType"/>
+
+    <!-- Dataset Type -->
+    <xs:complexType name="TouristBehaviorDatasetType">
+        <xs:sequence>
+            <xs:element name="datasetName" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="demographicInformation" type="tat:demographicInformation" maxOccurs="unbounded"/>
+            <xs:element name="preTripBehavior" type="tat:preTripBehavior" maxOccurs="unbounded"/>
+            <xs:element name="duringTripBehavior" type="tat:duringTripBehavior" maxOccurs="unbounded"/>
+            <xs:element name="postTripBehavior" type="tat:postTripBehavior" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- DemographicInformation -->
+    <xs:complexType name="demographicInformation">
+        <xs:sequence>
+            <xs:element name="demographicClassId" type="xs:int"/>
+            <xs:element name="gender" type="xs:string"/>
+            <xs:element name="ageRange" type="xs:string"/>
+            <xs:element name="occupation" type="xs:string"/>
+            <xs:element name="incomeRange" type="xs:string"/>
+            <xs:element name="familyIncomeRange" type="xs:string"/>
+            <xs:element name="maritalStatus" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- PreTripBehavior -->
+    <xs:complexType name="preTripBehavior">
+        <xs:sequence>
+            <xs:element name="travelDistribution" type="xs:string"/>
+            <xs:element name="destinationProvince" type="xs:string"/>
+            <xs:element name="purpose" type="xs:string"/>
+            <xs:element name="travelPlanningLeadDays" type="xs:string" minOccurs="0"/>
+            <xs:element name="mainDecisionMaker" type="xs:string"/>
+            <xs:element name="travelManageMethod" type="xs:string"/>
+            <xs:element name="preTripInfoSearchCategory" type="xs:string"/>
+            <xs:element name="preTripInfoSearchChannel" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- DuringTripBehavior -->
+    <xs:complexType name="duringTripBehavior">
+        <xs:sequence>
+            <xs:element name="duringInfoSearchCategory" type="xs:string"/>
+            <xs:element name="duringInfoSearchChannel" type="xs:string"/>
+            <xs:element name="numberOfTravelDays" type="xs:string"/>
+            <xs:element name="avgNumberOfCompanions" type="xs:string"/>
+            <xs:element name="travelTimePeriod" type="xs:string"/>
+            <xs:element name="tripType" type="xs:string"/>
+            <xs:element name="accommodationType" type="xs:string"/>
+            <xs:element name="activity" type="xs:string"/>
+            <xs:element name="provincialAttraction" type="xs:string" minOccurs="0"/>
+            <xs:element name="avgExpense" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- PostTripBehavior -->
+    <xs:complexType name="postTripBehavior">
+        <xs:sequence>
+            <xs:element name="experienceSharing" type="xs:string"/>
+            <xs:element name="sharingTopic" type="xs:string"/>
+            <xs:element name="sharingChannel" type="xs:string"/>
+            <xs:element name="avgSatisfactionScore" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>

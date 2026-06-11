@@ -1,0 +1,435 @@
+{
+    "typeOfAccommodation": [
+        {
+            "ID": 1,
+            "code": "typA01",
+            "db": 1,
+            "typeofAccommodation": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "typA02",
+            "db": 2,
+            "typeofAccommodation": "รีสอร์ท"
+        },
+        {
+            "ID": 3,
+            "code": "typA03",
+            "db": 3,
+            "typeofAccommodation": "เกสท์เฮ้าส์"
+        },
+        {
+            "ID": 4,
+            "code": "typA04",
+            "db": 4,
+            "typeofAccommodation": "บังกะโล"
+        },
+        {
+            "ID": 5,
+            "code": "typA05",
+            "db": 5,
+            "typeofAccommodation": "โมเต็ล"
+        },
+        {
+            "ID": 6,
+            "code": "typA06",
+            "db": 6,
+            "typeofAccommodation": "เซอร์วิส อพาร์ทเมนท์"
+        },
+        {
+            "ID": 7,
+            "code": "typA07",
+            "db": 7,
+            "typeofAccommodation": "อพาร์ทเมนท์/แมนชั่น"
+        },
+        {
+            "ID": 8,
+            "code": "typA08",
+            "db": 8,
+            "typeofAccommodation": "แพ"
+        },
+        {
+            "ID": 9,
+            "code": "typA09",
+            "db": 9,
+            "typeofAccommodation": "โฮมสเตย์/เรือนพักแรม"
+        },
+        {
+            "ID": 10,
+            "code": "typA10",
+            "db": 10,
+            "typeofAccommodation": "บ้านพักเยาวชน"
+        },
+        {
+            "ID": 11,
+            "code": "typA11",
+            "db": 11,
+            "typeofAccommodation": "บ้านพักอุทยาน/ที่พักของหน่วยราชการ"
+        },
+        {
+            "ID": 13,
+            "code": "typA13",
+            "db": 13,
+            "typeofAccommodation": "บ้านพักรับรอง"
+        },
+        {
+            "ID": 99,
+            "code": "typA99",
+            "db": 99,
+            "typeofAccommodation": "อื่น ๆ"
+        }
+    ],
+    "priceLevel": [
+        {
+            "ID": 1,
+            "code": "priL01",
+            "db": 1,
+            "priceLevel": "กลุ่ม 1 ราคาตั้งแต่ 2500 บาทขึ้นไป"
+        },
+        {
+            "ID": 2,
+            "code": "priL02",
+            "db": 2,
+            "priceLevel": "กลุ่ม 2 ราคาตั้งแต่ 1500 - 2499 บาท"
+        },
+        {
+            "ID": 3,
+            "code": "priL03",
+            "db": 3,
+            "priceLevel": "กลุ่ม 3 ราคาตั้งแต่ 1000 - 1499 บาท"
+        },
+        {
+            "ID": 4,
+            "code": "priL04",
+            "db": 4,
+            "priceLevel": "กลุ่ม 4 ราคาตั้งแต่ 500 - 999 บาท"
+        },
+        {
+            "ID": 5,
+            "code": "priL05",
+            "db": 5,
+            "priceLevel": "กลุ่ม 5 ราคาน้อยกว่า 500 บาท"
+        },
+        {
+            "ID": 6,
+            "code": "priL06",
+            "db": 6,
+            "priceLevel": "ระบุราคา"
+        }
+    ],
+    "greenLeafStandard": [
+        {
+            "ID": 1,
+            "code": "greLS01",
+            "db": 1,
+            "greenLeafStandard": "ระดับ 1 ใบ"
+        },
+        {
+            "ID": 2,
+            "code": "greLS02",
+            "db": 2,
+            "greenLeafStandard": "ระดับ 2 ใบ"
+        },
+        {
+            "ID": 3,
+            "code": "greLS03",
+            "db": 3,
+            "greenLeafStandard": "ระดับ 3 ใบ"
+        },
+        {
+            "ID": 4,
+            "code": "greLS04",
+            "db": 4,
+            "greenLeafStandard": "ไม่เข้าร่วมการจัดมาตรฐาน"
+        }
+    ],
+    "companyChainHotels": [
+        {
+            "ID": 1,
+            "code": "comCH01",
+            "db": 1,
+            "companyChainHotels": "ไม่มีบริษัทในเครือ"
+        },
+        {
+            "ID": 2,
+            "code": "comCH01",
+            "db": 2,
+            "companyChainHotels": "เครือในประเทศ"
+        },
+        {
+            "ID": 3,
+            "code": "comCH01",
+            "db": 3,
+            "companyChainHotels": "เครือต่างประเทศ"
+        },
+        {
+            "ID": 4,
+            "code": "comCH01",
+            "db": 4,
+            "companyChainHotels": "เครือภายใน & ต่างประเทศ"
+        }
+    ],
+    "hotelCategory": [
+        {
+            "ID": 1,
+            "code": "hotMC01",
+            "db": 1,
+            "hotelCategory": "Boutique Hotel & Resorts"
+        },
+        {
+            "ID": 2,
+            "code": "hotMC02",
+            "db": 2,
+            "hotelCategory": "Green Hotels & Resorts"
+        },
+        {
+            "ID": 3,
+            "code": "hotMC03",
+            "db": 3,
+            "hotelCategory": "Honey Moon"
+        },
+        {
+            "ID": 4,
+            "code": "hotMC04",
+            "db": 4,
+            "hotelCategory": "Pool Villas"
+        },
+        {
+            "ID": 5,
+            "code": "hotMC05",
+            "db": 5,
+            "hotelCategory": "Indian Wedding"
+        },
+        {
+            "ID": 6,
+            "code": "hotMC06",
+            "db": 6,
+            "hotelCategory": "Elders/Families and Socially Challenged Guests"
+        }
+    ],
+    "touristContryGroup": [
+        {
+            "ID": 1,
+            "code": "touCG01",
+            "touristCountryGroup": "เอเชีย"
+        },
+        {
+            "ID": 2,
+            "code": "touCG02",
+            "touristCountryGroup": "เอเชียตะวันออกเฉียงเหนือ"
+        },
+        {
+            "ID": 3,
+            "code": "touCG03",
+            "touristCountryGroup": "เอเชียใต้"
+        },
+        {
+            "ID": 4,
+            "code": "touCG04",
+            "touristCountryGroup": "อเมริกา"
+        },
+        {
+            "ID": 5,
+            "code": "touCG05",
+            "touristCountryGroup": "ยุโรป"
+        },
+        {
+            "ID": 6,
+            "code": "touCG06",
+            "touristCountryGroup": "ยุโรปตะวันออก"
+        },
+        {
+            "ID": 7,
+            "code": "touCG07",
+            "touristCountryGroup": "ตะวันออกกลาง"
+        },
+        {
+            "ID": 8,
+            "code": "touCG08",
+            "touristCountryGroup": "แอฟริกา"
+        }
+    ],
+    "facility": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac03",
+            "db": 3,
+            "facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fac12",
+            "db": 12,
+            "facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 4,
+            "code": "fac13",
+            "db": 13,
+            "facility": "ร้านกาแฟ"
+        },
+        {
+            "ID": 5,
+            "code": "fac14",
+            "db": 14,
+            "facility": "ห้องน้ำผู้สูงอายุ"
+        },
+        {
+            "ID": 6,
+            "code": "fac15",
+            "db": 15,
+            "facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 7,
+            "code": "fac16",
+            "db": 16,
+            "facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 8,
+            "code": "fac17",
+            "db": 17,
+            "facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 9,
+            "code": "fac18",
+            "db": 18,
+            "facility": "อาหารเช้าแบบบุฟเฟต์"
+        },
+        {
+            "ID": 10,
+            "code": "fac19",
+            "db": 19,
+            "facility": "สระว่ายน้ำ"
+        },
+        {
+            "ID": 11,
+            "code": "fac20",
+            "db": 20,
+            "facility": "ฟิตเนส"
+        },
+        {
+            "ID": 12,
+            "code": "fac21",
+            "db": 21,
+            "facility": "บาร์/เลาจ์/ผับ"
+        },
+        {
+            "ID": 13,
+            "code": "fac22",
+            "db": 41,
+            "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "facilityService": [
+        {
+            "ID": 1,
+            "code": "facS01",
+            "db": 1,
+            "facilityService": "บริการซักรีด"
+        },
+        {
+            "ID": 2,
+            "code": "facS02",
+            "db": 2,
+            "facilityService": "Room Service 24 ชม."
+        },
+        {
+            "ID": 3,
+            "code": "facS03",
+            "db": 3,
+            "facilityService": "รถรับส่ง"
+        },
+        {
+            "ID": 4,
+            "code": "facS04",
+            "db": 4,
+            "facilityService": "รับฝากของ"
+        },
+        {
+            "ID": 5,
+            "code": "facS05",
+            "db": 5,
+            "facilityService": "แผนกต้อนรับ 24 ชม."
+        }
+    ],
+    "paymentChannel": [
+        {
+            "ID": 1,
+            "code": "payC01",
+            "paymentChannel": "VISA"
+        },
+        {
+            "ID": 2,
+            "code": "payc02",
+            "paymentChannel": "Master"
+        },
+        {
+            "ID": 3,
+            "code": "payC03",
+            "paymentChannel": "American Express"
+        },
+        {
+            "ID": 4,
+            "code": "payC04",
+            "paymentChannel": "Debit"
+        },
+        {
+            "ID": 5,
+            "code": "payC05",
+            "paymentChannel": "Cash"
+        }
+    ],
+    "accommodationStatus": [
+        {
+            "ID": 1,
+            "code": "accS01",
+            "Fixed code": 1,
+            "accommodationStatus": "เปิด"
+        },
+        {
+            "ID": 2,
+            "code": "accS02",
+            "Fixed code": 2,
+            "accommodationStatus": "ปิดปรับปรุง"
+        },
+        {
+            "ID": 3,
+            "code": "accS02",
+            "Fixed code": 3,
+            "accommodationStatus": "ปิดกิจการ"
+        }
+    ],
+    "countingNumber": [
+        {
+            "ID": 1,
+            "code": "countNO1",
+            "countingNumber": "สะสม"
+        },
+        {
+            "ID": 2,
+            "code": "countNO2",
+            "countingNumber": "ที่พักที่เพิ่มขึ้นระหว่างปี"
+        }
+    ],
+    "hotelBusinessLicense": [
+        {
+            "ID": 1,
+            "code": "hotelLi01",
+            "hotelBusinessLicense": "มี"
+        },
+        {
+            "ID": 2,
+            "code": "hoteli02",
+            "hotelBusinessLicense": "ไม่มี"
+        }
+    ]
+}

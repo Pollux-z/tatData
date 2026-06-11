@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    attributeFormDefault="Unqualified" elementFormDefault="qualified" >
+    <xs:element name="TravelActivity">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="activityName" type="xs: String"/> 
+                <xs:element name="eventSchedule"> 
+                    <xs:element name="startDate" type="xs: Date" /> 
+                    <xs:element name="endDate" type="xs: Date" /> 
+                    <xs:element name="openTime" type="xs: Time" /> 
+                    <xs:element name="closeTime" type="xs: Time" /> 
+                </xs:element name="eventSchedule"> 
+                <xs:element name="ownerContactInformation"> 
+                    <xs:element name="ownerName" type="xs: String" /> 
+                    <xs:element name="ownerTelephoneNumber" type="xs: String" /> 
+                    <xs:element name="ownerEmail" type="xs: String" /> 
+                </xs:element name="ownerContactInformation"> 
+                <xs:element name="targetGroup" type="xs: String" /> 
+                <xs:element name="specificTargetGroup" type="xs: String" /> 
+                <xs:element name="contactInformation"> 
+                    <xs:element name="addressDetail"> 
+                        <xs:element name="tatRegion" type="xs: String" /> 
+                        <xs:element name="address" type="xs: String" /> 
+                        <xs:element name="alley" type="xs: String" /> 
+                        <xs:element name="road" type="xs: String" /> 
+                        <xs:element name="subdistrict" type="xs: String" /> 
+                        <xs:element name="district" type="xs: String" /> 
+                        <xs:element name="province" type="xs: String" />
+                    </xs:element name="addressDetail"> 
+                    <xs:element name="contactChannel" > 
+                        <xs:element name="telephoneNumber" type="xs: String" /> 
+                        <xs:element name="email" type="xs: String" /> 
+                        <xs:element name="website" type="xs: String" /> 
+                        <xs:element name="facebook" type="xs: String" /> 
+                        <xs:element name="instragram" type="xs: String" /> 
+                        <xs:element name="line" type="xs: String" /> 
+                        <xs:element name="tiktok" type="xs: String" /> 
+                        <xs:element name="youtube" type="xs: String" /> 
+                    </xs:element name="contactChannel"> 
+                </xs:element name="contactInformation"> 
+                <xs:element name="activityType" type="xs: String" /> 
+                <xs:element name="maxNumOfAttendee" type="xs: Integer" /> 
+                <xs:element name="activityScope" type="xs: String" /> 
+                <xs:element name="operation" type="xs: String" /> 
+                <xs:element name="activityObjective" type="xs: String" /> 
+                <xs:element name="sourceOfInformation" type="xs: String" /> 
+                <xs:element name="background" type="xs: String" /> 
+                <xs:element name="bookingLink" type="xs: String" />
+                <xs:element name="ticketPrice" > 
+                    <xs:element name="ticketPriceThaiAdult" type="xs: Integer" />
+                    <xs:element name="ticketPriceThaiChild" type="xs: Integer" />
+                    <xs:element name="ticketPriceForeignerAdult" type="xs: Integer" /> 
+                    <xs:element name="ticketPriceForeignerChild" type="xs: Integer" /> 
+                </xs:element name="ticketPrice" > 
+                <xs:element name="remark" type="xs: String" /> 
+                <xs:element name="activityDetail" > 
+                    <xs:element name="activityDetailThai" type="xs: String" /> 
+                    <xs:element name="activityDetailEnglish" type="xs: String" /> 
+                </xs:element name="activityDetail" > 
+                <xs:element name="marketingArticle" type="xs: String" /> 
+                <xs:element name="picture" type="xs: Object" /> 
+                <xs:element name="video" type="xs: Object" /> 
+                <xs:element name="attachedDocument" type="xs: Object" /> 
+                <xs:element name="gpsLocation"> 
+                    <xs:element name="latitude" type="xs: Double" /> 
+                    <xs:element name="longitude" type="xs: Double" /> 
+                </xs:element name="gpsLocation"> 
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+

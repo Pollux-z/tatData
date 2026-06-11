@@ -1,0 +1,106 @@
+{
+    "tatRegion": [
+        {
+            "ID": "1",
+            "code": "reg01",
+            "tatRegion": "ภาคกลาง"
+        },
+        {
+            "ID": "2",
+            "code": "reg02",
+            "tatRegion": "ภาคตะวันออก"
+        },
+        {
+            "ID": "3",
+            "code": "reg03",
+            "tatRegion": "ภาคเหนือ"
+        },
+        {
+            "ID": "4",
+            "code": "reg04",
+            "tatRegion": "ภาคตะวันออกเฉียงเหนือ"
+        },
+        {
+            "ID": "5",
+            "code": "reg05",
+            "tatRegion": "ภาคใต้"
+        }
+    ],
+    "activityType": [
+        {
+            "ID": 1,
+            "code": "actT01",
+            "activityType": "การท่องเที่ยวเชิงศิลปวัฒนธรรม (Cultural Tourism)"
+        },
+        {
+            "ID": 2,
+            "code": "actT02",
+            "activityType": "การท่องเที่ยวเชิงศาสนา (Religious Tourism)"
+        },
+        {
+            "ID": 3,
+            "code": "actT03",
+            "activityType": "การท่องเที่ยวเชิงนิเวศ (Ecotourism)"
+        },
+        {
+            "ID": 4,
+            "code": "actT04",
+            "activityType": "การท่องเที่ยวเชิงเกษตร (Agrotourism)"
+        },
+        {
+            "ID": 5,
+            "code": "actT05",
+            "activityType": "การท่องเที่ยวเชิงผจญภัย (Adventure tourism)"
+        },
+        {
+            "ID": 6,
+            "code": "actT06",
+            "activityType": "การท่องเที่ยวเชิงกีฬา (Sports tourism)"
+        },
+        {
+            "ID": 7,
+            "code": "actT07",
+            "activityType": "การท่องเที่ยวเชิงสุขภาพและความงาม (Health tourism)"
+        },
+        {
+            "ID": 8,
+            "code": "actT08",
+            "activityType": "การท่องเที่ยวเชิงอาสาสมัคร (Volunteer tourism)"
+        },
+        {
+            "ID": 9,
+            "code": "actT09",
+            "activityType": "การท่องเที่ยวเชิงธุรกิจ (Business tourism)"
+        },
+        {
+            "ID": 10,
+            "code": "actT10",
+            "activityType": "การท่องเที่ยวเพื่อการศึกษา (Education tourism)"
+        },
+        {
+            "ID": 11,
+            "code": "actT11",
+            "activityType": "การท่องเที่ยววิถีเมือง (Urban/ city tourism)"
+        },
+        {
+            "ID": 12,
+            "code": "actT12",
+            "activityType": "งานดนตรี (Music festival)"
+        },
+        {
+            "ID": 13,
+            "code": "actT13",
+            "activityType": "งานเฉลิมพระเกียรติสดุดีวีรชนและเหตุการณ์สำคัญ (Celebration honors national heroes & important events)"
+        },
+        {
+            "ID": 14,
+            "code": "actT14",
+            "activityType": "เทศกาลอาหาร (Food festival)"
+        },
+        {
+            "ID": 15,
+            "code": "actT15",
+            "activityType": "อื่น ๆ (etc.)"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+  "รหัสเพศ (CLS_GENDER)": [
+    { "id": 1, "code": "01", "gender_th": "ชาย" },
+    { "id": 2, "code": "02", "gender_th": "หญิง" },
+    { "id": 3, "code": "03", "gender_th": "อื่นๆ" },
+    { "id": 4, "code": "99", "gender_th": "ไม่ระบุ" }
+  ],
+  "รหัสช่วงอายุ (CLS_AGE_RANGE)": [
+    { "id": 1, "code": "01", "age_range_th": "15-17 ปี" },
+    { "id": 2, "code": "02", "age_range_th": "18-24 ปี" },
+    { "id": 3, "code": "03", "age_range_th": "25-34 ปี" },
+    { "id": 4, "code": "04", "age_range_th": "35-44 ปี" },
+    { "id": 5, "code": "05", "age_range_th": "45-54 ปี" },
+    { "id": 6, "code": "06", "age_range_th": "55-64 ปี" },
+    { "id": 7, "code": "07", "age_range_th": "65 ปีขึ้นไป" }
+  ],
+  "รหัสอาชีพ (CLS_OCCUPATION)": [
+    { "id": 1, "code": "01", "occupation_th": "ข้าราชการ/รัฐวิสาหกิจ" },
+    { "id": 2, "code": "02", "occupation_th": "พนักงานบริษัทเอกชน" },
+    { "id": 3, "code": "03", "occupation_th": "เจ้าของธุรกิจ/ประกอบธุรกิจส่วนตัว" },
+    { "id": 4, "code": "04", "occupation_th": "ค้าขาย" },
+    { "id": 5, "code": "05", "occupation_th": "เกษตรกร/ประมง/ปศุสัตว์" },
+    { "id": 6, "code": "06", "occupation_th": "นักเรียน/นักศึกษา" },
+    { "id": 7, "code": "07", "occupation_th": "แม่บ้าน/พ่อบ้าน" },
+    { "id": 8, "code": "08", "occupation_th": "เกษียณ" },
+    { "id": 9, "code": "09", "occupation_th": "ว่างงาน" },
+    { "id": 10, "code": "10", "occupation_th": "แรงงาน" },
+    { "id": 11, "code": "11", "occupation_th": "ฟรีแลนซ์" },
+    { "id": 12, "code": "12", "occupation_th": "อาชีพอิสระ" },
+    { "id": 13, "code": "99", "occupation_th": "อื่นๆ" }
+  ],
+  "รหัสช่วงรายได้ (CLS_INCOME_RANGE)": [
+    { "id": 1, "code": "01", "income_range_th": "ต่ำกว่า 15,000" },
+    { "id": 2, "code": "02", "income_range_th": "15,001-30,000" },
+    { "id": 3, "code": "03", "income_range_th": "30,001-50,000" },
+    { "id": 4, "code": "04", "income_range_th": "50,001-70,000" },
+    { "id": 5, "code": "05", "income_range_th": "70,001-100,000" },
+    { "id": 6, "code": "06", "income_range_th": "100,001-150,000" },
+    { "id": 7, "code": "07", "income_range_th": "150,001-200,000" },
+    { "id": 8, "code": "08", "income_range_th": "มากกว่า 200,000" },
+    { "id": 9, "code": "99", "income_range_th": "ไม่ระบุ" }
+  ],
+  "รหัสช่วงรายได้ครอบครัว (CLS_FAMILY_INCOME_RANGE)": [
+    { "id": 1, "code": "01", "household_income_range_th": "ต่ำกว่า 20,000" },
+    { "id": 2, "code": "02", "household_income_range_th": "20,001-40,000" },
+    { "id": 3, "code": "03", "household_income_range_th": "40,001-60,000" },
+    { "id": 4, "code": "04", "household_income_range_th": "60,001-80,000" },
+    { "id": 5, "code": "05", "household_income_range_th": "80,001-120,000" },
+    { "id": 6, "code": "06", "household_income_range_th": "120,001-160,000" },
+    { "id": 7, "code": "07", "household_income_range_th": "160,001-200,000" },
+    { "id": 8, "code": "08", "household_income_range_th": "มากกว่า 200,000" },
+    { "id": 9, "code": "99", "household_income_range_th": "ไม่ระบุ" }
+  ],
+  "รหัสสถานภาพสมรส (CLS_MARITAL_STATUS)": [
+    { "id": 1, "code": "01", "marital_status_th": "โสด" },
+    { "id": 2, "code": "02", "marital_status_th": "สมรส" },
+    { "id": 3, "code": "03", "marital_status_th": "หม้าย" },
+    { "id": 4, "code": "04", "marital_status_th": "หย่า/แยกกันอยู่" },
+    { "id": 5, "code": "05", "marital_status_th": "อยู่ด้วยกันโดยไม่จดทะเบียน" },
+    { "id": 6, "code": "99", "marital_status_th": "ไม่ระบุ" }
+  ],
+  "รหัสประเภทที่พัก (CLS_ACCOMMODATION_TYPE)": [
+    { "id": 1, "code": "01", "accommodation_type_th": "โรงแรม" },
+    { "id": 2, "code": "02", "accommodation_type_th": "รีสอร์ท" },
+    { "id": 3, "code": "03", "accommodation_type_th": "โฮมสเตย์" },
+    { "id": 4, "code": "04", "accommodation_type_th": "เกสต์เฮาส์" },
+    { "id": 5, "code": "05", "accommodation_type_th": "บ้านพักคนรู้จัก/ญาติ" },
+    { "id": 6, "code": "06", "accommodation_type_th": "บังกะโล" },
+    { "id": 7, "code": "07", "accommodation_type_th": "อพาร์ตเมนต์" },
+    { "id": 8, "code": "08", "accommodation_type_th": "เต็นท์/แคมป์ปิ้ง" },
+    { "id": 9, "code": "09", "accommodation_type_th": "เรือนไทย" },
+    { "id": 10, "code": "10", "accommodation_type_th": "คอนโด/เซอร์วิส อพาร์ตเมนต์" },
+    { "id": 11, "code": "11", "accommodation_type_th": "โฮสเทล" },
+    { "id": 12, "code": "12", "accommodation_type_th": "บูติกโฮเทล" },
+    { "id": 13, "code": "99", "accommodation_type_th": "อื่นๆ" }
+  ]
+} 

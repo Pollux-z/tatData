@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified">
+
+  <!-- Root element -->
+  <xs:element name="standardizedProductDataset">
+    <xs:complexType>
+      <xs:sequence>
+
+        <!-- รายการสินค้าหลายรายการได้ -->
+        <xs:element name="standardizedProduct" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+
+              <!-- รหัสมาตรฐานสินค้า -->
+              <xs:element name="productStandardCode" type="xs:string" minOccurs="0"/>
+
+              <!-- รายละเอียดสินค้า -->
+              <xs:element name="productDetail" type="xs:string" minOccurs="0"/>
+
+              <!-- ข้อมูลผู้ประกอบการ -->
+              <xs:element name="vendor" minOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="firmNameThai" type="xs:string" minOccurs="1"/>
+                    <xs:element name="firmNameEnglish" type="xs:string" minOccurs="0"/>
+                    <xs:element name="firmType" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- ข้อมูลติดต่อ -->
+              <xs:element name="contactInformation" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+
+                    <!-- รายละเอียดที่อยู่ -->
+                    <xs:element name="addressDetail" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="address" type="xs:string" minOccurs="1"/>
+                          <xs:element name="alley" type="xs:string" minOccurs="0"/>
+                          <xs:element name="road" type="xs:string" minOccurs="0"/>
+                          <xs:element name="subdistrict" type="xs:string" minOccurs="1"/>
+                          <xs:element name="district" type="xs:string" minOccurs="1"/>
+                          <xs:element name="province" type="xs:string" minOccurs="1"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                    <!-- ช่องทางการติดต่อ -->
+                    <xs:element name="contactChannel" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="telephoneNumber" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                          <xs:element name="faxNumber" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                          <xs:element name="website" type="xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
+                          <xs:element name="facebook" type="xs:anyURI" minOccurs="0" maxOccurs="unbounded"/>
+                          <xs:element name="email" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- เวลาทำการ -->
+              <xs:element name="businessHour" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="businessDay" type="xs:string" minOccurs="0"/>
+                    <xs:element name="openTime" type="xs:time" minOccurs="0"/>
+                    <xs:element name="closeTime" type="xs:time" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- การรับรองมาตรฐาน -->
+              <xs:element name="certifications" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+
+                    <!-- SHA -->
+                    <xs:element name="sha" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="shaNumber" type="xs:string" minOccurs="1"/>
+                          <xs:element name="shaType" type="xs:string" minOccurs="1"/>
+                          <xs:element name="issueDate" type="xs:date" minOccurs="0"/>
+                          <xs:element name="expiryDate" type="xs:date" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                    <!-- Sustainable Tourism Goals -->
+                    <xs:element name="stgs" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="isCertified" type="xs:boolean" minOccurs="1"/>
+                          <xs:element name="level" type="xs:string" minOccurs="0"/>
+                          <xs:element name="certificationDate" type="xs:date" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                    <!-- STAR Rating -->
+                    <xs:element name="starRating" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="stars" type="xs:integer" minOccurs="1"/>
+                          <xs:element name="issuingBody" type="xs:string" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                    <!-- Carbon Footprint Hotel -->
+                    <xs:element name="cfHotel" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="isCertified" type="xs:boolean" minOccurs="1"/>
+                          <xs:element name="carbonFootprintValue" type="xs:float" minOccurs="0"/>
+                          <xs:element name="year" type="xs:integer" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+              <!-- รางวัล -->
+              <xs:element name="awards" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ttaAward" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="awardNameThai" type="xs:string" minOccurs="1"/>
+                          <xs:element name="awardNameEnglish" type="xs:string" minOccurs="0"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

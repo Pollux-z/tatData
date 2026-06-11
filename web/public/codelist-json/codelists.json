@@ -1,0 +1,5384 @@
+{
+    "หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)": [
+        {
+            "ID": 1,
+            "code": 100000,
+            "workUnit": "ผู้ว่าการ",
+            "workUnitEnglish": "Offices under the Governor"
+        },
+        {
+            "ID": 2,
+            "code": 110000,
+            "workUnit": "สำนักผู้ว่าการ",
+            "workUnitEnglish": "Office of the Governor"
+        },
+        {
+            "ID": 3,
+            "code": 110100,
+            "workUnit": "กองเลขานุการและวิเทศสัมพันธ์",
+            "workUnitEnglish": "Secretariat and International Relations Division"
+        },
+        {
+            "ID": 4,
+            "code": 110101,
+            "workUnit": "งานเลขานการ",
+            "workUnitEnglish": "Secretarial Work Section"
+        },
+        {
+            "ID": 5,
+            "code": 110102,
+            "workUnit": "งานสนับสนุนวิชาการ",
+            "workUnitEnglish": "Academic Work and General Work Section"
+        },
+        {
+            "ID": 6,
+            "code": 110103,
+            "workUnit": "ประสานงานทั่วไป",
+            "workUnitEnglish": "International Relations Section"
+        },
+        {
+            "ID": 7,
+            "code": 110104,
+            "workUnit": "งานความร่วมมือระหว่างประเทศ",
+            "workUnitEnglish": "Internal Communications Section"
+        },
+        {
+            "ID": 8,
+            "code": 110200,
+            "workUnit": "งานสื่อสารภายใน",
+            "workUnitEnglish": "Organizational Sustainability Division"
+        },
+        {
+            "ID": 9,
+            "code": 110201,
+            "workUnit": "กองบริหารความยั่งยืน",
+            "workUnitEnglish": "Corporate Governance Section"
+        },
+        {
+            "ID": 10,
+            "code": 110202,
+            "workUnit": "งานกิจกรรมเพื่อสังคม",
+            "workUnitEnglish": "Corporate Social Responsibility Section"
+        },
+        {
+            "ID": 11,
+            "code": 110203,
+            "workUnit": "งานนวัตกรรมองค์กร",
+            "workUnitEnglish": "Corporate Innovation Section"
+        },
+        {
+            "ID": 12,
+            "code": 120000,
+            "workUnit": "ฝ่ายตรวจสอบภายใน",
+            "workUnitEnglish": "Internal Audit Office"
+        },
+        {
+            "ID": 13,
+            "code": 120100,
+            "workUnit": "กองตรวจสอบส่วนกลาง",
+            "workUnitEnglish": "Head Office Audit Division"
+        },
+        {
+            "ID": 14,
+            "code": 120101,
+            "workUnit": "งานประชุมคณะกรรมการตรวจสอบ",
+            "workUnitEnglish": "Auditors' Conference Section"
+        },
+        {
+            "ID": 15,
+            "code": 120102,
+            "workUnit": "งานตรวจสอบการเงิน",
+            "workUnitEnglish": "Financial Audit Section"
+        },
+        {
+            "ID": 16,
+            "code": 120103,
+            "workUnit": "งานตรวจสอบการดำเนินการและดิจิทัล",
+            "workUnitEnglish": "Performance and Digital Audit Section"
+        },
+        {
+            "ID": 17,
+            "code": 120200,
+            "workUnit": "กองตรวจสอบสำนักงานสาขา",
+            "workUnitEnglish": "Branch Offices Audit Division"
+        },
+        {
+            "ID": 18,
+            "code": 120201,
+            "workUnit": "งานตรวจสอบสำนักงานในประเทศ",
+            "workUnitEnglish": "Domestic Offices Audit Section"
+        },
+        {
+            "ID": 19,
+            "code": 120202,
+            "workUnit": "งานตรวจสอบสำนักงานต่างประเทศ",
+            "workUnitEnglish": "Overseas Offices Audit Section"
+        },
+        {
+            "ID": 20,
+            "code": 200000,
+            "workUnit": "บริหาร",
+            "workUnitEnglish": "Offices under the deputy Governor for Administration"
+        },
+        {
+            "ID": 21,
+            "code": 200100,
+            "workUnit": "กลุ่มงานอำนวยการด้านบริหาร",
+            "workUnitEnglish": "Administration Group"
+        },
+        {
+            "ID": 22,
+            "code": 210000,
+            "workUnit": "ฝ่ายบริหารทั่วไป",
+            "workUnitEnglish": "General Administration Department"
+        },
+        {
+            "ID": 23,
+            "code": 210100,
+            "workUnit": "กองกลาง",
+            "workUnitEnglish": "General Affairs Division"
+        },
+        {
+            "ID": 24,
+            "code": 210101,
+            "workUnit": "งานสารบรรณและรับส่ง",
+            "workUnitEnglish": "Document Management and Dispatch Section"
+        },
+        {
+            "ID": 25,
+            "code": 210102,
+            "workUnit": "งานเอกสารภาษาต่างประเทศ",
+            "workUnitEnglish": "Translation and Correspondence Section"
+        },
+        {
+            "ID": 26,
+            "code": 210103,
+            "workUnit": "งานประชุมคณะกรรมการ",
+            "workUnitEnglish": "Conference Work Section"
+        },
+        {
+            "ID": 27,
+            "code": 210200,
+            "workUnit": "กองกฎหมายและระเบียบ",
+            "workUnitEnglish": "Legal Affairs and Regulations Division"
+        },
+        {
+            "ID": 28,
+            "code": 210201,
+            "workUnit": "งานปรึกษาด้านกฎหมาย",
+            "workUnitEnglish": "Legal Affairs Section"
+        },
+        {
+            "ID": 29,
+            "code": 210202,
+            "workUnit": "งานข้อบังคับและระเบียบ",
+            "workUnitEnglish": "Regulations Section"
+        },
+        {
+            "ID": 30,
+            "code": 210203,
+            "workUnit": "งานกำกับกฎหมายและระเบียบ",
+            "workUnitEnglish": "Lega l& Regulation Compliance Sec"
+        },
+        {
+            "ID": 31,
+            "code": 210300,
+            "workUnit": "กองนิติกรรมและคดี",
+            "workUnitEnglish": "Juristic Acts and Litigation Division"
+        },
+        {
+            "ID": 32,
+            "code": 210301,
+            "workUnit": "งานนิติกรรมสัญญา",
+            "workUnitEnglish": "Juristic Acts and Contracts Section"
+        },
+        {
+            "ID": 33,
+            "code": 210302,
+            "workUnit": "งานคดี",
+            "workUnitEnglish": "Litigation Section"
+        },
+        {
+            "ID": 34,
+            "code": 210303,
+            "workUnit": "งานวินัย",
+            "workUnitEnglish": "Disciplinary Section"
+        },
+        {
+            "ID": 35,
+            "code": 210400,
+            "workUnit": "กองบริหารจัดซื้อจัดจ้าง",
+            "workUnitEnglish": "Procurement and Supply Management Division"
+        },
+        {
+            "ID": 36,
+            "code": 210401,
+            "workUnit": "งานบริหารพัสดุ",
+            "workUnitEnglish": "Supply Management Section"
+        },
+        {
+            "ID": 37,
+            "code": 210402,
+            "workUnit": "งานจัดซื้อ",
+            "workUnitEnglish": "Purchasing Section"
+        },
+        {
+            "ID": 38,
+            "code": 210403,
+            "workUnit": "งานจัดจ้าง",
+            "workUnitEnglish": "Hiring Section"
+        },
+        {
+            "ID": 39,
+            "code": 210500,
+            "workUnit": "กองอาคารสถานที่",
+            "workUnitEnglish": "Property Division"
+        },
+        {
+            "ID": 40,
+            "code": 210501,
+            "workUnit": "งานวิศวกรรม",
+            "workUnitEnglish": "Engineering Section"
+        },
+        {
+            "ID": 41,
+            "code": 210502,
+            "workUnit": "งานซ่อมบำรุง",
+            "workUnitEnglish": "Maintenance Section"
+        },
+        {
+            "ID": 42,
+            "code": 210503,
+            "workUnit": "งานสถาปัตยกรรม",
+            "workUnitEnglish": "Architectural Section"
+        },
+        {
+            "ID": 43,
+            "code": 210504,
+            "workUnit": "งานอาคารสถานที่และยานพาหนะ",
+            "workUnitEnglish": "Household and Transportation Section"
+        },
+        {
+            "ID": 44,
+            "code": 220000,
+            "workUnit": "ฝ่ายทรัพยากรบุคคล",
+            "workUnitEnglish": "Human Resources Department"
+        },
+        {
+            "ID": 45,
+            "code": 220100,
+            "workUnit": "กองบริหารงานบุคคล",
+            "workUnitEnglish": "Personnel Division"
+        },
+        {
+            "ID": 46,
+            "code": 220101,
+            "workUnit": "งานกลยุทธ์บริหารทรัพยากรบุคคล",
+            "workUnitEnglish": "Personnel Records Section"
+        },
+        {
+            "ID": 47,
+            "code": 220102,
+            "workUnit": "งานบรรจุและแต่งตั้ง",
+            "workUnitEnglish": "Personnel Management Section"
+        },
+        {
+            "ID": 48,
+            "code": 220103,
+            "workUnit": "งานข้อมูลบุคลากร",
+            "workUnitEnglish": "Personnel Records Section"
+        },
+        {
+            "ID": 49,
+            "code": 220104,
+            "workUnit": "งานติดตามและประเมินผลด้าน",
+            "workUnitEnglish": "HR Oper Monitor & Evaluate Sec"
+        },
+        {
+            "ID": 50,
+            "code": 220200,
+            "workUnit": "ทรัพยากรบุคคล",
+            "workUnitEnglish": "Personnel Development Division"
+        },
+        {
+            "ID": 51,
+            "code": 220201,
+            "workUnit": "งานวางแผนการพัฒนาบุคลากร",
+            "workUnitEnglish": "Personnel Development Planning Section"
+        },
+        {
+            "ID": 52,
+            "code": 220202,
+            "workUnit": "งานบริหารการฝึกอบรม",
+            "workUnitEnglish": "Training Management Section"
+        },
+        {
+            "ID": 53,
+            "code": 220203,
+            "workUnit": "งานบริหารจัดการความรู้",
+            "workUnitEnglish": "Knowledge Management Section"
+        },
+        {
+            "ID": 54,
+            "code": 220300,
+            "workUnit": "กองสวัสดิการและบุคลากรสัมพันธ์",
+            "workUnitEnglish": "Welfare and Personnel Relations Division"
+        },
+        {
+            "ID": 55,
+            "code": 220301,
+            "workUnit": "งานบริการสวัสดิการ",
+            "workUnitEnglish": "Welfare Services Section"
+        },
+        {
+            "ID": 56,
+            "code": 220302,
+            "workUnit": "งานกิจการสัมพันธ์",
+            "workUnitEnglish": "Affairs Relations Section"
+        },
+        {
+            "ID": 57,
+            "code": 220303,
+            "workUnit": "งานค่าตอบแทน กองทุนและ",
+            "workUnitEnglish": "Funds and Fringe Benefits Section"
+        },
+        {
+            "ID": 58,
+            "code": 230000,
+            "workUnit": "ประโยชน์เกื้อกูล",
+            "workUnitEnglish": "Budget and Accounting Department"
+        },
+        {
+            "ID": 59,
+            "code": 230100,
+            "workUnit": "ฝ่ายบัญชีและงบประมาณ",
+            "workUnitEnglish": "Accounting Division"
+        },
+        {
+            "ID": 60,
+            "code": 230101,
+            "workUnit": "กองบัญชี",
+            "workUnitEnglish": "General Accounting Section"
+        },
+        {
+            "ID": 61,
+            "code": 230102,
+            "workUnit": "งานบัญชีสาขาในประเทศ",
+            "workUnitEnglish": "Domestic Office Accounting Section"
+        },
+        {
+            "ID": 62,
+            "code": 230103,
+            "workUnit": "งานบัญชีสาขาต่างประเทศ",
+            "workUnitEnglish": "Overseas Office Accounting Section"
+        },
+        {
+            "ID": 63,
+            "code": 230104,
+            "workUnit": "งานบัญชีลูกหนี้",
+            "workUnitEnglish": "Accounts Receivable Section"
+        },
+        {
+            "ID": 64,
+            "code": 230200,
+            "workUnit": "กองงบประมาณ",
+            "workUnitEnglish": "Budget Analysis Division"
+        },
+        {
+            "ID": 65,
+            "code": 230201,
+            "workUnit": "งานจัดทำงบประมาณ",
+            "workUnitEnglish": "Budget Section"
+        },
+        {
+            "ID": 66,
+            "code": 230202,
+            "workUnit": "งานควบคุมงบประมาณ",
+            "workUnitEnglish": "Budget Control Section"
+        },
+        {
+            "ID": 67,
+            "code": 230203,
+            "workUnit": "งานรายงานงบประมาณ",
+            "workUnitEnglish": "Budget Report Section"
+        },
+        {
+            "ID": 68,
+            "code": 240000,
+            "workUnit": "ฝ่ายการเงิน",
+            "workUnitEnglish": "Finance Department"
+        },
+        {
+            "ID": 69,
+            "code": 240100,
+            "workUnit": "กองตรวจจ่าย",
+            "workUnitEnglish": "Payment Audit Division"
+        },
+        {
+            "ID": 70,
+            "code": 240101,
+            "workUnit": "งานตรวจจ่ายภายใน",
+            "workUnitEnglish": "Internal Payment Audit Section"
+        },
+        {
+            "ID": 71,
+            "code": 240102,
+            "workUnit": "งานตรวจจ่ายภายนอก",
+            "workUnitEnglish": "External Payment Audit Section"
+        },
+        {
+            "ID": 72,
+            "code": 240103,
+            "workUnit": "งานตรวจจ่ายลูกหนี้เงินยืมทดลอง",
+            "workUnitEnglish": "Advance Payment Audit Section"
+        },
+        {
+            "ID": 73,
+            "code": 240200,
+            "workUnit": "กองการเงิน",
+            "workUnitEnglish": "Finance Division"
+        },
+        {
+            "ID": 74,
+            "code": 240201,
+            "workUnit": "งานการเงินภายใน",
+            "workUnitEnglish": "Internal Cashier Section"
+        },
+        {
+            "ID": 75,
+            "code": 240202,
+            "workUnit": "งานการเงินภายนอก",
+            "workUnitEnglish": "External Cashier Section"
+        },
+        {
+            "ID": 76,
+            "code": 240203,
+            "workUnit": "งานฎีกา",
+            "workUnitEnglish": "Budget Reimbursement Section"
+        },
+        {
+            "ID": 77,
+            "code": 240300,
+            "workUnit": "กองรายได้",
+            "workUnitEnglish": "Revenue Division"
+        },
+        {
+            "ID": 78,
+            "code": 240301,
+            "workUnit": "งานจำหน่ายและจัดเก็บรายได้",
+            "workUnitEnglish": "Revenue Collection Section"
+        },
+        {
+            "ID": 79,
+            "code": 240303,
+            "workUnit": "งานควบคุมรายได้",
+            "workUnitEnglish": "Revenue Control Section"
+        },
+        {
+            "ID": 80,
+            "code": 300000,
+            "workUnit": "นโยบายและแผน",
+            "workUnitEnglish": "Offices under the Deputy Governor for Policy and Planning"
+        },
+        {
+            "ID": 81,
+            "code": 300100,
+            "workUnit": "กลุ่มงานอำนวยการด้านนโยบายและแผน",
+            "workUnitEnglish": "Policy and Planning Group"
+        },
+        {
+            "ID": 82,
+            "code": 310000,
+            "workUnit": "ฝ่ายวางแผน",
+            "workUnitEnglish": "Planning Department"
+        },
+        {
+            "ID": 83,
+            "code": 310101,
+            "workUnit": "งานแผนวิสาหกิจ",
+            "workUnitEnglish": "Corporate Planning Section"
+        },
+        {
+            "ID": 84,
+            "code": 310103,
+            "workUnit": "งานแผนพัฒนาองค์กร",
+            "workUnitEnglish": "Corporate Develop & Planning Sec"
+        },
+        {
+            "ID": 85,
+            "code": 310200,
+            "workUnit": "กองแผนนโยบาย",
+            "workUnitEnglish": "Policy Planning Division"
+        },
+        {
+            "ID": 86,
+            "code": 310200,
+            "workUnit": "กองกลยุทธ์การตลาด",
+            "workUnitEnglish": "Marketing Strategy Division"
+        },
+        {
+            "ID": 87,
+            "code": 310201,
+            "workUnit": "งานวิเคราะห์ตลาดในประเทศ",
+            "workUnitEnglish": "Domestic Marketing Analysis Section"
+        },
+        {
+            "ID": 88,
+            "code": 310202,
+            "workUnit": "งานแผนบริหารองค์กร",
+            "workUnitEnglish": "Administrative Planning Section"
+        },
+        {
+            "ID": 89,
+            "code": 310202,
+            "workUnit": "งานวิเคราะห์ตลาดต่างประเทศ",
+            "workUnitEnglish": "Overseas Marketing Analysis Section"
+        },
+        {
+            "ID": 90,
+            "code": 310203,
+            "workUnit": "งานกลยุทธ์ตลาดในประเทศ",
+            "workUnitEnglish": "Domestic Marketing Strategy Section"
+        },
+        {
+            "ID": 91,
+            "code": 310204,
+            "workUnit": "งานกลยุทธ์ตลาดต่างประเทศ",
+            "workUnitEnglish": "Overseas Marketing Strategy Section"
+        },
+        {
+            "ID": 92,
+            "code": 320101,
+            "workUnit": "งานบริหารความเสี่ยงการบริหารองค์กร",
+            "workUnitEnglish": "Administrative Risk Management Section"
+        },
+        {
+            "ID": 93,
+            "code": 320102,
+            "workUnit": "งานบริหารความเสี่ยงตลาดในประเทศ",
+            "workUnitEnglish": "Domestic Marketing Risk Management Section"
+        },
+        {
+            "ID": 94,
+            "code": 320103,
+            "workUnit": "งานบริหารความเสี่ยงตลาดต่างประเทศ",
+            "workUnitEnglish": "Overseas Marketing Risk Management Section"
+        },
+        {
+            "ID": 95,
+            "code": 320201,
+            "workUnit": "งานติดตามและประเมินผลการบริหารองค์กร",
+            "workUnitEnglish": "Administrative Monitoring and Evaluation Section"
+        },
+        {
+            "ID": 96,
+            "code": 320204,
+            "workUnit": "งานติดตามและพัฒนาองค์กร",
+            "workUnitEnglish": "Organizational Monitoring and Improvement Section"
+        },
+        {
+            "ID": 97,
+            "code": 330000,
+            "workUnit": "ฝ่ายติดตามและบริหารความเสี่ยง",
+            "workUnitEnglish": "Monitoring and Risk Management Department"
+        },
+        {
+            "ID": 98,
+            "code": 330100,
+            "workUnit": "กองบริหารความเสี่ยง",
+            "workUnitEnglish": "Risk Management Division"
+        },
+        {
+            "ID": 99,
+            "code": 330200,
+            "workUnit": "กองติดตามและประเมินผล",
+            "workUnitEnglish": "Monitoring and Evaluation Division"
+        },
+        {
+            "ID": 100,
+            "code": 330202,
+            "workUnit": "งานติดตามและประเมินผลตลาดในประเทศ",
+            "workUnitEnglish": "Domestic Marketing Monitoring and Evaluation Section"
+        },
+        {
+            "ID": 101,
+            "code": 330203,
+            "workUnit": "งานติดตามและประเมินผลตลาดต่างประเทศ",
+            "workUnitEnglish": "Overseas Marketing Monitoring and Evaluation Section"
+        },
+        {
+            "ID": 102,
+            "code": 400000,
+            "workUnit": "ดิจิทัล วิจัย และพัฒนา",
+            "workUnitEnglish": "Offices under the Deputy Governor for Digitalization, Research and Development"
+        },
+        {
+            "ID": 103,
+            "code": 400100,
+            "workUnit": "กลุ่มงานอำนวยการด้านดิจิทัล วิจัยและพัฒนา",
+            "workUnitEnglish": "Digitalization, Research and Development Group"
+        },
+        {
+            "ID": 104,
+            "code": 410000,
+            "workUnit": "ฝ่ายดิจิทัลและเทคโนโลยีสารสนเทศ",
+            "workUnitEnglish": "Digital and Information Technology Department"
+        },
+        {
+            "ID": 105,
+            "code": 410100,
+            "workUnit": "กองยุทธศาสตร์ดิจิทัล",
+            "workUnitEnglish": "Digital Strategy Division"
+        },
+        {
+            "ID": 106,
+            "code": 410101,
+            "workUnit": "งานแผนงานดิจิทัลสารสนเทศ",
+            "workUnitEnglish": "Digital Information Plan Section"
+        },
+        {
+            "ID": 107,
+            "code": 410102,
+            "workUnit": "งานมาตรฐานและความมั่นคงปลอดภัยสารสนเทศ",
+            "workUnitEnglish": "Standardization and Information Security Section"
+        },
+        {
+            "ID": 108,
+            "code": 410200,
+            "workUnit": "กองพัฒนาระบบ",
+            "workUnitEnglish": "Systems Development Division"
+        },
+        {
+            "ID": 109,
+            "code": 410201,
+            "workUnit": "งานระบบสารสนเทศองค์กร",
+            "workUnitEnglish": "Internal Information Systems Section"
+        },
+        {
+            "ID": 110,
+            "code": 410202,
+            "workUnit": "งานระบบสารสนเทศข้อมูล",
+            "workUnitEnglish": "Database Systems Section"
+        },
+        {
+            "ID": 111,
+            "code": 410300,
+            "workUnit": "กองสารสนเทศการตลาด",
+            "workUnitEnglish": "Marketing Information Technology Division"
+        },
+        {
+            "ID": 112,
+            "code": 410301,
+            "workUnit": "งานระบบสารสนเทศการตลาด",
+            "workUnitEnglish": "Marketing Information Systems Section"
+        },
+        {
+            "ID": 113,
+            "code": 410302,
+            "workUnit": "งานการตลาดออนไลน์",
+            "workUnitEnglish": "Online Marketing Section"
+        },
+        {
+            "ID": 114,
+            "code": 410400,
+            "workUnit": "กองคอมพิวเตอร์และระบบเครือข่าย",
+            "workUnitEnglish": "Computer and Networking Systems Division"
+        },
+        {
+            "ID": 115,
+            "code": 410401,
+            "workUnit": "งานระบบคอมพิวเตอร์",
+            "workUnitEnglish": "Computer Systems Section"
+        },
+        {
+            "ID": 116,
+            "code": 410402,
+            "workUnit": "งานระบบเครือข่าย",
+            "workUnitEnglish": "Networking Systems Section"
+        },
+        {
+            "ID": 117,
+            "code": 420000,
+            "workUnit": "ฝ่ายวิจัยและพัฒนาด้านการท่องเที่ยว",
+            "workUnitEnglish": "Research and Development Department"
+        },
+        {
+            "ID": 118,
+            "code": 420100,
+            "workUnit": "กองวิจัยการตลาดการท่องเที่ยว",
+            "workUnitEnglish": "Tourism Intelligence Division"
+        },
+        {
+            "ID": 119,
+            "code": 420101,
+            "workUnit": "งานพัฒนาข้อมูลตลาด",
+            "workUnitEnglish": "Marketing Database Section"
+        },
+        {
+            "ID": 120,
+            "code": 420102,
+            "workUnit": "งานวิจัย",
+            "workUnitEnglish": "Research Section"
+        },
+        {
+            "ID": 121,
+            "code": 420103,
+            "workUnit": "งานวิชาการและห้องสมุด",
+            "workUnitEnglish": "Academic and Library Section"
+        },
+        {
+            "ID": 122,
+            "code": 420104,
+            "workUnit": "งานมาตรฐานข้อมูล",
+            "workUnitEnglish": "Data Standardization Section"
+        },
+        {
+            "ID": 123,
+            "code": 420200,
+            "workUnit": "กองการเรียนรู้ด้านการตลาดท่องเที่ยว",
+            "workUnitEnglish": "Tourism Marketing Learning Division"
+        },
+        {
+            "ID": 124,
+            "code": 420201,
+            "workUnit": "งานพัฒนาการเรียนรู้",
+            "workUnitEnglish": "Learning Development Section"
+        },
+        {
+            "ID": 125,
+            "code": 420202,
+            "workUnit": "งานส่งเสริมการเรียนรู้",
+            "workUnitEnglish": "Learning Promotion Section"
+        },
+        {
+            "ID": 126,
+            "code": 420300,
+            "workUnit": "ศูนย์ฝึกอบรมการท่องเที่ยวแห่งประเทศไทย",
+            "workUnitEnglish": "TAT Training Centre"
+        },
+        {
+            "ID": 127,
+            "code": 420301,
+            "workUnit": "งานพัฒนาวิชาการ",
+            "workUnitEnglish": "Academic Development Section"
+        },
+        {
+            "ID": 128,
+            "code": 420302,
+            "workUnit": "งานส่งเสริมและพัฒนาศูนย์ฝึกอบรม",
+            "workUnitEnglish": "Training Centre Dev & Promote Sec"
+        },
+        {
+            "ID": 129,
+            "code": 420303,
+            "workUnit": "งานบริหารศูนย์ฝึกอบรม",
+            "workUnitEnglish": "Training Centre Management Sec"
+        },
+        {
+            "ID": 130,
+            "code": 500000,
+            "workUnit": "สินค้าและธุรกิจท่องเที่ยว",
+            "workUnitEnglish": "Offices under the Deputy Governor for Tourism Products"
+        },
+        {
+            "ID": 131,
+            "code": 500100,
+            "workUnit": "กลุ่มงานอํานวยการด้านสินค้าและ ธุรกิจท่องเที่ยว",
+            "workUnitEnglish": "Tourism Products and Business Group"
+        },
+        {
+            "ID": 132,
+            "code": 510000,
+            "workUnit": "ฝ่ายสินค้าการท่องเทียว",
+            "workUnitEnglish": "Tourism Products Department"
+        },
+        {
+            "ID": 133,
+            "code": 510100,
+            "workUnit": "กองวางแผนสินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Product Planning Division"
+        },
+        {
+            "ID": 134,
+            "code": 510101,
+            "workUnit": "งานข้อมูลสินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Product Database Section"
+        },
+        {
+            "ID": 135,
+            "code": 510102,
+            "workUnit": "งานกลยุทธ์สินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Product Strategy Section"
+        },
+        {
+            "ID": 136,
+            "code": 510200,
+            "workUnit": "กองสร้างสรรค์สินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Product Creation Division"
+        },
+        {
+            "ID": 137,
+            "code": 510201,
+            "workUnit": "งานสินค้าการท่องเที่ยวธรรมชาติ",
+            "workUnitEnglish": "Natural Product Section"
+        },
+        {
+            "ID": 138,
+            "code": 510202,
+            "workUnit": "งานสินค้าการท่องเทียวศิลปวัฒนธรรม",
+            "workUnitEnglish": "Cultural Product Section"
+        },
+        {
+            "ID": 139,
+            "code": 510203,
+            "workUnit": "งานสินค้าการท่องเที่ยวเชิงมูลค่า",
+            "workUnitEnglish": "Value-oriented Product Section"
+        },
+        {
+            "ID": 140,
+            "code": 510204,
+            "workUnit": "งานสินค้าการท่องเที่ยวความสนใจพิเศษ",
+            "workUnitEnglish": "Special Interest Product Section"
+        },
+        {
+            "ID": 141,
+            "code": 510205,
+            "workUnit": "งานสินค้าการท่องเที่ยวภาคตะวันออก",
+            "workUnitEnglish": "Product Create Sec East Region"
+        },
+        {
+            "ID": 142,
+            "code": 510206,
+            "workUnit": "งานสินค้าการท่องเที่ยวภาคตะวันออกเฉียงเหนือ",
+            "workUnitEnglish": "Product Create Northeast Region"
+        },
+        {
+            "ID": 143,
+            "code": 510207,
+            "workUnit": "งานสินค้าการท่องเทียวภาคกลาง",
+            "workUnitEnglish": "Product Create Sec Central Reg"
+        },
+        {
+            "ID": 144,
+            "code": 510208,
+            "workUnit": "งานสินค้าการท่องเที่ยวภาคใต้",
+            "workUnitEnglish": "Product Create Sec South Region"
+        },
+        {
+            "ID": 145,
+            "code": 510209,
+            "workUnit": "งานสินค้าการท่องเที่ยวภาคเหนือ",
+            "workUnitEnglish": "Product Create Sec North Region"
+        },
+        {
+            "ID": 146,
+            "code": 510300,
+            "workUnit": "กองส่งเสริมสินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Product Promotion Division"
+        },
+        {
+            "ID": 147,
+            "code": 510301,
+            "workUnit": "งานส่งเสริมคุณภาพสินค้าการท่องเที่ยว",
+            "workUnitEnglish": "Quality Enhancement Section"
+        },
+        {
+            "ID": 148,
+            "code": 510302,
+            "workUnit": "งานส่งเสริมการประกอบการท่องเที่ยว",
+            "workUnitEnglish": "Entrepreneurship Promotion Section"
+        },
+        {
+            "ID": 149,
+            "code": 510303,
+            "workUnit": "งานส่งเสริมโครงข่ายการท่องเที่ยว",
+            "workUnitEnglish": "Tourism Network Promotion Sec"
+        },
+        {
+            "ID": 150,
+            "code": 520000,
+            "workUnit": "ฝ่ายกิจกรรม",
+            "workUnitEnglish": "Events Department"
+        },
+        {
+            "ID": 151,
+            "code": 520100,
+            "workUnit": "กองส่งเสริมกิจกรรม",
+            "workUnitEnglish": "Events Promotion Division"
+        },
+        {
+            "ID": 152,
+            "code": 520101,
+            "workUnit": "งานข้อมูลกิจกรรม",
+            "workUnitEnglish": "Events Information Section"
+        },
+        {
+            "ID": 153,
+            "code": 520102,
+            "workUnit": "งานส่งเสริมกิจกรรมในประเทศ",
+            "workUnitEnglish": "Domestic Events Promotion Section"
+        },
+        {
+            "ID": 154,
+            "code": 520103,
+            "workUnit": "งานส่งเสริมกิจกรรมนานาชาติ",
+            "workUnitEnglish": "International Events Promotion Section"
+        },
+        {
+            "ID": 155,
+            "code": 520200,
+            "workUnit": "กองสร้างสรรค์กิจกรรม",
+            "workUnitEnglish": "Events Planning Division"
+        },
+        {
+            "ID": 156,
+            "code": 520201,
+            "workUnit": "งานสร้างสรรค์กิจกรรมพิเศษ",
+            "workUnitEnglish": "Special Events Section"
+        },
+        {
+            "ID": 157,
+            "code": 520202,
+            "workUnit": "งานสร้างสรรค์กิจกรรมในประเทศ",
+            "workUnitEnglish": "Domestic Events Section"
+        },
+        {
+            "ID": 158,
+            "code": 520203,
+            "workUnit": "งานสร้างสรรค์กิจกรรมนานาชาติ",
+            "workUnitEnglish": "International Events Section"
+        },
+        {
+            "ID": 159,
+            "code": 530000,
+            "workUnit": "ฝ่ายส่งเสริมการลงทุนอุตสาหกรรมท่องเที่ยว",
+            "workUnitEnglish": "Tourism Investment Promotion Department"
+        },
+        {
+            "ID": 160,
+            "code": 530100,
+            "workUnit": "กองวางแผนลงทุนอุตสาหกรรมท่องเที่ยว",
+            "workUnitEnglish": "Tourism Investment Planning Division"
+        },
+        {
+            "ID": 161,
+            "code": 530101,
+            "workUnit": "งานกลยุทธ์ส่งเสริมการลงทุนอุตสาหกรรมท่องเที่ยว",
+            "workUnitEnglish": "Investment Promotion Strategy Section"
+        },
+        {
+            "ID": 162,
+            "code": 530102,
+            "workUnit": "งานส่งเสริมธุรกิจอุตสาหกรรมท่องเที่ยว",
+            "workUnitEnglish": "Tourism Business Promotion Section"
+        },
+        {
+            "ID": 163,
+            "code": 530103,
+            "workUnit": "งานส่งเสริมธุรกิจร่วมทุน",
+            "workUnitEnglish": "Joint Venture Promotion Section"
+        },
+        {
+            "ID": 164,
+            "code": 530200,
+            "workUnit": "กองนวัตกรรมอุตสาหกรรมท่องเที่ยว",
+            "workUnitEnglish": "Tourism Innovation Division"
+        },
+        {
+            "ID": 165,
+            "code": 530201,
+            "workUnit": "งานพัฒนาและส่งเสริมนวัตกรรมการลงทุน",
+            "workUnitEnglish": "Investment Innovation Section"
+        },
+        {
+            "ID": 166,
+            "code": 530202,
+            "workUnit": "งานวางแผนพัฒนานวัตกรรมสินทรัพย์",
+            "workUnitEnglish": "Asset Innovation Section"
+        },
+        {
+            "ID": 167,
+            "code": 600000,
+            "workUnit": "ตลาดในประเทศ",
+            "workUnitEnglish": "Offices under the Deputy Governor for Domestic Marketing"
+        },
+        {
+            "ID": 168,
+            "code": 600100,
+            "workUnit": "กลุ่มงานอํานวยการด้านตลาดในประเทศ",
+            "workUnitEnglish": "Domestic Marketing Group"
+        },
+        {
+            "ID": 169,
+            "code": 610000,
+            "workUnit": "ภูมิภาคภาคเหนือ",
+            "workUnitEnglish": "Northern Region"
+        },
+        {
+            "ID": 170,
+            "code": 610100,
+            "workUnit": "กองตลาดภาคเหนือ",
+            "workUnitEnglish": "Northern Market Division"
+        },
+        {
+            "ID": 171,
+            "code": 610101,
+            "workUnit": "งานภาคเหนือ 1",
+            "workUnitEnglish": "Northern Region 1 Section"
+        },
+        {
+            "ID": 172,
+            "code": 610102,
+            "workUnit": "งานภาคเหนือ 2",
+            "workUnitEnglish": "Northern Region 2 Section"
+        },
+        {
+            "ID": 173,
+            "code": 610103,
+            "workUnit": "งานภาคเหนือ 3",
+            "workUnitEnglish": "Northern Region 3 Section"
+        },
+        {
+            "ID": 174,
+            "code": 610104,
+            "workUnit": "งานภาคเหนือ 4",
+            "workUnitEnglish": "Northern Region 4 Section"
+        },
+        {
+            "ID": 175,
+            "code": 610200,
+            "workUnit": "สนง.เชียงใหม่",
+            "workUnitEnglish": "TAT Chiang Mai Office"
+        },
+        {
+            "ID": 176,
+            "code": 610300,
+            "workUnit": "สนง.เชียงราย",
+            "workUnitEnglish": "TAT Chiang Rai Office"
+        },
+        {
+            "ID": 177,
+            "code": 610400,
+            "workUnit": "สนง.พิษณุโลก",
+            "workUnitEnglish": "TAT Phitsanulok Office"
+        },
+        {
+            "ID": 178,
+            "code": 610500,
+            "workUnit": "สนง.ตาก",
+            "workUnitEnglish": "TAT Tak Office"
+        },
+        {
+            "ID": 179,
+            "code": 610600,
+            "workUnit": "สนง.แม่ฮ่องสอน",
+            "workUnitEnglish": "TAT Mae Hong Son Office"
+        },
+        {
+            "ID": 180,
+            "code": 610700,
+            "workUnit": "สนง.แพร่",
+            "workUnitEnglish": "TAT Phrae Office"
+        },
+        {
+            "ID": 181,
+            "code": 610800,
+            "workUnit": "สนง.อุทัยธานี",
+            "workUnitEnglish": "TAT Uthai Thani Office"
+        },
+        {
+            "ID": 182,
+            "code": 610900,
+            "workUnit": "สนง.สุโขทัย",
+            "workUnitEnglish": "TAT Sukhothai Office"
+        },
+        {
+            "ID": 183,
+            "code": 611000,
+            "workUnit": "สนง.ลําปาง",
+            "workUnitEnglish": "TAT Lampang Office"
+        },
+        {
+            "ID": 184,
+            "code": 611100,
+            "workUnit": "สนง.นครสวรรค์",
+            "workUnitEnglish": "TAT Nakhon Sawan Office"
+        },
+        {
+            "ID": 185,
+            "code": 611200,
+            "workUnit": "สนง.น่าน",
+            "workUnitEnglish": "TAT Nan Office"
+        },
+        {
+            "ID": 186,
+            "code": 620000,
+            "workUnit": "ภูมิภาคภาคกลาง",
+            "workUnitEnglish": "Central Region"
+        },
+        {
+            "ID": 187,
+            "code": 620100,
+            "workUnit": "กองตลาดภาคกลาง",
+            "workUnitEnglish": "Central Region Market Division"
+        },
+        {
+            "ID": 188,
+            "code": 620101,
+            "workUnit": "งานภาคกลาง 1",
+            "workUnitEnglish": "Central Region 1 Section"
+        },
+        {
+            "ID": 189,
+            "code": 620102,
+            "workUnit": "งานภาคกลาง 2",
+            "workUnitEnglish": "Central Region 2 Section"
+        },
+        {
+            "ID": 190,
+            "code": 620103,
+            "workUnit": "งานภาคกลาง 3",
+            "workUnitEnglish": "Central Region 3 Section"
+        },
+        {
+            "ID": 191,
+            "code": 620200,
+            "workUnit": "สนง.กาญจนบุรี",
+            "workUnitEnglish": "TAT Kanchanaburi Office"
+        },
+        {
+            "ID": 192,
+            "code": 620300,
+            "workUnit": "สนง.เพชรบุรี",
+            "workUnitEnglish": "TAT Phetchaburi Office"
+        },
+        {
+            "ID": 193,
+            "code": 620400,
+            "workUnit": "สนง.พระนครศรีอยุธยา",
+            "workUnitEnglish": "TAT Phra Nakhon Si Ayutthaya Office"
+        },
+        {
+            "ID": 194,
+            "code": 620500,
+            "workUnit": "สนง.ลพบุรี",
+            "workUnitEnglish": "TAT Lop Buri Office"
+        },
+        {
+            "ID": 195,
+            "code": 620600,
+            "workUnit": "สนง.สุพรรณบุรี",
+            "workUnitEnglish": "TAT Suphan Buri Office"
+        },
+        {
+            "ID": 196,
+            "code": 620700,
+            "workUnit": "สนง.กรุงเทพมหานคร",
+            "workUnitEnglish": "TAT Bangkok Office"
+        },
+        {
+            "ID": 197,
+            "code": 620800,
+            "workUnit": "สนง.ประจวบคีรีขันธ์",
+            "workUnitEnglish": "TAT Prachuap Khiri Khan Office"
+        },
+        {
+            "ID": 198,
+            "code": 620900,
+            "workUnit": "สนง.สมุทรสงคราม",
+            "workUnitEnglish": "TAT Samut Songkhram"
+        },
+        {
+            "ID": 199,
+            "code": 621000,
+            "workUnit": "สนง.ราชบุรี",
+            "workUnitEnglish": "TAT Ratchaburi Office"
+        },
+        {
+            "ID": 200,
+            "code": 630000,
+            "workUnit": "ภูมิภาคภาคตะวันออกเฉียงเหนือ",
+            "workUnitEnglish": "Northeastern Region"
+        },
+        {
+            "ID": 201,
+            "code": 630100,
+            "workUnit": "กองตลาดภาคตะวันออกเฉียงเหนือ",
+            "workUnitEnglish": "Northeastern Market Division"
+        },
+        {
+            "ID": 202,
+            "code": 630101,
+            "workUnit": "งานภาคตะวันออกเฉียงเหนือ 1",
+            "workUnitEnglish": "Northeastern Region 1 Section"
+        },
+        {
+            "ID": 203,
+            "code": 630102,
+            "workUnit": "งานภาคตะวันออกเฉียงเหนือ 2",
+            "workUnitEnglish": "Northeastern Region 2 Section"
+        },
+        {
+            "ID": 204,
+            "code": 630103,
+            "workUnit": "งานภาคตะวันออกเฉียงเหนือ 3",
+            "workUnitEnglish": "Northeastern Region 3 Section"
+        },
+        {
+            "ID": 205,
+            "code": 630200,
+            "workUnit": "สนง.นครราชสีมา",
+            "workUnitEnglish": "TAT Nakhon Ratchasima Office"
+        },
+        {
+            "ID": 206,
+            "code": 630300,
+            "workUnit": "สนง.อุบลราชธานี",
+            "workUnitEnglish": "TAT Ubon Rachathani Office"
+        },
+        {
+            "ID": 207,
+            "code": 630400,
+            "workUnit": "สนง.ขอนแก่น",
+            "workUnitEnglish": "TAT Khon Kaen Office"
+        },
+        {
+            "ID": 208,
+            "code": 630500,
+            "workUnit": "สนง.นครพนม",
+            "workUnitEnglish": "TAT Nakhon Phanom Office"
+        },
+        {
+            "ID": 209,
+            "code": 630600,
+            "workUnit": "สนง.อุดรธานี",
+            "workUnitEnglish": "TAT Udon Thani Office"
+        },
+        {
+            "ID": 210,
+            "code": 630700,
+            "workUnit": "สนง.เลย",
+            "workUnitEnglish": "TAT Loei Office"
+        },
+        {
+            "ID": 211,
+            "code": 630800,
+            "workUnit": "สนง.สุรินทร์",
+            "workUnitEnglish": "TAT Surin Office"
+        },
+        {
+            "ID": 212,
+            "code": 630900,
+            "workUnit": "สนง.บุรีรัมย์",
+            "workUnitEnglish": "TAT Buriram Office"
+        },
+        {
+            "ID": 213,
+            "code": 640000,
+            "workUnit": "ภูมิภาคภาคใต้",
+            "workUnitEnglish": "Southern Region"
+        },
+        {
+            "ID": 214,
+            "code": 640100,
+            "workUnit": "กองตลาดภาคใต้",
+            "workUnitEnglish": "Southern Market Division"
+        },
+        {
+            "ID": 215,
+            "code": 640101,
+            "workUnit": "งานภาคใต้ 1",
+            "workUnitEnglish": "Southern Region 1 Section"
+        },
+        {
+            "ID": 216,
+            "code": 640102,
+            "workUnit": "งานภาคใต้ 2",
+            "workUnitEnglish": "Southern Region 2 Section"
+        },
+        {
+            "ID": 217,
+            "code": 640103,
+            "workUnit": "งานภาคใต้ 3",
+            "workUnitEnglish": "Southern Region 3 Section"
+        },
+        {
+            "ID": 218,
+            "code": 640104,
+            "workUnit": "งานภาคใต้ 4",
+            "workUnitEnglish": "Southern Region 4 Section"
+        },
+        {
+            "ID": 219,
+            "code": 640200,
+            "workUnit": "สนง.หาดใหญ่",
+            "workUnitEnglish": "TAT Hat Yai Office"
+        },
+        {
+            "ID": 220,
+            "code": 640300,
+            "workUnit": "สนง.นครศรีธรรมราช",
+            "workUnitEnglish": "TAT Nakhon Si Thammarat Office"
+        },
+        {
+            "ID": 221,
+            "code": 640400,
+            "workUnit": "สนง.นราธิวาส",
+            "workUnitEnglish": "TAT Narathiwat Office"
+        },
+        {
+            "ID": 222,
+            "code": 640500,
+            "workUnit": "สนง.ภูเก็ต",
+            "workUnitEnglish": "TAT Phuket Office"
+        },
+        {
+            "ID": 223,
+            "code": 640600,
+            "workUnit": "สนง.สุราษฎร์ธานี",
+            "workUnitEnglish": "TAT Surat Thani Office"
+        },
+        {
+            "ID": 224,
+            "code": 640700,
+            "workUnit": "สนง.ตรัง",
+            "workUnitEnglish": "TAT Trang Office"
+        },
+        {
+            "ID": 225,
+            "code": 640800,
+            "workUnit": "สนง.กระบี่",
+            "workUnitEnglish": "TAT Krabi Office"
+        },
+        {
+            "ID": 226,
+            "code": 640900,
+            "workUnit": "สนง.ชุมพร",
+            "workUnitEnglish": "TAT Chumphon Office"
+        },
+        {
+            "ID": 227,
+            "code": 641000,
+            "workUnit": "สนง.เกาะสมุย",
+            "workUnitEnglish": "TAT Ko Samui Office"
+        },
+        {
+            "ID": 228,
+            "code": 641100,
+            "workUnit": "สนง.พังงา",
+            "workUnitEnglish": "TAT Phang-Nga Office"
+        },
+        {
+            "ID": 229,
+            "code": 641200,
+            "workUnit": "สนง.สตูล",
+            "workUnitEnglish": "TAT Satun Office"
+        },
+        {
+            "ID": 230,
+            "code": 650000,
+            "workUnit": "ภูมิภาคภาคตะวันออก",
+            "workUnitEnglish": "Eastern Region"
+        },
+        {
+            "ID": 231,
+            "code": 650100,
+            "workUnit": "กองตลาดภาคตะวันออก",
+            "workUnitEnglish": "Eastern Marketing Division"
+        },
+        {
+            "ID": 232,
+            "code": 650101,
+            "workUnit": "งานภาคตะวันออก 1",
+            "workUnitEnglish": "Eastern Region 1 Section"
+        },
+        {
+            "ID": 233,
+            "code": 650102,
+            "workUnit": "งานภาคตะวันออก 2",
+            "workUnitEnglish": "Eastern Region 2 Section"
+        },
+        {
+            "ID": 234,
+            "code": 650200,
+            "workUnit": "สนง.พัทยา",
+            "workUnitEnglish": "TAT Pattaya Office"
+        },
+        {
+            "ID": 235,
+            "code": 650300,
+            "workUnit": "สนง.ระยอง",
+            "workUnitEnglish": "TAT Rayong Office"
+        },
+        {
+            "ID": 236,
+            "code": 650400,
+            "workUnit": "สนง.ตราด",
+            "workUnitEnglish": "TAT Trat Office"
+        },
+        {
+            "ID": 237,
+            "code": 650500,
+            "workUnit": "สนง.นครนายก",
+            "workUnitEnglish": "TAT Nakhon Nayok Office"
+        },
+        {
+            "ID": 238,
+            "code": 650600,
+            "workUnit": "สนง.ฉะเชิงเทรา",
+            "workUnitEnglish": "TAT Chachoengsao Office"
+        },
+        {
+            "ID": 239,
+            "code": 650700,
+            "workUnit": "สนง.จันทบุรี",
+            "workUnitEnglish": "TAT Chanthaburi Office"
+        },
+        {
+            "ID": 240,
+            "code": 700000,
+            "workUnit": "ตลาดเอเชียและแปซิฟิกใต้",
+            "workUnitEnglish": "Offices under the Deputy Governor for International Marketing (Asia and South Pacific)"
+        },
+        {
+            "ID": 241,
+            "code": 700100,
+            "workUnit": "กลุ่มงานอํานวยการด้านตลาดเอเชียและแปซิฟิกใต้",
+            "workUnitEnglish": "Asia and south Pacific Marketing Group"
+        },
+        {
+            "ID": 242,
+            "code": 710000,
+            "workUnit": "ภูมิภาคเอเชียตะวันออก",
+            "workUnitEnglish": "East Asia Region"
+        },
+        {
+            "ID": 243,
+            "code": 710100,
+            "workUnit": "กองตลาดเอเชียตะวันออก",
+            "workUnitEnglish": "East Asia Market Division"
+        },
+        {
+            "ID": 244,
+            "code": 710101,
+            "workUnit": "งานเอเชีย 1",
+            "workUnitEnglish": "Asia 1 Section"
+        },
+        {
+            "ID": 245,
+            "code": 710102,
+            "workUnit": "งานเอเชีย 2",
+            "workUnitEnglish": "Asia 2 Section"
+        },
+        {
+            "ID": 246,
+            "code": 710103,
+            "workUnit": "งานเอเชีย 3",
+            "workUnitEnglish": "Asia 3 Section"
+        },
+        {
+            "ID": 247,
+            "code": 710200,
+            "workUnit": "สนง.โตเกียว",
+            "workUnitEnglish": "TAT Tokyo Office"
+        },
+        {
+            "ID": 248,
+            "code": 710300,
+            "workUnit": "สนง.โอซากา",
+            "workUnitEnglish": "TAT Osaka Office"
+        },
+        {
+            "ID": 249,
+            "code": 710400,
+            "workUnit": "สนง.ไทเป",
+            "workUnitEnglish": "TAT Taipei Office"
+        },
+        {
+            "ID": 250,
+            "code": 710500,
+            "workUnit": "สนง.โซล",
+            "workUnitEnglish": "TAT Seoul Office"
+        },
+        {
+            "ID": 251,
+            "code": 710600,
+            "workUnit": "สนง.ฮ่องกง",
+            "workUnitEnglish": "TAT Hong Kong Office"
+        },
+        {
+            "ID": 252,
+            "code": 710700,
+            "workUnit": "สนง.ปักกิ่ง",
+            "workUnitEnglish": "TAT Beijing Office"
+        },
+        {
+            "ID": 253,
+            "code": 710800,
+            "workUnit": "สนง.เซี่ยงไฮ้",
+            "workUnitEnglish": "TAT Shanghai Office"
+        },
+        {
+            "ID": 254,
+            "code": 710900,
+            "workUnit": "สนง.คุนหมิง",
+            "workUnitEnglish": "TAT Kunming Office"
+        },
+        {
+            "ID": 255,
+            "code": 711100,
+            "workUnit": "สนง.เฉิงตู",
+            "workUnitEnglish": "TAT Chengdu Office"
+        },
+        {
+            "ID": 256,
+            "code": 711100,
+            "workUnit": "สนง.กว่างโจว",
+            "workUnitEnglish": "TAT Guangzhou Office"
+        },
+        {
+            "ID": 257,
+            "code": 711200,
+            "workUnit": "สนง.ฟูกูโอกะ",
+            "workUnitEnglish": "TAT Fuoka Office"
+        },
+        {
+            "ID": 258,
+            "code": 720000,
+            "workUnit": "ภูมิภาคอาเซียนเอเชียใต้และแปซิฟิกใต้",
+            "workUnitEnglish": "ASEAN, South Asia and South Pacific Region"
+        },
+        {
+            "ID": 259,
+            "code": 720100,
+            "workUnit": "กองตลาดอาเซียนเอเชียใต้และแปซิฟิกใต้",
+            "workUnitEnglish": "ASEAN, South Asia and South Pacific Market Division"
+        },
+        {
+            "ID": 260,
+            "code": 720101,
+            "workUnit": "งานอาเซียน 1",
+            "workUnitEnglish": "ASEAN 1 Section"
+        },
+        {
+            "ID": 261,
+            "code": 720102,
+            "workUnit": "งานอาเซียน 2",
+            "workUnitEnglish": "ASEAN 2 Section"
+        },
+        {
+            "ID": 262,
+            "code": 720103,
+            "workUnit": "งานเอเชียใต้และแปซิฟิกใต้",
+            "workUnitEnglish": "South Asia and South Pacific Section"
+        },
+        {
+            "ID": 263,
+            "code": 720200,
+            "workUnit": "สนง.ซิดนีย์",
+            "workUnitEnglish": "TAT Sydney Office"
+        },
+        {
+            "ID": 264,
+            "code": 720300,
+            "workUnit": "สนง.กัวลาลัมเปอร์",
+            "workUnitEnglish": "TAT Kuala Lumpur Office"
+        },
+        {
+            "ID": 265,
+            "code": 720400,
+            "workUnit": "สนง.สิงคโปร์",
+            "workUnitEnglish": "TAT Singapore Office"
+        },
+        {
+            "ID": 266,
+            "code": 720500,
+            "workUnit": "สนง.นิวเดลี",
+            "workUnitEnglish": "TAT New Delhi Office"
+        },
+        {
+            "ID": 267,
+            "code": 720600,
+            "workUnit": "สนง.โฮจิมินห์",
+            "workUnitEnglish": "TẠT Họ Chi - Minh Office"
+        },
+        {
+            "ID": 268,
+            "code": 720700,
+            "workUnit": "สนง.มุมไบ",
+            "workUnitEnglish": "TAT Mumbai Office"
+        },
+        {
+            "ID": 269,
+            "code": 720800,
+            "workUnit": "สนง.จาการ์ตา",
+            "workUnitEnglish": "TAT Jakarta Office"
+        },
+        {
+            "ID": 270,
+            "code": 800000,
+            "workUnit": "ตลาดยุโรปแอฟริกาตะวันออกกลางและอเมริกา",
+            "workUnitEnglish": "Offices under the Deputy Governor for International Marketing (Europe, Africa, Middle East and Americas)"
+        },
+        {
+            "ID": 271,
+            "code": 800100,
+            "workUnit": "กลุ่มงานตลาดยุโรปแอฟริกาตะวันออกกลางและอเมริกา",
+            "workUnitEnglish": "Europe, Africa, Middle East and Americas Marketing Group"
+        },
+        {
+            "ID": 272,
+            "code": 810000,
+            "workUnit": "ภูมิภาคยุโรปแอฟริกาและตะวันออกกลาง",
+            "workUnitEnglish": "Europe, Africa and Middle East Region"
+        },
+        {
+            "ID": 273,
+            "code": 810100,
+            "workUnit": "กองตลาดยุโรปแอฟริกาและตะวันออกกลาง",
+            "workUnitEnglish": "Europe, Africa and Middle East Market Division"
+        },
+        {
+            "ID": 274,
+            "code": 810101,
+            "workUnit": "งานยุโรป 1",
+            "workUnitEnglish": "Europe 1 Section"
+        },
+        {
+            "ID": 275,
+            "code": 810102,
+            "workUnit": "งานยุโรป 2",
+            "workUnitEnglish": "Europe 2 Section"
+        },
+        {
+            "ID": 276,
+            "code": 810103,
+            "workUnit": "งานยุโรป 3 และตะวันออกกลาง",
+            "workUnitEnglish": "Europe 3 and Middle East Section"
+        },
+        {
+            "ID": 277,
+            "code": 810200,
+            "workUnit": "สนง.ลอนดอน",
+            "workUnitEnglish": "TAT London Office"
+        },
+        {
+            "ID": 278,
+            "code": 810300,
+            "workUnit": "สนง.แฟรงก์เฟิร์ต",
+            "workUnitEnglish": "TAT Frankfurt Office"
+        },
+        {
+            "ID": 279,
+            "code": 810400,
+            "workUnit": "สนง.ปารีส",
+            "workUnitEnglish": "TAT Paris Office"
+        },
+        {
+            "ID": 280,
+            "code": 810500,
+            "workUnit": "สนง.กรุงโรม",
+            "workUnitEnglish": "TAT Rome Office"
+        },
+        {
+            "ID": 281,
+            "code": 810600,
+            "workUnit": "สนง.สตอกโฮล์ม",
+            "workUnitEnglish": "TAT Stockholm Office"
+        },
+        {
+            "ID": 282,
+            "code": 810700,
+            "workUnit": "สนง.มอสโก",
+            "workUnitEnglish": "TAT Moscow Office"
+        },
+        {
+            "ID": 283,
+            "code": 810800,
+            "workUnit": "สนง.ดูไบ",
+            "workUnitEnglish": "TAT Dubai Office"
+        },
+        {
+            "ID": 284,
+            "code": 810900,
+            "workUnit": "สนง.กรุงปราก",
+            "workUnitEnglish": "TAT Pragus Office"
+        },
+        {
+            "ID": 285,
+            "code": 820000,
+            "workUnit": "ภูมิภาคอเมริกา",
+            "workUnitEnglish": "The Americas Region"
+        },
+        {
+            "ID": 286,
+            "code": 820100,
+            "workUnit": "กองตลาดอเมริกา",
+            "workUnitEnglish": "The Americas Market Division"
+        },
+        {
+            "ID": 287,
+            "code": 820101,
+            "workUnit": "งานอเมริกา 1",
+            "workUnitEnglish": "The Americas 1 Section"
+        },
+        {
+            "ID": 288,
+            "code": 820102,
+            "workUnit": "งานอเมริกา 2",
+            "workUnitEnglish": "The Americas 2 Section"
+        },
+        {
+            "ID": 289,
+            "code": 820200,
+            "workUnit": "สนง.นิวยอร์ก",
+            "workUnitEnglish": "TAT New York Office"
+        },
+        {
+            "ID": 290,
+            "code": 820300,
+            "workUnit": "สนง.ลอสแอนเจลิส",
+            "workUnitEnglish": "TAT Los Angeles Office"
+        },
+        {
+            "ID": 291,
+            "code": 820400,
+            "workUnit": "สนง.โทรอนโต",
+            "workUnitEnglish": "TAT Toronto Office"
+        },
+        {
+            "ID": 292,
+            "code": 900000,
+            "workUnit": "สื่อสารการตลาด",
+            "workUnitEnglish": "Offices under the Deputy Governor for Marketing Communication"
+        },
+        {
+            "ID": 293,
+            "code": 900100,
+            "workUnit": "กลุ่มงานอํานวยการด้านสื่อสารการตลาด",
+            "workUnitEnglish": "Marketing Communications Group"
+        },
+        {
+            "ID": 294,
+            "code": 910000,
+            "workUnit": "ฝ่ายโฆษณาและประชาสัมพันธ์",
+            "workUnitEnglish": "Advertising and Public Relations Department"
+        },
+        {
+            "ID": 295,
+            "code": 910100,
+            "workUnit": "กองเผยแพร่โฆษณาต่างประเทศ",
+            "workUnitEnglish": "International Advertising Strategies Section"
+        },
+        {
+            "ID": 296,
+            "code": 910101,
+            "workUnit": "งานกลยุทธ์โฆษณาต่างประเทศ",
+            "workUnitEnglish": "International Advertising Strategies Section"
+        },
+        {
+            "ID": 297,
+            "code": 910102,
+            "workUnit": "งานสื่อโฆษณาออนไลน์ต่างประเทศ",
+            "workUnitEnglish": "International Online Media Section"
+        },
+        {
+            "ID": 298,
+            "code": 910103,
+            "workUnit": "งานสื่อโฆษณาออฟไลน์ต่างประเทศ",
+            "workUnitEnglish": "International Offline Media Section"
+        },
+        {
+            "ID": 299,
+            "code": 910200,
+            "workUnit": "กองเผยแพร่โฆษณาในประเทศ",
+            "workUnitEnglish": "Domestic Advertising Publicity Division"
+        },
+        {
+            "ID": 300,
+            "code": 910201,
+            "workUnit": "งานกลยุทธ์โฆษณาในประเทศ",
+            "workUnitEnglish": "Domestic Advertising Strategies Section"
+        },
+        {
+            "ID": 301,
+            "code": 910202,
+            "workUnit": "งานสื่อโฆษณาออนไลน์ในประเทศ",
+            "workUnitEnglish": "Domestic Online Media Section"
+        },
+        {
+            "ID": 302,
+            "code": 910203,
+            "workUnit": "งานสื่อโฆษณาออฟไลน์ในประเทศ",
+            "workUnitEnglish": "Domestic Offline Media Section"
+        },
+        {
+            "ID": 303,
+            "code": 910204,
+            "workUnit": "งานนิทรรศการและสื่อพิเศษ",
+            "workUnitEnglish": "Exhibition and Special Media Section"
+        },
+        {
+            "ID": 304,
+            "code": 910300,
+            "workUnit": "กองประชาสัมพันธ์ต่างประเทศ",
+            "workUnitEnglish": "International Public Relations Division"
+        },
+        {
+            "ID": 305,
+            "code": 910301,
+            "workUnit": "งานกลยุทธ์ประชาสัมพันธ์ต่างประเทศ",
+            "workUnitEnglish": "International Public Relations Strategy Section"
+        },
+        {
+            "ID": 306,
+            "code": 910302,
+            "workUnit": "งานข่าวต่างประเทศ",
+            "workUnitEnglish": "International News Section"
+        },
+        {
+            "ID": 307,
+            "code": 910303,
+            "workUnit": "งานสื่อมวลชนสัมพันธ์ต่างประเทศ",
+            "workUnitEnglish": "International Media Relations Section"
+        },
+        {
+            "ID": 308,
+            "code": 910400,
+            "workUnit": "กองประชาสัมพันธ์ในประเทศ",
+            "workUnitEnglish": "Domestic Public Relations Division"
+        },
+        {
+            "ID": 309,
+            "code": 910401,
+            "workUnit": "งานกลยุทธ์ประชาสัมพันธ์ในประเทศ",
+            "workUnitEnglish": "Domestic Public Relations Strategy Section"
+        },
+        {
+            "ID": 310,
+            "code": 910402,
+            "workUnit": "งานข่าวในประเทศ",
+            "workUnitEnglish": "Domestic News Section"
+        },
+        {
+            "ID": 311,
+            "code": 910403,
+            "workUnit": "งานสื่อมวลชนสัมพันธ์ในประเทศ",
+            "workUnitEnglish": "Domestic Media Relations Section"
+        },
+        {
+            "ID": 312,
+            "code": 920000,
+            "workUnit": "ฝ่ายบริการการตลาด",
+            "workUnitEnglish": "Marketing Services Department"
+        },
+        {
+            "ID": 313,
+            "code": 920100,
+            "workUnit": "กองวางแผนและผลิตสื่อ",
+            "workUnitEnglish": "Promotional Material Production Division"
+        },
+        {
+            "ID": 314,
+            "code": 920101,
+            "workUnit": "งานวางแผนการผลิตและประเมินผล",
+            "workUnitEnglish": "Production Planning and Evaluation Section"
+        },
+        {
+            "ID": 315,
+            "code": 920102,
+            "workUnit": "งานออกแบบและสร้างสรรค์สื่อ",
+            "workUnitEnglish": "Media Design and Creativity Section"
+        },
+        {
+            "ID": 316,
+            "code": 920103,
+            "workUnit": "งานวิดิทัศน์",
+            "workUnitEnglish": "Video Section"
+        },
+        {
+            "ID": 317,
+            "code": 920104,
+            "workUnit": "งานภาพถ่าย",
+            "workUnitEnglish": "Photograph Section"
+        },
+        {
+            "ID": 318,
+            "code": 920105,
+            "workUnit": "งานจัดการแจกจ่าย",
+            "workUnitEnglish": "Distribution Management Section"
+        },
+        {
+            "ID": 319,
+            "code": 920200,
+            "workUnit": "กองข่าวสารท่องเที่ยว",
+            "workUnitEnglish": "Tourist Information Division"
+        },
+        {
+            "ID": 320,
+            "code": 920201,
+            "workUnit": "งานพัฒนาข้อมูลท่องเที่ยว",
+            "workUnitEnglish": "Information Development Section"
+        },
+        {
+            "ID": 321,
+            "code": 920202,
+            "workUnit": "งานดิจิทัลข้อมูลท่องเที่ยว",
+            "workUnitEnglish": "Digital Tourist Information Section"
+        },
+        {
+            "ID": 322,
+            "code": 920203,
+            "workUnit": "งานบริการข่าวสาร",
+            "workUnitEnglish": "Information Service Section"
+        },
+        {
+            "ID": 323,
+            "code": 920300,
+            "workUnit": "กองวารสาร",
+            "workUnitEnglish": "Magazine and Periodical Division"
+        },
+        {
+            "ID": 324,
+            "code": 920301,
+            "workUnit": "งานนิตยสาร",
+            "workUnitEnglish": "Magazine Section"
+        },
+        {
+            "ID": 325,
+            "code": 920302,
+            "workUnit": "งานหนังสือพิเศษและสื่อดิจิทัล",
+            "workUnitEnglish": "Special Publications and Digital Media Section"
+        },
+        {
+            "ID": 326,
+            "code": 920303,
+            "workUnit": "งานการตลาดวารสาร",
+            "workUnitEnglish": "Sales Section"
+        }
+    ],
+    "ตำบล (subdistrict)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "subdistrict": "อ้างอิงจาก http://stat.bora.dopa.go.th/dload/fccaa.htm"
+        }
+    ],
+    "อำเภอ (district)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "district": "อ้างอิงจาก http://stat.bora.dopa.go.th/dload/fccaa.htm"
+        }
+    ],
+    "จังหวัด (Province)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "province": "อ้างอิงจาก https://www.iso.org/obp/ui/en/#iso:code:3166:TH"
+        }
+    ],
+    "ประเทศ (country)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "country": "อ้างอิงจาก https://www.iso.org/obp/ui/en/#search  (ISO 3166-1 alpha-2)"
+        }
+    ],
+    "รหัสไปรษณีย์ (postalCode)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "postalCode": "อ้างอิงจาก https://file.thailandpost.com/upload/content/2558_56a9d444d5276.pdf"
+        }
+    ],
+    "สัญชาติ (nationality)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "nationality": "อ้างอิงจาก https://www.iso.org/obp/ui/en/#iso:std:iso:3166:-1:ed-4:v1:en"
+        }
+    ],
+    "ประเทศจุดหมายร่วม (commonDestinationCountries)": [
+        {
+            "ID": "-",
+            "code": "-",
+            "commonDestinationCountry": "อ้างอิงจาก https://www.iso.org/obp/ui/en/#search  (ISO 3166-1 alpha-2)"
+        }
+    ],
+    "ภาค (tatRegion)": [
+        {
+            "ID": "1",
+            "code": "reg01",
+            "tatRegion": "ภาคกลาง"
+        },
+        {
+            "ID": "2",
+            "code": "reg02",
+            "tatRegion": "ภาคตะวันออก"
+        },
+        {
+            "ID": "3",
+            "code": "reg03",
+            "tatRegion": "ภาคเหนือ"
+        },
+        {
+            "ID": "4",
+            "code": "reg04",
+            "tatRegion": "ภาคตะวันออกเฉียงเหนือ"
+        },
+        {
+            "ID": "5",
+            "code": "reg05",
+            "tatRegion": "ภาคใต้"
+        }
+    ],
+    "ประเภทกิจกรรม (activityType)": [
+        {
+            "ID": 1,
+            "code": "actT01",
+            "activityType": "การท่องเที่ยวเชิงศิลปวัฒนธรรม (Cultural Tourism)"
+        },
+        {
+            "ID": 2,
+            "code": "actT02",
+            "activityType": "การท่องเที่ยวเชิงศาสนา (Religious Tourism)"
+        },
+        {
+            "ID": 3,
+            "code": "actT03",
+            "activityType": "การท่องเที่ยวเชิงนิเวศ (Ecotourism)"
+        },
+        {
+            "ID": 4,
+            "code": "actT04",
+            "activityType": "การท่องเที่ยวเชิงเกษตร (Agrotourism)"
+        },
+        {
+            "ID": 5,
+            "code": "actT05",
+            "activityType": "การท่องเที่ยวเชิงผจญภัย (Adventure tourism)"
+        },
+        {
+            "ID": 6,
+            "code": "actT06",
+            "activityType": "การท่องเที่ยวเชิงกีฬา (Sports tourism)"
+        },
+        {
+            "ID": 7,
+            "code": "actT07",
+            "activityType": "การท่องเที่ยวเชิงสุขภาพและความงาม (Health tourism)"
+        },
+        {
+            "ID": 8,
+            "code": "actT08",
+            "activityType": "การท่องเที่ยวเชิงอาสาสมัคร (Volunteer tourism)"
+        },
+        {
+            "ID": 9,
+            "code": "actT09",
+            "activityType": "การท่องเที่ยวเชิงธุรกิจ (Business tourism)"
+        },
+        {
+            "ID": 10,
+            "code": "actT10",
+            "activityType": "การท่องเที่ยวเพื่อการศึกษา (Education tourism)"
+        },
+        {
+            "ID": 11,
+            "code": "actT11",
+            "activityType": "การท่องเที่ยววิถีเมือง (Urban/ city tourism)"
+        },
+        {
+            "ID": 12,
+            "code": "actT12",
+            "activityType": "งานดนตรี (Music festival)"
+        },
+        {
+            "ID": 13,
+            "code": "actT13",
+            "activityType": "งานเฉลิมพระเกียรติสดุดีวีรชนและเหตุการณ์สำคัญ (Celebration honors national heroes & important events)"
+        },
+        {
+            "ID": 14,
+            "code": "actT14",
+            "activityType": "เทศกาลอาหาร (Food festival)"
+        },
+        {
+            "ID": 15,
+            "code": "actT15",
+            "activityType": "อื่น ๆ (etc.)"
+        }
+    ],
+    "ประเภทเรื่อง (caseType)": [
+        {
+            "ID": 1,
+            "code": "casT01",
+            "caseType": "ร้องเรียน"
+        },
+        {
+            "ID": 2,
+            "code": "casT02",
+            "caseType": "ติชม"
+        },
+        {
+            "ID": 3,
+            "code": "casT03",
+            "caseType": "แสดงข้อคิดเห็น"
+        }
+    ],
+    "หัวข้อเกี่ยวกับการขนส่ง (transportationTopics)": [
+        {
+            "ID": 1,
+            "code": "traT01",
+            "transportationTopics": "รถโดยสารประจำทาง"
+        },
+        {
+            "ID": 2,
+            "code": "traT02",
+            "transportationTopics": "รถทัวร์"
+        },
+        {
+            "ID": 3,
+            "code": "traT03",
+            "transportationTopics": "รถตู้"
+        },
+        {
+            "ID": 4,
+            "code": "traT04",
+            "transportationTopics": "รถไฟ"
+        },
+        {
+            "ID": 5,
+            "code": "traT05",
+            "transportationTopics": "เครื่องบิน"
+        },
+        {
+            "ID": 6,
+            "code": "traT06",
+            "transportationTopics": "เรือ"
+        },
+        {
+            "ID": 7,
+            "code": "traT07",
+            "transportationTopics": "รถแท็กซี่/รถสามล้อ"
+        },
+        {
+            "ID": 8,
+            "code": "traT08",
+            "transportationTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับการพักค้างแรม (accommodationTopics)": [
+        {
+            "ID": 1,
+            "code": "accT01",
+            "accommodationTopics": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "accT02",
+            "accommodationTopics": "รีสอร์ท"
+        },
+        {
+            "ID": 3,
+            "code": "accT03",
+            "accommodationTopics": "บังกะโล"
+        },
+        {
+            "ID": 4,
+            "code": "accT04",
+            "accommodationTopics": "เกสต์เฮ้าส์"
+        },
+        {
+            "ID": 5,
+            "code": "accT05",
+            "accommodationTopics": "โฮมสเตย์"
+        },
+        {
+            "ID": 6,
+            "code": "accT06",
+            "accommodationTopics": "บ้านเช่า"
+        },
+        {
+            "ID": 7,
+            "code": "accT07",
+            "accommodationTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับการใช้บริการนำเที่ยว (tourServiceTopics)": [
+        {
+            "ID": 1,
+            "code": "touST01",
+            "tourServiceTopics": "การซื้อรายการนำเที่ยว"
+        },
+        {
+            "ID": 2,
+            "code": "touST02",
+            "tourServiceTopics": "การจองบัตรโดยสาร"
+        },
+        {
+            "ID": 3,
+            "code": "touST03",
+            "tourServiceTopics": "การจองที่พัก"
+        },
+        {
+            "ID": 4,
+            "code": "touST04",
+            "tourServiceTopics": "การใช้บริการมัคคุเทศก์"
+        },
+        {
+            "ID": 5,
+            "code": "touST05",
+            "tourServiceTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับการเช่ายานพาหนะ/อุปกรณ์ (rentalVehicleTopics)": [
+        {
+            "ID": 1,
+            "code": "accT01",
+            "rentalVehicleTopics": "รถบัส"
+        },
+        {
+            "ID": 2,
+            "code": "accT02",
+            "rentalVehicleTopics": "รถยนต์"
+        },
+        {
+            "ID": 3,
+            "code": "accT03",
+            "rentalVehicleTopics": "รถตู้"
+        },
+        {
+            "ID": 4,
+            "code": "accT04",
+            "rentalVehicleTopics": "กระเช้าชมวิว"
+        },
+        {
+            "ID": 5,
+            "code": "accT05",
+            "rentalVehicleTopics": "เรือ/แพ"
+        },
+        {
+            "ID": 6,
+            "code": "accT06",
+            "rentalVehicleTopics": "รถจักรยาน"
+        },
+        {
+            "ID": 7,
+            "code": "accT07",
+            "rentalVehicleTopics": "รถจักรยานยนต์"
+        },
+        {
+            "ID": 8,
+            "code": "accT08",
+            "rentalVehicleTopics": "เจ็ทสกี"
+        },
+        {
+            "ID": 9,
+            "code": "accT09",
+            "rentalVehicleTopics": "รถชมวิว"
+        },
+        {
+            "ID": 10,
+            "code": "accT10",
+            "rentalVehicleTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับสถานบริการและร้านอาหาร (serviceAndRestaurantTopics)": [
+        {
+            "ID": 1,
+            "code": "fooAST01",
+            "serviceAndRestaurantTopics": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "fooAST02",
+            "serviceAndRestaurantTopics": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fooAST03",
+            "serviceAndRestaurantTopics": "ศูนย์อาหาร"
+        },
+        {
+            "ID": 4,
+            "code": "fooAST04",
+            "serviceAndRestaurantTopics": "ร้านจำหน่ายเครื่องดื่ม"
+        },
+        {
+            "ID": 5,
+            "code": "fooAST05",
+            "serviceAndRestaurantTopics": "สปา/ร้านนวด"
+        },
+        {
+            "ID": 6,
+            "code": "fooAST06",
+            "serviceAndRestaurantTopics": "สถานบันเทิง"
+        },
+        {
+            "ID": 7,
+            "code": "fooAST07",
+            "serviceAndRestaurantTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับการซื้อสินค้า (purchasedGoodsTopics)": [
+        {
+            "ID": 1,
+            "code": "shoT01",
+            "purchasedGoodsTopics": "ห้างสรรพสินค้า"
+        },
+        {
+            "ID": 2,
+            "code": "shoT02",
+            "purchasedGoodsTopics": "ร้านค้า"
+        },
+        {
+            "ID": 3,
+            "code": "shoT03",
+            "purchasedGoodsTopics": "ห้าง Modern Trade"
+        },
+        {
+            "ID": 4,
+            "code": "shoT04",
+            "purchasedGoodsTopics": "ร้านสะดวกซื้อ"
+        },
+        {
+            "ID": 5,
+            "code": "shoT05",
+            "purchasedGoodsTopics": "ร้านขายของที่ระลึก"
+        },
+        {
+            "ID": 6,
+            "code": "shoT06",
+            "purchasedGoodsTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับแหล่งท่องเที่ยว (tourismAttractionTopics)": [
+        {
+            "ID": 1,
+            "code": "attT01",
+            "tourismAttractionTopics": "การจัดการ"
+        },
+        {
+            "ID": 2,
+            "code": "attT02",
+            "tourismAttractionTopics": "ขยะ"
+        },
+        {
+            "ID": 3,
+            "code": "attT03",
+            "tourismAttractionTopics": "น้ำเสีย"
+        },
+        {
+            "ID": 4,
+            "code": "attT04",
+            "tourismAttractionTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับหน่วยงานภาครัฐ (governmentOfficeTopics)": [
+        {
+            "ID": 1,
+            "code": "govAT01",
+            "governmentOfficeTopics": "ระบบของหน่วยงานภาครัฐ"
+        },
+        {
+            "ID": 2,
+            "code": "govAT02",
+            "governmentOfficeTopics": "การบริการของเจ้าหน้าที่ภาครัฐ"
+        },
+        {
+            "ID": 3,
+            "code": "govAT03",
+            "governmentOfficeTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "หัวข้อเกี่ยวกับหน่วยงานการท่องเที่ยวแห่งประเทศไทย (tatOfficeTopics)": [
+        {
+            "ID": 1,
+            "code": "tatT01",
+            "tatOfficeTopics": "ข้อมูลท่องเที่ยว"
+        },
+        {
+            "ID": 2,
+            "code": "tatT02",
+            "tatOfficeTopics": "ข้อมูลการตลาด"
+        },
+        {
+            "ID": 3,
+            "code": "tatT03",
+            "tatOfficeTopics": "กิจกรรม/โครงการ การท่องเที่ยวแห่งประเทศไทย"
+        },
+        {
+            "ID": 4,
+            "code": "tatT04",
+            "tatOfficeTopics": "การจัดซื้อจัดจ้าง"
+        },
+        {
+            "ID": 5,
+            "code": "tatT05",
+            "tatOfficeTopics": "เจ้าหน้าที่ การท่องเที่ยวแห่งประเทศไทย"
+        },
+        {
+            "ID": 6,
+            "code": "tatT06",
+            "tatOfficeTopics": "Trade Show/Roadshow"
+        },
+        {
+            "ID": 7,
+            "code": "tatT07",
+            "tatOfficeTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "ประเด็นอื่น ๆ (otherTopics)": [
+        {
+            "ID": 1,
+            "code": "othT01",
+            "otherTopics": "การเกิดอุบัติเหตุ"
+        },
+        {
+            "ID": 2,
+            "code": "othT02",
+            "otherTopics": "การลักทรัพย์/วิ่งราว"
+        },
+        {
+            "ID": 3,
+            "code": "othT03",
+            "otherTopics": "การทำร้ายร่างกาย"
+        },
+        {
+            "ID": 4,
+            "code": "othT04",
+            "otherTopics": "การทารุณสัตว์"
+        },
+        {
+            "ID": 5,
+            "code": "othT05",
+            "otherTopics": "อื่น ๆ ระบุ"
+        }
+    ],
+    "ประเด็นในการร้องเรียน (complaintIssue)": [
+        {
+            "ID": 1,
+            "code": "appl01",
+            "complaintIssue": "หลอกลวง"
+        },
+        {
+            "ID": 2,
+            "code": "appl02",
+            "complaintIssue": "ฉ้อโกง"
+        },
+        {
+            "ID": 3,
+            "code": "appl03",
+            "complaintIssue": "เอารัดเอาเปรียบ"
+        },
+        {
+            "ID": 4,
+            "code": "appl04",
+            "complaintIssue": "สินค้าและบริการไม่ได้มาตรฐาน/เป็นอันตรายต่อสุขภาพ/ชีวิต/ทรัพย์สิน"
+        },
+        {
+            "ID": 5,
+            "code": "appl05",
+            "complaintIssue": "ระบบของหน่วยงานไม่มีประสิทธิภาพ"
+        },
+        {
+            "ID": 6,
+            "code": "appl06",
+            "complaintIssue": "เจ้าหน้าที่ไม่สุภาพ/ไม่มีความรู้/สื่อสารไม่ได้เจ้าหน้าที่ทุจริต/เจ้าหน้าที่ทำงานไม่มีประสิทธิภาพ"
+        },
+        {
+            "ID": 7,
+            "code": "appl07",
+            "complaintIssue": "ขโมยทรัพย์สิน/สิ่งของ"
+        },
+        {
+            "ID": 8,
+            "code": "appl08",
+            "complaintIssue": "สิ่งแวดล้อม"
+        },
+        {
+            "ID": 9,
+            "code": "appl09",
+            "complaintIssue": "ทารุณสัตว์"
+        },
+        {
+            "ID": 10,
+            "code": "appl10",
+            "complaintIssue": "อื่น ๆ ระบุ"
+        }
+    ],
+    "เอกสารแนบ (attachedDocuments)": [
+        {
+            "ID": 1,
+            "code": "attD01",
+            "attachedDocuments": "ใบเสร็จรับเงิน/หลักฐานการจอง/ตั๋วโดยสาร/หลักฐานการขอยกเลิกการจอง/หลักฐานอื่น ๆ ที่เกี่ยวข้อง"
+        },
+        {
+            "ID": 2,
+            "code": "attD02",
+            "attachedDocuments": "หมายเลขทะเบียนรถ/หมายเลขเรือ/หมายเลขอื่น ๆ ที่เกี่ยวข้องกับเหตุที่เกิด"
+        },
+        {
+            "ID": 3,
+            "code": "attD03",
+            "attachedDocuments": "ภาพถ่ายที่เกี่ยวข้องกับเหตุที่เกิด/ภาพถ่ายสถานที่เกิดเหตุ"
+        },
+        {
+            "ID": 4,
+            "code": "attD04",
+            "attachedDocuments": "สำเนาบัตรประชาชน/สำเนาพาสปอร์ตของผู้ร้องเรียน"
+        },
+        {
+            "ID": 5,
+            "code": "attD05",
+            "attachedDocuments": "หลักฐานอื่น ๆ ที่เกี่ยวข้อง (เช่น ใบแจ้งความ/ใบวินิจฉัยแพทย์)"
+        },
+        {
+            "ID": 6,
+            "code": "attD06",
+            "attachedDocuments": "ไม่จำเป็นต้องมีเอกสาร/หลักฐาน"
+        }
+    ],
+    "ประเภทวันที่เกิดเหตุ (contactDateType)": [
+        {
+            "ID": 1,
+            "code": "contD01",
+            "contactDateType": "วันจอง"
+        },
+        {
+            "ID": 2,
+            "code": "contD02",
+            "contactDateType": "วันชำระเงิน"
+        },
+        {
+            "ID": 3,
+            "code": "contD03",
+            "contactDateType": "วันที่ซื้อสินค้า"
+        },
+        {
+            "ID": 4,
+            "code": "contD04",
+            "contactDateType": "วันที่รับบริการ"
+        },
+        {
+            "ID": 5,
+            "code": "contD05",
+            "contactDateType": "วันที่เกิดเหตุ"
+        }
+    ],
+    "ประเภทสถานที่แหล่งท่องเที่ยว (touristAttractionCategory)": [
+        {
+            "ID": 1,
+            "code": "touAC01",
+            "db": 1,
+            "touristAttractionCategory": "แหล่งท่องเที่ยวทางธรรมชาติ"
+        },
+        {
+            "ID": 2,
+            "code": "touAC02",
+            "db": 2,
+            "touristAttractionCategory": "แหล่งท่องเที่ยวทางประวัติศาสตร์ และวัฒนธรรม"
+        },
+        {
+            "ID": 3,
+            "code": "touAC03",
+            "db": 3,
+            "touristAttractionCategory": "แหล่งท่องเที่ยวสำหรับกิจกรรมพิเศษ นันทนาการ และความสนใจพิเศษ"
+        }
+    ],
+    "ชนิดแหล่งท่องเที่ยว (ประเภทธรรมชาติ) (touristAttractionType)": [
+        {
+            "ID": 1,
+            "code": "touAT01",
+            "db": 1,
+            "touristAttractionType": "หมู่เกาะ"
+        },
+        {
+            "ID": 2,
+            "code": "touAT02",
+            "db": 2,
+            "touristAttractionType": "เขตรักษาพันธุ์สัตว์ป่า"
+        },
+        {
+            "ID": 3,
+            "code": "touAT03",
+            "db": 3,
+            "touristAttractionType": "เขตห้ามล่าสัตว์ป่า"
+        },
+        {
+            "ID": 4,
+            "code": "touAT04",
+            "db": 4,
+            "touristAttractionType": "จุดชมวิว"
+        },
+        {
+            "ID": 5,
+            "code": "touAT05",
+            "db": 5,
+            "touristAttractionType": "ซากฟอสซิล"
+        },
+        {
+            "ID": 6,
+            "code": "touAT06",
+            "db": 6,
+            "touristAttractionType": "ถ้ำ"
+        },
+        {
+            "ID": 7,
+            "code": "touAT07",
+            "db": 7,
+            "touristAttractionType": "ทะเลสาบ/หนอง/บึง"
+        },
+        {
+            "ID": 8,
+            "code": "touAT08",
+            "db": 8,
+            "touristAttractionType": "ทุ่งดอกไม้และพืชพันธุ์"
+        },
+        {
+            "ID": 9,
+            "code": "touAT09",
+            "db": 9,
+            "touristAttractionType": "น้ำตก"
+        },
+        {
+            "ID": 10,
+            "code": "touAT10",
+            "db": 10,
+            "touristAttractionType": "น้ำพุร้อน/บ่อน้ำร้อน/ธารน้ำ"
+        },
+        {
+            "ID": 11,
+            "code": "touAT11",
+            "db": 11,
+            "touristAttractionType": "แหล่งปะการังน้ำลึก/น้ำตื้น"
+        },
+        {
+            "ID": 12,
+            "code": "touAT12",
+            "db": 12,
+            "touristAttractionType": "ป่าชายเลน/พื้นที่ชุ่มน้ำ"
+        },
+        {
+            "ID": 13,
+            "code": "touAT13",
+            "db": 13,
+            "touristAttractionType": "ภูเขา/ธรณีสัณฐานเฉพาะ"
+        },
+        {
+            "ID": 14,
+            "code": "touAT14",
+            "db": 14,
+            "touristAttractionType": "แม่น้ำ/ลำคลอง/แก่ง"
+        },
+        {
+            "ID": 15,
+            "code": "touAT15",
+            "db": 15,
+            "touristAttractionType": "วนอุทยาน"
+        },
+        {
+            "ID": 16,
+            "code": "touAT16",
+            "db": 16,
+            "touristAttractionType": "อุทยานแห่งชาติ"
+        },
+        {
+            "ID": 17,
+            "code": "touAT17",
+            "db": 17,
+            "touristAttractionType": "ศูนย์ศึกษาธรรมชาติ/พิพิธภัณธ์ธรรมชาติ (พืชพันธุ์)"
+        },
+        {
+            "ID": 18,
+            "code": "touAT18",
+            "db": 18,
+            "touristAttractionType": "ส่วนรุกชาติ"
+        },
+        {
+            "ID": 19,
+            "code": "touAT19",
+            "db": 19,
+            "touristAttractionType": "อ่าว/หาดทราย/ชายทะเล"
+        },
+        {
+            "ID": 20,
+            "code": "touAT20",
+            "db": 20,
+            "touristAttractionType": "สวนพฤกษศาสตร์"
+        },
+        {
+            "ID": 21,
+            "code": "touAT21",
+            "db": 21,
+            "touristAttractionType": "เขื่อน/อ่างเก็บน้ำ"
+        }
+    ],
+    "ชนิดแหล่งท่องเที่ยว (ประเภทประวัติศาสตร์และวัฒนธรรม) (touristAttractionType)": [
+        {
+            "ID": 1,
+            "code": "touAT31",
+            "db": 31,
+            "touristAttractionType": "กำแพงเมือง/คูเมือง"
+        },
+        {
+            "ID": 2,
+            "code": "touAT32",
+            "db": 32,
+            "touristAttractionType": "ชุมชนโบราณ/โบราณสถาน/โบราณวัตถุ"
+        },
+        {
+            "ID": 3,
+            "code": "touAT33",
+            "db": 33,
+            "touristAttractionType": "ประวัติความเป็นมา"
+        },
+        {
+            "ID": 4,
+            "code": "touAT34",
+            "db": 34,
+            "touristAttractionType": "พระตำหนัก/วัง/พระราชวัง"
+        },
+        {
+            "ID": 5,
+            "code": "touAT35",
+            "db": 35,
+            "touristAttractionType": "พิพิธภัณฑ์"
+        },
+        {
+            "ID": 6,
+            "code": "touAT36",
+            "db": 36,
+            "touristAttractionType": "ศาสนสถาน (วัด/โบสถ์/มัสยิด ฯลฯ)"
+        },
+        {
+            "ID": 7,
+            "code": "touAT37",
+            "db": 37,
+            "touristAttractionType": "ศูนย์ศึกษาประวัติศาสตร์"
+        },
+        {
+            "ID": 8,
+            "code": "touAT38",
+            "db": 38,
+            "touristAttractionType": "อนุสาวรีย์/อนุสรณ์สถาน"
+        },
+        {
+            "ID": 9,
+            "code": "touAT39",
+            "db": 39,
+            "touristAttractionType": "อุทยานประวัติศาสตร์"
+        },
+        {
+            "ID": 10,
+            "code": "touAT40",
+            "db": 40,
+            "touristAttractionType": "ศูนย์การเรียนรู้ฯ (เกี่ยวกับกิจกรรม ผลิตภัณฑ์ และภูมิปัญญาในท้องถิ่น)"
+        },
+        {
+            "ID": 11,
+            "code": "touAT41",
+            "db": 41,
+            "touristAttractionType": "ศูนย์วัฒนธรรม"
+        },
+        {
+            "ID": 12,
+            "code": "touAT42",
+            "db": 42,
+            "touristAttractionType": "ศูนย์หัตถกรรม"
+        },
+        {
+            "ID": 13,
+            "code": "touAT43",
+            "db": 43,
+            "touristAttractionType": "วิถีชีวิตความเป็นอยู่ (ชุมชน)"
+        },
+        {
+            "ID": 14,
+            "code": "touAT44",
+            "db": 44,
+            "touristAttractionType": "หมู่บ้าน"
+        },
+        {
+            "ID": 15,
+            "code": "touAT45",
+            "db": 45,
+            "touristAttractionType": "ตลาดน้ำ/ตลาดโบราณ"
+        },
+        {
+            "ID": 16,
+            "code": "touAT46",
+            "db": 46,
+            "touristAttractionType": "เหมือง/ประวัติศาสตร์การทำเหมือง"
+        },
+        {
+            "ID": 17,
+            "code": "touAT47",
+            "db": 47,
+            "touristAttractionType": "งานประเพณี"
+        }
+    ],
+    "ชนิดแหล่งท่องเที่ยว (ประเภทกิจกรรมพิเศษฯ) (touristAttractionType)": [
+        {
+            "ID": 1,
+            "code": "touAT61",
+            "db": 61,
+            "touristAttractionType": "ศูนย์ประชุมฯ"
+        },
+        {
+            "ID": 2,
+            "code": "touAT62",
+            "db": 62,
+            "touristAttractionType": "ศูนย์กีฬา/สนามกีฬาสถานที่ทางการกีฬาทางบก/ทางน้ำ/ทางอากาศ"
+        },
+        {
+            "ID": 3,
+            "code": "touAT63",
+            "db": 63,
+            "touristAttractionType": "ศูนย์วิจัย (เกษตร)/สถานีทดลอง (เกษตร)"
+        },
+        {
+            "ID": 4,
+            "code": "touAT64",
+            "db": 64,
+            "touristAttractionType": "โครงการหลวง/โครงการพระราชดำริ"
+        },
+        {
+            "ID": 5,
+            "code": "touAT65",
+            "db": 65,
+            "touristAttractionType": "ไร่/สวนเกษตร (ฟาร์มสัตว์/ประมง)"
+        },
+        {
+            "ID": 6,
+            "code": "touAT66",
+            "db": 66,
+            "touristAttractionType": "สวนสาธารณะ/สวนหย่อม"
+        },
+        {
+            "ID": 7,
+            "code": "touAT67",
+            "db": 67,
+            "touristAttractionType": "สวนสัตว์/ศูนย์ฝึกสัตว์/พิพิธภัณฑ์สัตว์"
+        },
+        {
+            "ID": 8,
+            "code": "touAT68",
+            "db": 68,
+            "touristAttractionType": "สวนสนุก/สวนน้ำ"
+        },
+        {
+            "ID": 9,
+            "code": "touAT69",
+            "db": 69,
+            "touristAttractionType": "ธีมปาร์ค (Theme Park)"
+        },
+        {
+            "ID": 10,
+            "code": "touAT70",
+            "db": 70,
+            "touristAttractionType": "สถานปฏิบัติธรรม"
+        },
+        {
+            "ID": 11,
+            "code": "touAT71",
+            "db": 71,
+            "touristAttractionType": "โรงละคร/โรงมหรสพ (โชว์)"
+        },
+        {
+            "ID": 12,
+            "code": "touAT72",
+            "db": 72,
+            "touristAttractionType": "โรงภาพยนต์โบราณ (โรงหนังเก่า)"
+        },
+        {
+            "ID": 13,
+            "code": "touAT73",
+            "db": 73,
+            "touristAttractionType": "ห้างสรรพสินค้า/แหล่งชอปปิง/ตลาดสด/ตลาดนัด/ถนนคนเดิน"
+        },
+        {
+            "ID": 14,
+            "code": "touAT74",
+            "db": 74,
+            "touristAttractionType": "สุขภาพและความงาม"
+        },
+        {
+            "ID": 15,
+            "code": "touAT75",
+            "db": 75,
+            "touristAttractionType": "จุดผ่านแดน/ชายแดน"
+        }
+    ],
+    "กลุ่มเป้าหมาย (targetGroup)": [
+        {
+            "ID": 1,
+            "code": "tarG01",
+            "db": 11,
+            "targetGroup": "กลุ่มครอบครัว"
+        },
+        {
+            "ID": 2,
+            "code": "tarG02",
+            "db": 12,
+            "targetGroup": "กลุ่มผู้สูงอายุ"
+        },
+        {
+            "ID": 3,
+            "code": "tarG03",
+            "db": 13,
+            "targetGroup": "กลุ่มวัยทำงาน"
+        },
+        {
+            "ID": 4,
+            "code": "tarG04",
+            "db": 15,
+            "targetGroup": "กลุ่มสตรี"
+        },
+        {
+            "ID": 5,
+            "code": "tarG05",
+            "db": 16,
+            "targetGroup": "กลุ่มมุสลิม"
+        },
+        {
+            "ID": 6,
+            "code": "tarG06",
+            "db": 17,
+            "targetGroup": "กลุ่มคู่รัก/คู่แต่งงาน"
+        },
+        {
+            "ID": 7,
+            "code": "tarG07",
+            "db": 30,
+            "targetGroup": "นักเรียนนักศึกษา/เยาวชน/วัยรุ่น"
+        }
+    ],
+    "กลุ่มเป้าหมายความสนใจพิเศษ (specificTargetGroup)": [
+        {
+            "ID": 1,
+            "code": "speTG01",
+            "db": 21,
+            "specificTargetGroup": "กลุ่ม Golf"
+        },
+        {
+            "ID": 2,
+            "code": "speTG02",
+            "db": 22,
+            "specificTargetGroup": "กลุ่ม Wedding & Honeymoon"
+        },
+        {
+            "ID": 3,
+            "code": "speTG03",
+            "db": 23,
+            "specificTargetGroup": "กลุ่ม Health & Wellness"
+        },
+        {
+            "ID": 4,
+            "code": "speTG04",
+            "db": 24,
+            "specificTargetGroup": "กลุ่ม Soft Adventure & Ecotourism"
+        },
+        {
+            "ID": 5,
+            "code": "speTG05",
+            "db": 25,
+            "specificTargetGroup": "กลุ่มท่องเที่ยวเชิงศาสนา"
+        },
+        {
+            "ID": 6,
+            "code": "speTG06",
+            "db": 26,
+            "specificTargetGroup": "กลุ่ม MICE/ศึกษาดูงาน"
+        },
+        {
+            "ID": 7,
+            "code": "speTG07",
+            "db": 27,
+            "specificTargetGroup": "กลุ่ม Volunteer Tourism"
+        },
+        {
+            "ID": 8,
+            "code": "speTG08",
+            "db": 28,
+            "specificTargetGroup": "กลุ่มศิลปวัฒนธรรม/ประวัติศาสตร์"
+        },
+        {
+            "ID": 9,
+            "code": "speTG09",
+            "db": 29,
+            "specificTargetGroup": "กลุ่มวิถีชีวิต/ชุมชน/วิถีเกษตร"
+        }
+    ],
+    "การเดินทางและการเข้าถึง (transportation)": [
+        {
+            "ID": 1,
+            "code": "tra01",
+            "db": 1,
+            "transportation": "รถยนต์"
+        },
+        {
+            "ID": 2,
+            "code": "tra02",
+            "db": 2,
+            "transportation": "รถไฟ"
+        },
+        {
+            "ID": 3,
+            "code": "tra03",
+            "db": 3,
+            "transportation": "เรือ"
+        },
+        {
+            "ID": 4,
+            "code": "tra04",
+            "db": 4,
+            "transportation": "รถโดยสารประจำทาง"
+        },
+        {
+            "ID": 5,
+            "code": "tra05",
+            "db": 5,
+            "transportation": "เดินเท้า"
+        },
+        {
+            "ID": 6,
+            "code": "tra06",
+            "db": 6,
+            "transportation": "มอเตอร์ไซค์"
+        },
+        {
+            "ID": 7,
+            "code": "tra07",
+            "db": 7,
+            "transportation": "จักรยาน"
+        },
+        {
+            "ID": 8,
+            "code": "tra08",
+            "db": 8,
+            "transportation": "รถไฟฟ้า (BTS)"
+        },
+        {
+            "ID": 9,
+            "code": "tra09",
+            "db": 9,
+            "transportation": "รถไฟฟ้าใต้ดิน (MRT)"
+        },
+        {
+            "ID": 10,
+            "code": "tra10",
+            "db": 10,
+            "transportation": "อื่น ๆ"
+        }
+    ],
+    "สิ่งอำนวยความสะดวก (สำหรับแหล่งท่องเที่ยว) (facility)": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac02",
+            "db": 2,
+            "facility": "สุขา"
+        },
+        {
+            "ID": 3,
+            "code": "fac03",
+            "db": 3,
+            "facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 4,
+            "code": "fac04",
+            "db": 4,
+            "facility": "ศูนย์บริการนักท่องเที่ยว"
+        },
+        {
+            "ID": 5,
+            "code": "fac05",
+            "db": 5,
+            "facility": "ร้านขายสินค้าที่ระลึก"
+        },
+        {
+            "ID": 6,
+            "code": "fac06",
+            "db": 6,
+            "facility": "มัคคุเทศก์ท้องถิ่น"
+        },
+        {
+            "ID": 7,
+            "code": "fac07",
+            "db": 7,
+            "facility": "ป้ายสื่อความหมาย"
+        },
+        {
+            "ID": 8,
+            "code": "fac08",
+            "db": 8,
+            "facility": "ป้ายชี้ทางเข้าถึง"
+        },
+        {
+            "ID": 9,
+            "code": "fac09",
+            "db": 9,
+            "facility": "ที่พักสัตว์เลี้ยง (สุนัข)"
+        },
+        {
+            "ID": 10,
+            "code": "fac10",
+            "db": 10,
+            "facility": "ที่พักสัตว์เลี้ยง (แมว)"
+        },
+        {
+            "ID": 11,
+            "code": "fac11",
+            "db": 11,
+            "facility": "ที่พักสัตว์เลี้ยง(อื่น ๆ)"
+        },
+        {
+            "ID": 12,
+            "code": "fac12",
+            "db": 12,
+            "facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 13,
+            "code": "fac13",
+            "db": 13,
+            "facility": "ร้านกาแฟ"
+        },
+        {
+            "ID": 14,
+            "code": "fac14",
+            "db": 14,
+            "facility": "ห้องน้ำผู้สูงอายุ"
+        },
+        {
+            "ID": 15,
+            "code": "fac15",
+            "db": 15,
+            "facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 16,
+            "code": "fac16",
+            "db": 16,
+            "facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 17,
+            "code": "fac17",
+            "db": 17,
+            "facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 18,
+            "code": "fac22",
+            "db": 41,
+            "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "สิ่งอำนวยความสะดวกสำหรับผู้พิการ/ผู้สูงอายุ (disabledFacility)": [
+        {
+            "ID": 1,
+            "code": "hanF01",
+            "db": 1,
+            "disabledFacility": "ลานจอดรถผู้พิการ/ผู้สูงอายุ"
+        },
+        {
+            "ID": 2,
+            "code": "hanF02",
+            "db": 2,
+            "disabledFacility": "ศูนย์บริการสำหรับผู้พิการ"
+        },
+        {
+            "ID": 3,
+            "code": "hanF03",
+            "db": 3,
+            "disabledFacility": "ทางลาด"
+        },
+        {
+            "ID": 4,
+            "code": "hanF04",
+            "db": 4,
+            "disabledFacility": "ห้องน้ำสำหรับคนพิการ"
+        },
+        {
+            "ID": 5,
+            "code": "hanF05",
+            "db": 5,
+            "disabledFacility": "ลิฟท์"
+        },
+        {
+            "ID": 6,
+            "code": "hanF06",
+            "db": 6,
+            "disabledFacility": "อักษรเบลล์"
+        },
+        {
+            "ID": 7,
+            "code": "hanF07",
+            "db": 7,
+            "disabledFacility": "บริการรถเข็น"
+        }
+    ],
+    "ประเภทที่พักแรม (typeofAccommodation)": [
+        {
+            "ID": 1,
+            "code": "typA01",
+            "db": 1,
+            "typeofAccommodation": "โรงแรม"
+        },
+        {
+            "ID": 2,
+            "code": "typA02",
+            "db": 2,
+            "typeofAccommodation": "รีสอร์ท"
+        },
+        {
+            "ID": 3,
+            "code": "typA03",
+            "db": 3,
+            "typeofAccommodation": "เกสท์เฮ้าส์"
+        },
+        {
+            "ID": 4,
+            "code": "typA04",
+            "db": 4,
+            "typeofAccommodation": "บังกะโล"
+        },
+        {
+            "ID": 5,
+            "code": "typA05",
+            "db": 5,
+            "typeofAccommodation": "โมเต็ล"
+        },
+        {
+            "ID": 6,
+            "code": "typA06",
+            "db": 6,
+            "typeofAccommodation": "เซอร์วิส อพาร์ทเมนท์"
+        },
+        {
+            "ID": 7,
+            "code": "typA07",
+            "db": 7,
+            "typeofAccommodation": "อพาร์ทเมนท์/แมนชั่น"
+        },
+        {
+            "ID": 8,
+            "code": "typA08",
+            "db": 8,
+            "typeofAccommodation": "แพ"
+        },
+        {
+            "ID": 9,
+            "code": "typA09",
+            "db": 9,
+            "typeofAccommodation": "โฮมสเตย์/เรือนพักแรม"
+        },
+        {
+            "ID": 10,
+            "code": "typA10",
+            "db": 10,
+            "typeofAccommodation": "บ้านพักเยาวชน"
+        },
+        {
+            "ID": 11,
+            "code": "typA11",
+            "db": 11,
+            "typeofAccommodation": "บ้านพักอุทยาน/ที่พักของหน่วยราชการ"
+        },
+        {
+            "ID": 13,
+            "code": "typA13",
+            "db": 13,
+            "typeofAccommodation": "บ้านพักรับรอง"
+        },
+        {
+            "ID": 99,
+            "code": "typA99",
+            "db": 99,
+            "typeofAccommodation": "อื่น ๆ"
+        }
+    ],
+    "ระดับราคา (priceLevel)": [
+        {
+            "ID": 1,
+            "code": "priL01",
+            "db": 1,
+            "priceLevel": "กลุ่ม 1 ราคาตั้งแต่ 2500 บาทขึ้นไป"
+        },
+        {
+            "ID": 2,
+            "code": "priL02",
+            "db": 2,
+            "priceLevel": "กลุ่ม 2 ราคาตั้งแต่ 1500 - 2499 บาท"
+        },
+        {
+            "ID": 3,
+            "code": "priL03",
+            "db": 3,
+            "priceLevel": "กลุ่ม 3 ราคาตั้งแต่ 1000 - 1499 บาท"
+        },
+        {
+            "ID": 4,
+            "code": "priL04",
+            "db": 4,
+            "priceLevel": "กลุ่ม 4 ราคาตั้งแต่ 500 - 999 บาท"
+        },
+        {
+            "ID": 5,
+            "code": "priL05",
+            "db": 5,
+            "priceLevel": "กลุ่ม 5 ราคาน้อยกว่า 500 บาท"
+        },
+        {
+            "ID": 6,
+            "code": "priL06",
+            "db": 6,
+            "priceLevel": "ระบุราคา"
+        }
+    ],
+    "มาตรฐานใบไม้สีเขียว (greenLeafStandard)": [
+        {
+            "ID": 1,
+            "code": "greLS01",
+            "db": 1,
+            "greenLeafStandard": "ระดับ 1 ใบ"
+        },
+        {
+            "ID": 2,
+            "code": "greLS02",
+            "db": 2,
+            "greenLeafStandard": "ระดับ 2 ใบ"
+        },
+        {
+            "ID": 3,
+            "code": "greLS03",
+            "db": 3,
+            "greenLeafStandard": "ระดับ 3 ใบ"
+        },
+        {
+            "ID": 4,
+            "code": "greLS04",
+            "db": 4,
+            "greenLeafStandard": "ไม่เข้าร่วมการจัดมาตรฐาน"
+        }
+    ],
+    "บริษัทในเครือ (companyChainHotels)": [
+        {
+            "ID": 1,
+            "code": "comCH01",
+            "db": 1,
+            "companyChainHotels": "ไม่มีบริษัทในเครือ"
+        },
+        {
+            "ID": 2,
+            "code": "comCH01",
+            "db": 2,
+            "companyChainHotels": "เครือในประเทศ"
+        },
+        {
+            "ID": 3,
+            "code": "comCH01",
+            "db": 3,
+            "companyChainHotels": "เครือต่างประเทศ"
+        },
+        {
+            "ID": 4,
+            "code": "comCH01",
+            "db": 4,
+            "companyChainHotels": "เครือภายใน & ต่างประเทศ"
+        }
+    ],
+    "ประเภทสถานที่พักแรมตามรูปแบบทางการตลาด (hotelCategory)": [
+        {
+            "ID": 1,
+            "code": "hotMC01",
+            "db": 1,
+            "hotelCategory": "Boutique Hotel & Resorts"
+        },
+        {
+            "ID": 2,
+            "code": "hotMC02",
+            "db": 2,
+            "hotelCategory": "Green Hotels & Resorts"
+        },
+        {
+            "ID": 3,
+            "code": "hotMC03",
+            "db": 3,
+            "hotelCategory": "Honey Moon"
+        },
+        {
+            "ID": 4,
+            "code": "hotMC04",
+            "db": 4,
+            "hotelCategory": "Pool Villas"
+        },
+        {
+            "ID": 5,
+            "code": "hotMC05",
+            "db": 5,
+            "hotelCategory": "Indian Wedding"
+        },
+        {
+            "ID": 6,
+            "code": "hotMC06",
+            "db": 6,
+            "hotelCategory": "Elders/Families and Socially Challenged Guests"
+        }
+    ],
+    "กลุ่มประเทศของนักท่องเที่ยว (touristCountryGroup)": [
+        {
+            "ID": 1,
+            "code": "touCG01",
+            "touristCountryGroup": "เอเชีย"
+        },
+        {
+            "ID": 2,
+            "code": "touCG02",
+            "touristCountryGroup": "เอเชียตะวันออกเฉียงเหนือ"
+        },
+        {
+            "ID": 3,
+            "code": "touCG03",
+            "touristCountryGroup": "เอเชียใต้"
+        },
+        {
+            "ID": 4,
+            "code": "touCG04",
+            "touristCountryGroup": "อเมริกา"
+        },
+        {
+            "ID": 5,
+            "code": "touCG05",
+            "touristCountryGroup": "ยุโรป"
+        },
+        {
+            "ID": 6,
+            "code": "touCG06",
+            "touristCountryGroup": "ยุโรปตะวันออก"
+        },
+        {
+            "ID": 7,
+            "code": "touCG07",
+            "touristCountryGroup": "ตะวันออกกลาง"
+        },
+        {
+            "ID": 8,
+            "code": "touCG08",
+            "touristCountryGroup": "แอฟริกา"
+        }
+    ],
+    "สิ่งอำนวยความสะดวก (สำหรับที่พัก) (facility)": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac03",
+            "db": 3,
+            "facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fac12",
+            "db": 12,
+            "facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 4,
+            "code": "fac13",
+            "db": 13,
+            "facility": "ร้านกาแฟ"
+        },
+        {
+            "ID": 5,
+            "code": "fac14",
+            "db": 14,
+            "facility": "ห้องน้ำผู้สูงอายุ"
+        },
+        {
+            "ID": 6,
+            "code": "fac15",
+            "db": 15,
+            "facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 7,
+            "code": "fac16",
+            "db": 16,
+            "facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 8,
+            "code": "fac17",
+            "db": 17,
+            "facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 9,
+            "code": "fac18",
+            "db": 18,
+            "facility": "อาหารเช้าแบบบุฟเฟต์"
+        },
+        {
+            "ID": 10,
+            "code": "fac19",
+            "db": 19,
+            "facility": "สระว่ายน้ำ"
+        },
+        {
+            "ID": 11,
+            "code": "fac20",
+            "db": 20,
+            "facility": "ฟิตเนส"
+        },
+        {
+            "ID": 12,
+            "code": "fac21",
+            "db": 21,
+            "facility": "บาร์/เลาจ์/ผับ"
+        },
+        {
+            "ID": 13,
+            "code": "fac22",
+            "db": 41,
+            "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "บริการสิ่งอำนวยความสะดวก (สำหรับที่พัก) (facilityService)": [
+        {
+            "ID": 1,
+            "code": "facS01",
+            "db": 1,
+            "facilityService": "บริการซักรีด"
+        },
+        {
+            "ID": 2,
+            "code": "facS02",
+            "db": 2,
+            "facilityService": "Room Service 24 ชม."
+        },
+        {
+            "ID": 3,
+            "code": "facS03",
+            "db": 3,
+            "facilityService": "รถรับส่ง"
+        },
+        {
+            "ID": 4,
+            "code": "facS04",
+            "db": 4,
+            "facilityService": "รับฝากของ"
+        },
+        {
+            "ID": 5,
+            "code": "facS05",
+            "db": 5,
+            "facilityService": "แผนกต้อนรับ 24 ชม."
+        }
+    ],
+    "ช่องทางการชำระเงิน (paymentChannel)": [
+        {
+            "ID": 1,
+            "code": "payC01",
+            "paymentChannel": "VISA"
+        },
+        {
+            "ID": 2,
+            "code": "payc02",
+            "paymentChannel": "Master"
+        },
+        {
+            "ID": 3,
+            "code": "payC03",
+            "paymentChannel": "American Express"
+        },
+        {
+            "ID": 4,
+            "code": "payC04",
+            "paymentChannel": "Debit"
+        },
+        {
+            "ID": 5,
+            "code": "payC05",
+            "paymentChannel": "Cash"
+        }
+    ],
+    "สถานะที่พักแรม (accommodationStatus)": [
+        {
+            "ID": 1,
+            "code": "accS01",
+            "Fixed code": 1,
+            "accommodationStatus": "เปิด"
+        },
+        {
+            "ID": 2,
+            "code": "accS02",
+            "Fixed code": 2,
+            "accommodationStatus": "ปิดปรับปรุง"
+        },
+        {
+            "ID": 3,
+            "code": "accS02",
+            "Fixed code": 3,
+            "accommodationStatus": "ปิดกิจการ"
+        }
+    ],
+    "การนับจำนวน (countingNumber)": [
+        {
+            "ID": 1,
+            "code": "countNO1",
+            "countingNumber": "สะสม"
+        },
+        {
+            "ID": 2,
+            "code": "countNO2",
+            "countingNumber": "ที่พักที่เพิ่มขึ้นระหว่างปี"
+        }
+    ],
+    "ใบอนุญาต (hotelBusinessLicense)": [
+        {
+            "ID": 1,
+            "code": "hotelLi01",
+            "hotelBusinessLicense": "มี"
+        },
+        {
+            "ID": 2,
+            "code": "hoteli02",
+            "hotelBusinessLicense": "ไม่มี"
+        }
+    ],
+    "ประเภทอาหาร (foodType)": [
+        {
+            "ID": 1,
+            "code": "fooT01",
+            "db": 1,
+            "foodType": "Thai northern food"
+        },
+        {
+            "ID": 2,
+            "code": "fooT02",
+            "db": 2,
+            "foodType": "Vietnamese food"
+        },
+        {
+            "ID": 3,
+            "code": "fooT03",
+            "db": 3,
+            "foodType": "Barbecue"
+        },
+        {
+            "ID": 4,
+            "code": "fooT04",
+            "db": 4,
+            "foodType": "Barcirerie/Cafe"
+        },
+        {
+            "ID": 5,
+            "code": "fooT05",
+            "db": 5,
+            "foodType": "Cajun/Creole/Soul"
+        },
+        {
+            "ID": 6,
+            "code": "fooT06",
+            "db": 6,
+            "foodType": "Chinese"
+        },
+        {
+            "ID": 7,
+            "code": "fooT07",
+            "db": 7,
+            "foodType": "Desserts"
+        },
+        {
+            "ID": 8,
+            "code": "fooT08",
+            "db": 8,
+            "foodType": "European"
+        },
+        {
+            "ID": 9,
+            "code": "fooT09",
+            "db": 9,
+            "foodType": "Fast Food/Snack"
+        },
+        {
+            "ID": 10,
+            "code": "fooT10",
+            "db": 10,
+            "foodType": "French/Bistro"
+        },
+        {
+            "ID": 11,
+            "code": "fooT11",
+            "db": 11,
+            "foodType": "Greek"
+        },
+        {
+            "ID": 12,
+            "code": "fooT12",
+            "db": 12,
+            "foodType": "Halal and Kosher"
+        },
+        {
+            "ID": 13,
+            "code": "fooT13",
+            "db": 13,
+            "foodType": "Icecream"
+        },
+        {
+            "ID": 14,
+            "code": "fooT14",
+            "db": 14,
+            "foodType": "Indonesian"
+        },
+        {
+            "ID": 15,
+            "code": "fooT15",
+            "db": 15,
+            "foodType": "American"
+        },
+        {
+            "ID": 16,
+            "code": "fooT16",
+            "db": 16,
+            "foodType": "Asian Fusion"
+        },
+        {
+            "ID": 17,
+            "code": "fooT17",
+            "db": 17,
+            "foodType": "Coffee Shop"
+        },
+        {
+            "ID": 18,
+            "code": "fooT18",
+            "db": 18,
+            "foodType": "Thai Food"
+        },
+        {
+            "ID": 19,
+            "code": "fooT19",
+            "db": 19,
+            "foodType": "Japanese"
+        },
+        {
+            "ID": 20,
+            "code": "fooT20",
+            "db": 20,
+            "foodType": "Thai-lsan"
+        },
+        {
+            "ID": 21,
+            "code": "fooT21",
+            "db": 21,
+            "foodType": "Noodle"
+        },
+        {
+            "ID": 22,
+            "code": "fooT22",
+            "db": 22,
+            "foodType": "Italian"
+        },
+        {
+            "ID": 23,
+            "code": "fooT23",
+            "db": 23,
+            "foodType": "Seafood"
+        },
+        {
+            "ID": 24,
+            "code": "fooT24",
+            "db": 24,
+            "foodType": "Muslim Food"
+        },
+        {
+            "ID": 25,
+            "code": "fooT25",
+            "db": 25,
+            "foodType": "Vietnam Food"
+        },
+        {
+            "ID": 26,
+            "code": "fooT26",
+            "db": 41,
+            "foodType": "Indian"
+        }
+    ],
+    "สิ่งอำนวยความสะดวก (สำหรับร้านอาหาร) (facility)": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac03",
+            "db": 3,
+            "facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fac12",
+            "db": 12,
+            "facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 4,
+            "code": "fac13",
+            "db": 13,
+            "facility": "ร้านกาแฟ"
+        },
+        {
+            "ID": 5,
+            "code": "fac14",
+            "db": 14,
+            "facility": "ห้องน้ำผู้สูงอายุ"
+        },
+        {
+            "ID": 6,
+            "code": "fac15",
+            "db": 15,
+            "facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 7,
+            "code": "fac16",
+            "db": 16,
+            "facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 8,
+            "code": "fac17",
+            "db": 17,
+            "facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 9,
+            "code": "fac18",
+            "db": 18,
+            "facility": "อาหารเช้าแบบบุฟเฟต์"
+        },
+        {
+            "ID": 10,
+            "code": "fac19",
+            "db": 19,
+            "facility": "สระว่ายน้ำ"
+        },
+        {
+            "ID": 11,
+            "code": "fac20",
+            "db": 20,
+            "facility": "ฟิตเนส"
+        },
+        {
+            "ID": 12,
+            "code": "fac21",
+            "db": 21,
+            "facility": "บาร์/เลาจ์/ผับ"
+        },
+        {
+            "ID": 13,
+            "code": "fac22",
+            "db": 41,
+            "facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "บริการอำนวยความสะดวก (สำหรับร้านอาหาร) (facilityService)": [
+        {
+            "ID": 1,
+            "code": "facS06",
+            "db": 6,
+            "facilityService": "บริการ 24 ชม."
+        },
+        {
+            "ID": 2,
+            "code": "facS07",
+            "db": 8,
+            "facilityService": "บริการจองโต๊ะ"
+        }
+    ],
+    "ประเภทการให้บริการ (serviceType)": [
+        {
+            "ID": 1,
+            "code": "servT01",
+            "serviceType": "บริการ 24 ชั่วโมง"
+        },
+        {
+            "ID": 2,
+            "code": "servT02",
+            "serviceType": "ชายามบ่าย"
+        },
+        {
+            "ID": 3,
+            "code": "servT03",
+            "serviceType": "ร้านกลางแจ้ง"
+        },
+        {
+            "ID": 4,
+            "code": "servT04",
+            "serviceType": "บรันช์"
+        },
+        {
+            "ID": 5,
+            "code": "servT05",
+            "serviceType": "บุฟเฟต์"
+        },
+        {
+            "ID": 6,
+            "code": "servT06",
+            "serviceType": "คาเฟ่"
+        },
+        {
+            "ID": 7,
+            "code": "servT07",
+            "serviceType": "ราคาประหยัด"
+        },
+        {
+            "ID": 8,
+            "code": "servT08",
+            "serviceType": "ครอบครัว"
+        },
+        {
+            "ID": 9,
+            "code": "servT09",
+            "serviceType": "ชิลล์เอ้าต์"
+        },
+        {
+            "ID": 10,
+            "code": "servT10",
+            "serviceType": "จัดเลี้ยงบริษัท"
+        },
+        {
+            "ID": 11,
+            "code": "servT11",
+            "serviceType": "ดินเนอร์แบบทางการ"
+        },
+        {
+            "ID": 12,
+            "code": "servT12",
+            "serviceType": "เกย์และเลสเบี้ยน"
+        },
+        {
+            "ID": 13,
+            "code": "servT13",
+            "serviceType": "เล่นดนตรีสด"
+        },
+        {
+            "ID": 14,
+            "code": "servT14",
+            "serviceType": "ออร์แกนิก"
+        },
+        {
+            "ID": 15,
+            "code": "servT15",
+            "serviceType": "บรรยากาศส่วนตัว"
+        },
+        {
+            "ID": 16,
+            "code": "servT16",
+            "serviceType": "ผับและบาร์"
+        },
+        {
+            "ID": 17,
+            "code": "servT17",
+            "serviceType": "เงียบสงบ"
+        },
+        {
+            "ID": 18,
+            "code": "servT18",
+            "serviceType": "โรแมนติก เดตแรก"
+        },
+        {
+            "ID": 19,
+            "code": "servT19",
+            "serviceType": "ร้านในสวน"
+        },
+        {
+            "ID": 20,
+            "code": "servT20",
+            "serviceType": "อาหารค่ำ"
+        },
+        {
+            "ID": 21,
+            "code": "servT21",
+            "serviceType": "วิวสวย"
+        },
+        {
+            "ID": 22,
+            "code": "servT22",
+            "serviceType": "ริมน้ำ"
+        },
+        {
+            "ID": 23,
+            "code": "servT23",
+            "serviceType": "เครื่องดื่ม"
+        },
+        {
+            "ID": 24,
+            "code": "servT24",
+            "serviceType": "เบเกอรี่"
+        },
+        {
+            "ID": 25,
+            "code": "servT25",
+            "serviceType": "ของว่าง"
+        }
+    ],
+    "สถานะ (shopStatus)": [
+        {
+            "ID": 1,
+            "code": "shopS01",
+            "shopStatus": "เปิด"
+        },
+        {
+            "ID": 2,
+            "code": "shopS02",
+            "shopStatus": "ปิดปรับปรุง"
+        },
+        {
+            "ID": 3,
+            "code": "shopS03",
+            "shopStatus": "ปิดกิจการ"
+        },
+        {
+            "ID": 4,
+            "code": "shopS04",
+            "shopStatus": "อื่นๆ"
+        }
+    ],
+    "ประเภทร้านขายของที่ระลึก (shopType)": [
+        {
+            "ID": 1,
+            "code": "shoTy01",
+            "db": 1,
+            "shopType": "เครื่องแต่งกายและส่วนประกอบของเครื่องแต่งกาย"
+        },
+        {
+            "ID": 2,
+            "code": "shoTy02",
+            "db": 2,
+            "shopType": "เครื่องเรือนหรือของตกแต่งบ้าน"
+        },
+        {
+            "ID": 3,
+            "code": "shoTy03",
+            "db": 3,
+            "shopType": "อาหารหรือสินค้าบุริโภค"
+        },
+        {
+            "ID": 4,
+            "code": "shoTy04",
+            "db": 4,
+            "shopType": "หนังสือหรือร้านขายหนังสือ"
+        },
+        {
+            "ID": 5,
+            "code": "shoTy05",
+            "db": 5,
+            "shopType": "อุปกรณ์เดินทาง"
+        },
+        {
+            "ID": 6,
+            "code": "shoTy06",
+            "db": 6,
+            "shopType": "เครื่องใช้ไฟฟ้า"
+        },
+        {
+            "ID": 7,
+            "code": "shoTy07",
+            "db": 7,
+            "shopType": "สินค้าอื่น ๆ"
+        },
+        {
+            "ID": 8,
+            "code": "shoTy08",
+            "db": 58,
+            "shopType": "อัญมณีและเครื่องประดับ"
+        },
+        {
+            "ID": 9,
+            "code": "shoTy09",
+            "db": 60,
+            "shopType": "สินค้าหัตถกรรม"
+        }
+    ],
+    "สิ่งอำนวยความสะดวก (สำหรับร้านขายของที่ระลึก) (facility)": [
+        {
+            "ID": 1,
+            "code": "fac01",
+            "db": 1,
+            "Facility": "ลานจอดรถ"
+        },
+        {
+            "ID": 2,
+            "code": "fac03",
+            "db": 3,
+            "Facility": "ร้านอาหาร"
+        },
+        {
+            "ID": 3,
+            "code": "fac12",
+            "db": 12,
+            "Facility": "บริการอินเตอร์เน็ต wifi"
+        },
+        {
+            "ID": 4,
+            "code": "fac15",
+            "db": 15,
+            "Facility": "นำสัตว์เลี้ยงเข้าได้"
+        },
+        {
+            "ID": 5,
+            "code": "fac16",
+            "db": 16,
+            "Facility": "ตู้เอทีเอ็ม"
+        },
+        {
+            "ID": 6,
+            "code": "fac17",
+            "db": 17,
+            "Facility": "ที่สูบบุหรี่"
+        },
+        {
+            "ID": 7,
+            "code": "fac22",
+            "db": 41,
+            "Facility": "สิ่งอำนวยความสะดวกสำหรับผู้พิการหรือทุพพลภาพ"
+        }
+    ],
+    "บริการอำนวยความสะดวก (สำหรับร้านขายของที่ระลึก) (facilityService)": [
+        {
+            "ID": 1,
+            "code": "facS06",
+            "db": 6,
+            "facilityService": "บริการ 24 ชม."
+        },
+        {
+            "ID": 2,
+            "code": "facS08",
+            "db": 8,
+            "facilityService": "บริการจองโต๊ะ"
+        }
+    ],
+    "กลุ่มอายุ (ageGroup)": [
+        {
+            "id": 1,
+            "code": "age01",
+            "ageGroup_TH": "18-25 ปี",
+            "ageGroup_EN": "18-25 years"
+        },
+        {
+            "id": 2,
+            "code": "age02",
+            "ageGroup_TH": "26-35 ปี",
+            "ageGroup_EN": "26-35 years"
+        },
+        {
+            "id": 3,
+            "code": "age03",
+            "ageGroup_TH": "36-45 ปี",
+            "ageGroup_EN": "36-45 years"
+        },
+        {
+            "id": 4,
+            "code": "age04",
+            "ageGroup_TH": "46-55 ปี",
+            "ageGroup_EN": "46-55 years"
+        },
+        {
+            "id": 5,
+            "code": "age05",
+            "ageGroup_TH": "56-65 ปี",
+            "ageGroup_EN": "56-65 years"
+        },
+        {
+            "id": 6,
+            "code": "age06",
+            "ageGroup_TH": "มากกว่า 65 ปี",
+            "ageGroup_EN": "Over 65 years"
+        }
+    ],
+    "กลุ่มอายุแบบกว้าง (ageGroupIdentify)": [
+        {
+            "id": 1,
+            "code": "gen01",
+            "ageGroupIdentify_TH": "Gen Z (เกิด 1997-2012)",
+            "ageGroupIdentify_EN": "Gen Z (Born 1997-2012)"
+        },
+        {
+            "id": 2,
+            "code": "gen02",
+            "ageGroupIdentify_TH": "Gen Y/Millennials (เกิด 1981-1996)",
+            "ageGroupIdentify_EN": "Gen Y/Millennials (Born 1981-1996)"
+        },
+        {
+            "id": 3,
+            "code": "gen03",
+            "ageGroupIdentify_TH": "Gen X (เกิด 1965-1980)",
+            "ageGroupIdentify_EN": "Gen X (Born 1965-1980)"
+        },
+        {
+            "id": 4,
+            "code": "gen04",
+            "ageGroupIdentify_TH": "Baby Boomers (เกิด 1946-1964)",
+            "ageGroupIdentify_EN": "Baby Boomers (Born 1946-1964)"
+        },
+        {
+            "id": 5,
+            "code": "gen05",
+            "ageGroupIdentify_TH": "silent Generation (เกิดก่อน 1946)",
+            "ageGroupIdentify_EN": "silent Generation (Born before 1946)"
+        }
+    ],
+    "เพศ (gender)": [
+        {
+            "id": 1,
+            "code": "gender01",
+            "gender_TH": "ชาย",
+            "gender_EN": "Male"
+        },
+        {
+            "id": 2,
+            "code": "gender02",
+            "gender_TH": "หญิง",
+            "gender_EN": "Female"
+        },
+        {
+            "id": 3,
+            "code": "gender03",
+            "gender_TH": "ไม่ประสงค์เปิดเผย",
+            "gender_EN": "Prefer not to say"
+        },
+        {
+            "id": 4,
+            "code": "gender04",
+            "gender_TH": "ต้องการอธิบายอัตลักษณ์ทางเพศเพิ่มเติม",
+            "gender_EN": "Self-describe"
+        }
+    ],
+    "สถานะภาพ (maritalStatus)": [
+        {
+            "id": 1,
+            "code": "mar01",
+            "maritalStatus_TH": "โสด",
+            "maritalStatus_EN": "Single"
+        },
+        {
+            "id": 2,
+            "code": "mar02",
+            "maritalStatus_TH": "แต่งงานไม่มีลูก",
+            "maritalStatus_EN": "Married without children"
+        },
+        {
+            "id": 3,
+            "code": "mar03",
+            "maritalStatus_TH": "แต่งงานมีลูก",
+            "maritalStatus_EN": "Married with children"
+        },
+        {
+            "id": 4,
+            "code": "mar04",
+            "maritalStatus_TH": "หย่าร้าง",
+            "maritalStatus_EN": "Divorced"
+        },
+        {
+            "id": 5,
+            "code": "mar05",
+            "maritalStatus_TH": "หม้าย",
+            "maritalStatus_EN": "Widowed"
+        },
+        {
+            "id": 6,
+            "code": "mar06",
+            "maritalStatus_TH": "ไม่ประสงค์เปิดเผย",
+            "maritalStatus_EN": "Prefer not to say"
+        }
+    ],
+    "ระดับการศึกษา (educationLevel)": [
+        {
+            "id": 1,
+            "code": "edu01",
+            "educationLevel_TH": "ไม่มีการศึกษาอย่างเป็นทางการ",
+            "educationLevel_EN": "No formal education"
+        },
+        {
+            "id": 2,
+            "code": "edu02",
+            "educationLevel_TH": "ประถมศึกษา",
+            "educationLevel_EN": "Primary education"
+        },
+        {
+            "id": 3,
+            "code": "edu03",
+            "educationLevel_TH": "มัธยมต้น",
+            "educationLevel_EN": "Lower secondary education"
+        },
+        {
+            "id": 4,
+            "code": "edu04",
+            "educationLevel_TH": "มัธยมปลาย",
+            "educationLevel_EN": "Upper secondary education"
+        },
+        {
+            "id": 5,
+            "code": "edu05",
+            "educationLevel_TH": "ประกาศนียบัตรวิชาชีพ",
+            "educationLevel_EN": "Vocational certificate"
+        },
+        {
+            "id": 6,
+            "code": "edu06",
+            "educationLevel_TH": "ปริญญาตรี",
+            "educationLevel_EN": "Bachelor's degree"
+        },
+        {
+            "id": 7,
+            "code": "edu07",
+            "educationLevel_TH": "ปริญญาโทหรือสูงกว่า",
+            "educationLevel_EN": "Master's degree or higher"
+        }
+    ],
+    "อาชีพ (occupation)": [
+        {
+            "id": 1,
+            "code": "occ01",
+            "occupation_TH": "นักเรียน/นักศึกษา",
+            "occupation_EN": "Student"
+        },
+        {
+            "id": 2,
+            "code": "occ02",
+            "occupation_TH": "รับราชการ",
+            "occupation_EN": "Government officer"
+        },
+        {
+            "id": 3,
+            "code": "occ03",
+            "occupation_TH": "พนักงานรัฐวิสาหกิจ",
+            "occupation_EN": "State enterprise employee"
+        },
+        {
+            "id": 4,
+            "code": "occ04",
+            "occupation_TH": "พนักงานเอกชน/ลูกจ้างมีสังกัด",
+            "occupation_EN": "Private sector employee"
+        },
+        {
+            "id": 5,
+            "code": "occ05",
+            "occupation_TH": "เจ้าของกิจการ/ธุรกิจส่วนตัว",
+            "occupation_EN": "Business owner"
+        },
+        {
+            "id": 6,
+            "code": "occ06",
+            "occupation_TH": "รับจ้างอิสระ (Freelance)",
+            "occupation_EN": "Freelancer"
+        },
+        {
+            "id": 7,
+            "code": "occ07",
+            "occupation_TH": "อินฟลูเอนเซอร์ (Influencer)",
+            "occupation_EN": "Influencer"
+        },
+        {
+            "id": 8,
+            "code": "occ08",
+            "occupation_TH": "เกษตรกร",
+            "occupation_EN": "Farmer"
+        },
+        {
+            "id": 9,
+            "code": "occ09",
+            "occupation_TH": "เกษียณ",
+            "occupation_EN": "Retired"
+        },
+        {
+            "id": 10,
+            "code": "occ10",
+            "occupation_TH": "พ่อบ้าน/แม่บ้าน (ดูแลครอบครัว)",
+            "occupation_EN": "Housewife/Househusband"
+        },
+        {
+            "id": 11,
+            "code": "occ11",
+            "occupation_TH": "ไม่ได้ทำงาน/ว่างงาน",
+            "occupation_EN": "Unemployed"
+        },
+        {
+            "id": 12,
+            "code": "occ12",
+            "occupation_TH": "อื่น ๆ",
+            "occupation_EN": "Others"
+        }
+    ],
+    "กลุ่มรายได้ (incomeGroup)": [
+        {
+            "id": 1,
+            "code": "inc01",
+            "incomeGroup_TH": "ไม่มีรายได้",
+            "incomeGroup_EN": "No income"
+        },
+        {
+            "id": 2,
+            "code": "inc02",
+            "incomeGroup_TH": "ต่ำกว่า 10,000 บาท",
+            "incomeGroup_EN": "Less than 10,000 THB"
+        },
+        {
+            "id": 3,
+            "code": "inc03",
+            "incomeGroup_TH": "10,001 - 15,000 บาท",
+            "incomeGroup_EN": "10,001 - 15,000 THB"
+        },
+        {
+            "id": 4,
+            "code": "inc04",
+            "incomeGroup_TH": "15,001 - 30,000 บาท",
+            "incomeGroup_EN": "15,001 - 30,000 THB"
+        },
+        {
+            "id": 5,
+            "code": "inc05",
+            "incomeGroup_TH": "30,001 - 45,000 บาท",
+            "incomeGroup_EN": "30,001 - 45,000 THB"
+        },
+        {
+            "id": 6,
+            "code": "inc06",
+            "incomeGroup_TH": "45,001 - 60,000 บาท",
+            "incomeGroup_EN": "45,001 - 60,000 THB"
+        },
+        {
+            "id": 7,
+            "code": "inc07",
+            "incomeGroup_TH": "60,001 - 75,000 บาท",
+            "incomeGroup_EN": "60,001 - 75,000 THB"
+        },
+        {
+            "id": 8,
+            "code": "inc08",
+            "incomeGroup_TH": "75,001 - 90,000 บาท",
+            "incomeGroup_EN": "75,001 - 90,000 THB"
+        },
+        {
+            "id": 9,
+            "code": "inc09",
+            "incomeGroup_TH": "มากกว่า 90,000 บาท",
+            "incomeGroup_EN": "More than 90,000 THB"
+        },
+        {
+            "id": 10,
+            "code": "inc10",
+            "incomeGroup_TH": "ไม่ระบุ",
+            "incomeGroup_EN": "Not specified"
+        }
+    ],
+    "การมีส่วนร่วมในการวางแผนท่องเที่ยว (participateInPlanning)": [
+        {
+            "id": 1,
+            "code": "plp01",
+            "participateInPlanning_TH": "เป็นผู้ตัดสินใจหลัก",
+            "participateInPlanning_EN": "Primary decision maker"
+        },
+        {
+            "id": 2,
+            "code": "plp02",
+            "participateInPlanning_TH": "มีส่วนร่วมในการตัดสินใจ",
+            "participateInPlanning_EN": "Participate in decision making"
+        },
+        {
+            "id": 3,
+            "code": "plp03",
+            "participateInPlanning_TH": "ให้ความคิดเห็นเป็นครั้งคราว",
+            "participateInPlanning_EN": "Occasional input"
+        },
+        {
+            "id": 4,
+            "code": "plp04",
+            "participateInPlanning_TH": "ไม่มีส่วนร่วม",
+            "participateInPlanning_EN": "No participation"
+        }
+    ],
+    "การออกค่าใช้จ่ายในการท่องเที่ยว (coverTravelExpenses)": [
+        {
+            "id": 1,
+            "code": "cte01",
+            "coverTravelExpenses_TH": "ออกค่าใช้จ่ายทั้งหมดเอง",
+            "coverTravelExpenses_EN": "Pay all expenses myself"
+        },
+        {
+            "id": 2,
+            "code": "cte02",
+            "coverTravelExpenses_TH": "ออกค่าใช้จ่ายบางส่วน",
+            "coverTravelExpenses_EN": "Share expenses"
+        },
+        {
+            "id": 3,
+            "code": "cte03",
+            "coverTravelExpenses_TH": "ไม่ออกค่าใช้จ่าย",
+            "coverTravelExpenses_EN": "Others pay for me"
+        },
+        {
+            "id": 4,
+            "code": "cte04",
+            "coverTravelExpenses_TH": "ไม่แน่ใจ",
+            "coverTravelExpenses_EN": "Not sure"
+        }
+    ],
+    "ความถี่ในการท่องเที่ยวประเทศไทย (frequencyOfVisitingThailand)": [
+        {
+            "id": 1,
+            "code": "fvt01",
+            "frequencyOfVisitingThailand_TH": "เป็นครั้งแรก",
+            "frequencyOfVisitingThailand_EN": "First time"
+        },
+        {
+            "id": 2,
+            "code": "fvt02",
+            "frequencyOfVisitingThailand_TH": "1-2 ครั้งต่อปี",
+            "frequencyOfVisitingThailand_EN": "1-2 times per year"
+        },
+        {
+            "id": 3,
+            "code": "fvt03",
+            "frequencyOfVisitingThailand_TH": "3-4 ครั้งต่อปี",
+            "frequencyOfVisitingThailand_EN": "3-4 times per year"
+        },
+        {
+            "id": 4,
+            "code": "fvt04",
+            "frequencyOfVisitingThailand_TH": "5-6 ครั้งต่อปี",
+            "frequencyOfVisitingThailand_EN": "5-6 times per year"
+        },
+        {
+            "id": 5,
+            "code": "fvt05",
+            "frequencyOfVisitingThailand_TH": "มากกว่า 6 ครั้งต่อปี",
+            "frequencyOfVisitingThailand_EN": "More than 6 times per year"
+        },
+        {
+            "id": 6,
+            "code": "fvt06",
+            "frequencyOfVisitingThailand_TH": "ไม่แน่นอน/ขึ้นอยู่กับโอกาส",
+            "frequencyOfVisitingThailand_EN": "Irregular/depends on opportunity"
+        }
+    ],
+    "ความถี่ท่องเที่ยวไทยช่วงไตรมาสล่าสุด (frequencyOfVisitingThailandPastQuarter)": [
+        {
+            "id": 1,
+            "code": "fpq01",
+            "frequencyPastQuarter_TH": "ไม่ได้เดินทาง",
+            "frequencyPastQuarter_EN": "Did not travel"
+        },
+        {
+            "id": 2,
+            "code": "fpq02",
+            "frequencyPastQuarter_TH": "1 ครั้ง",
+            "frequencyPastQuarter_EN": "1 time"
+        },
+        {
+            "id": 3,
+            "code": "fpq03",
+            "frequencyPastQuarter_TH": "2 ครั้ง",
+            "frequencyPastQuarter_EN": "2 times"
+        },
+        {
+            "id": 4,
+            "code": "fpq04",
+            "frequencyPastQuarter_TH": "3 ครั้ง",
+            "frequencyPastQuarter_EN": "3 times"
+        },
+        {
+            "id": 5,
+            "code": "fpq05",
+            "frequencyPastQuarter_TH": "มากกว่า 3 ครั้ง",
+            "frequencyPastQuarter_EN": "More than 3 times"
+        }
+    ],
+    "สาเหตุที่ไม่ท่องเที่ยวไทยช่วงไตรมาสล่าสุด (reasonNotTravelPastQuarter)": [
+        {
+            "id": 1,
+            "code": "rnt01",
+            "reasonNotTravel_TH": "ไม่มีเวลา",
+            "reasonNotTravel_EN": "No time"
+        },
+        {
+            "id": 2,
+            "code": "rnt02",
+            "reasonNotTravel_TH": "ไม่มีงบประมาณ",
+            "reasonNotTravel_EN": "No budget"
+        },
+        {
+            "id": 3,
+            "code": "rnt03",
+            "reasonNotTravel_TH": "ติดภาระงาน",
+            "reasonNotTravel_EN": "Work obligations"
+        },
+        {
+            "id": 4,
+            "code": "rnt04",
+            "reasonNotTravel_TH": "ปัญหาสุขภาพ",
+            "reasonNotTravel_EN": "Health issues"
+        },
+        {
+            "id": 5,
+            "code": "rnt05",
+            "reasonNotTravel_TH": "ปัญหาการเดินทาง",
+            "reasonNotTravel_EN": "Transportation issues"
+        },
+        {
+            "id": 6,
+            "code": "rnt06",
+            "reasonNotTravel_TH": "สถานการณ์โควิด-19",
+            "reasonNotTravel_EN": "COVID-19 situation"
+        },
+        {
+            "id": 7,
+            "code": "rnt07",
+            "reasonNotTravel_TH": "ไม่มีความสนใจ",
+            "reasonNotTravel_EN": "No interest"
+        },
+        {
+            "id": 8,
+            "code": "rnt08",
+            "reasonNotTravel_TH": "อื่น ๆ",
+            "reasonNotTravel_EN": "Others"
+        }
+    ],
+    "ความสำคัญของข้อมูล ททท. ในการวางแผน (infoImportance)": [
+        {
+            "id": 1,
+            "code": "imp01",
+            "infoImportance_TH": "สำคัญน้อยที่สุด (1)",
+            "infoImportance_EN": "Very Low Importance (1)"
+        },
+        {
+            "id": 2,
+            "code": "imp02",
+            "infoImportance_TH": "สำคัญน้อย (2)",
+            "infoImportance_EN": "Low Importance (2)"
+        },
+        {
+            "id": 3,
+            "code": "imp03",
+            "infoImportance_TH": "สำคัญปานกลาง (3)",
+            "infoImportance_EN": "Medium Importance (3)"
+        },
+        {
+            "id": 4,
+            "code": "imp04",
+            "infoImportance_TH": "สำคัญมาก (4)",
+            "infoImportance_EN": "High Importance (4)"
+        },
+        {
+            "id": 5,
+            "code": "imp05",
+            "infoImportance_TH": "สำคัญมากที่สุด (5)",
+            "infoImportance_EN": "Very High Importance (5)"
+        }
+    ],
+    "ความถี่ได้รับข้อมูลสื่อสารจาก ททท. (frequencyReceivedCommunication)": [
+        {
+            "id": 1,
+            "code": "frc01",
+            "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อวัน",
+            "frequencyUsed_EN": "Once a day"
+        },
+        {
+            "id": 2,
+            "code": "frc02",
+            "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อสัปดาห์",
+            "frequencyUsed_EN": "Once a week"
+        },
+        {
+            "id": 3,
+            "code": "frc03",
+            "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อเดือน",
+            "frequencyUsed_EN": "Once a month"
+        },
+        {
+            "id": 4,
+            "code": "frc04",
+            "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อไตรมาส",
+            "frequencyUsed_EN": "Once a quarter"
+        },
+        {
+            "id": 5,
+            "code": "frc05",
+            "frequencyUsed_TH": "ได้รับ 1 ครั้งต่อปี",
+            "frequencyUsed_EN": "Once a year"
+        },
+        {
+            "id": 6,
+            "code": "frc06",
+            "frequencyUsed_TH": "ได้รับนาน ๆ ครั้ง",
+            "frequencyUsed_EN": "Rarely"
+        },
+        {
+            "id": 7,
+            "code": "frc07",
+            "frequencyUsed_TH": "ไม่เคยได้รับ",
+            "frequencyUsed_EN": "Never"
+        }
+    ],
+    "ความถี่ใช้ข้อมูล ททท. ประกอบการตัดสินใจ (frequencyUsedInformation)": [
+        {
+            "id": 1,
+            "code": "fui01",
+            "frequencyUsed_TH": "ใช้ทุกครั้งที่วางแผนท่องเที่ยว",
+            "frequencyUsed_EN": "Every time I plan travel"
+        },
+        {
+            "id": 2,
+            "code": "fui02",
+            "frequencyUsed_TH": "ใช้บ่อย ๆ",
+            "frequencyUsed_EN": "Frequently"
+        },
+        {
+            "id": 3,
+            "code": "fui03",
+            "frequencyUsed_TH": "ใช้เป็นครั้งคราว",
+            "frequencyUsed_EN": "Occasionally"
+        },
+        {
+            "id": 4,
+            "code": "fui04",
+            "frequencyUsed_TH": "ใช้นาน ๆ ครั้ง",
+            "frequencyUsed_EN": "Rarely"
+        },
+        {
+            "id": 5,
+            "code": "fui05",
+            "frequencyUsed_TH": "ไม่เคยใช้",
+            "frequencyUsed_EN": "Never use"
+        }
+    ],
+    "ระดับความเชื่อถือข้อมูล ททท. (infoTrustLevel)": [
+        {
+            "id": 1,
+            "code": "trl01",
+            "trustLevel_TH": "เชื่อถือน้อยที่สุด (1)",
+            "trustLevel_EN": "Very Low Trust (1)"
+        },
+        {
+            "id": 2,
+            "code": "trl02",
+            "trustLevel_TH": "เชื่อถือน้อย (2)",
+            "trustLevel_EN": "Low Trust (2)"
+        },
+        {
+            "id": 3,
+            "code": "trl03",
+            "trustLevel_TH": "เชื่อถือปานกลาง (3)",
+            "trustLevel_EN": "Medium Trust (3)"
+        },
+        {
+            "id": 4,
+            "code": "trl04",
+            "trustLevel_TH": "เชื่อถือมาก (4)",
+            "trustLevel_EN": "High Trust (4)"
+        },
+        {
+            "id": 5,
+            "code": "trl05",
+            "trustLevel_TH": "เชื่อถือมากที่สุด (5)",
+            "trustLevel_EN": "Very High Trust (5)"
+        }
+    ],
+    "ระดับความพึงพอใจ (infoSatisfaction)": [
+        {
+            "id": 1,
+            "code": "sat01",
+            "infoSatisfaction_TH": "พึงพอใจน้อยที่สุด (1)",
+            "infoSatisfaction_EN": "Very Dissatisfied (1)"
+        },
+        {
+            "id": 2,
+            "code": "sat02",
+            "infoSatisfaction_TH": "พึงพอใจน้อย (2)",
+            "infoSatisfaction_EN": "Dissatisfied (2)"
+        },
+        {
+            "id": 3,
+            "code": "sat03",
+            "infoSatisfaction_TH": "พึงพอใจปานกลาง (3)",
+            "infoSatisfaction_EN": "Neutral (3)"
+        },
+        {
+            "id": 4,
+            "code": "sat04",
+            "infoSatisfaction_TH": "พึงพอใจมาก (4)",
+            "infoSatisfaction_EN": "Satisfied (4)"
+        },
+        {
+            "id": 5,
+            "code": "sat05",
+            "infoSatisfaction_TH": "พึงพอใจมากที่สุด (5)",
+            "infoSatisfaction_EN": "Very Satisfied (5)"
+        }
+    ],
+    "ระดับอิทธิพลต่อการตัดสินใจ (influenceLevel)": [
+        {
+            "id": 1,
+            "code": "sil01",
+            "sustainabilityInfluence_TH": "มีอิทธิพลน้อยที่สุด (1)",
+            "sustainabilityInfluence_EN": "Very Low Influence (1)"
+        },
+        {
+            "id": 2,
+            "code": "sil02",
+            "sustainabilityInfluence_TH": "มีอิทธิพลน้อย (2)",
+            "sustainabilityInfluence_EN": "Low Influence (2)"
+        },
+        {
+            "id": 3,
+            "code": "sil03",
+            "sustainabilityInfluence_TH": "มีอิทธิพลปานกลาง (3)",
+            "sustainabilityInfluence_EN": "Medium Influence (3)"
+        },
+        {
+            "id": 4,
+            "code": "sil04",
+            "sustainabilityInfluence_TH": "มีอิทธิพลมาก (4)",
+            "sustainabilityInfluence_EN": "High Influence (4)"
+        },
+        {
+            "id": 5,
+            "code": "sil05",
+            "sustainabilityInfluence_TH": "มีอิทธิพลมากที่สุด (5)",
+            "sustainabilityInfluence_EN": "Very High Influence (5)"
+        }
+    ],
+    "ช่องทางได้รับลิงก์แบบสอบถาม (sourceOfSurveyLink)": [
+        {
+            "ID": 1,
+            "code": "620000",
+            "surveySource_TH": "ภูมิภาคภาคกลาง",
+            "surveySource_EN": "Central Region",
+            "หมายเหตุ": "อ้างอิงจาก ตาราง 1 หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)"
+        },
+        {
+            "ID": 2,
+            "code": "610000",
+            "surveySource_TH": "ภูมิภาคภาคเหนือ",
+            "surveySource_EN": "Northern Region",
+            "หมายเหตุ": "อ้างอิงจาก ตาราง 1 หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)"
+        },
+        {
+            "ID": 3,
+            "code": "640000",
+            "surveySource_TH": "ภูมิภาคภาคใต้",
+            "surveySource_EN": "Southern Region",
+            "หมายเหตุ": "อ้างอิงจาก ตาราง 1 หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)"
+        },
+        {
+            "ID": 4,
+            "code": "630000",
+            "surveySource_TH": "ภูมิภาคภาคตะวันออกเฉียงเหนือ",
+            "surveySource_EN": "Northeastern Region",
+            "หมายเหตุ": "อ้างอิงจาก ตาราง 1 หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)"
+        },
+        {
+            "ID": 5,
+            "code": "650000",
+            "surveySource_TH": "ภูมิภาคภาคตะวันออก",
+            "surveySource_EN": "Eastern Region",
+            "หมายเหตุ": "อ้างอิงจาก ตาราง 1 หน่วยงานในการท่องเที่ยวแห่งประเทศไทย (workUnitEnglish)"
+        },
+        {
+            "ID": 6,
+            "code": "src06",
+            "surveySource_TH": "เว็บไซต์ TAT",
+            "surveySource_EN": "TAT Website",
+            "หมายเหตุ": ""
+        },
+        {
+            "ID": 7,
+            "code": "src07",
+            "surveySource_TH": "โซเชียลมีเดีย TAT",
+            "surveySource_EN": "TAT Social Media",
+            "หมายเหตุ": ""
+        },
+        {
+            "ID": 8,
+            "code": "src08",
+            "surveySource_TH": "Email",
+            "surveySource_EN": "Email",
+            "หมายเหตุ": ""
+        },
+        {
+            "ID": 9,
+            "code": "src09",
+            "surveySource_TH": "Google",
+            "surveySource_EN": "Google Search",
+            "หมายเหตุ": ""
+        },
+        {
+            "ID": 10,
+            "code": "src10",
+            "surveySource_TH": "อื่น ๆ",
+            "surveySource_EN": "Others",
+            "หมายเหตุ": ""
+        }
+    ],
+    "รายการรหัสประเภทผู้ประกอบการในอุตสาหกรรมการท่องเที่ยว (firmType)": [
+        {
+            "code": "f001",
+            "name_th": "ที่พัก และโฮมสเตย์",
+            "name_en": "Accommodation and Homestay",
+            "description": "สถานประกอบการให้บริการที่พักแรม รวมถึงโฮมสเตย์"
+        },
+        {
+            "code": "f002",
+            "name_th": "ภัตตาคาร/ร้านอาหาร",
+            "name_en": "Restaurant/Food Service",
+            "description": "สถานประกอบการให้บริการอาหารและเครื่องดื่ม"
+        },
+        {
+            "code": "f003",
+            "name_th": "บริษัทนำเที่ยว",
+            "name_en": "Tour Operator",
+            "description": "ผู้ประกอบการจัดโปรแกรมและบริการนำเที่ยว"
+        },
+        {
+            "code": "f004",
+            "name_th": "นันทนาการ และการท่องเที่ยว",
+            "name_en": "Recreation and Tourism",
+            "description": "สถานประกอบการให้บริการนันทนาการและกิจกรรมท่องเที่ยว"
+        },
+        {
+            "code": "f005",
+            "name_th": "สุขภาพ และความงาม",
+            "name_en": "Health and Beauty",
+            "description": "สถานประกอบการให้บริการด้านสุขภาพและความงาม เช่น สปา นวด"
+        },
+        {
+            "code": "f006",
+            "name_th": "ร้านของที่ระลึก และร้านค้าอื่นๆ",
+            "name_en": "Souvenir Shop and Other Retail",
+            "description": "ร้านค้าจำหน่ายของที่ระลึกและสินค้าท่องเที่ยว"
+        },
+        {
+            "code": "f007",
+            "name_th": "ยานพาหนะ",
+            "name_en": "Transportation",
+            "description": "ผู้ประกอบการให้บริการขนส่งนักท่องเที่ยว"
+        },
+        {
+            "code": "f008",
+            "name_th": "การจัดกิจกรรม/จัดประชุม/โรงละคร/มหรสพ",
+            "name_en": "Event/MICE/Entertainment",
+            "description": "ผู้ประกอบการจัดกิจกรรม ประชุม และบันเทิง"
+        },
+        {
+            "code": "f009",
+            "name_th": "กีฬาเพื่อการท่องเที่ยว",
+            "name_en": "Sports Tourism",
+            "description": "ผู้ประกอบการให้บริการกีฬาเพื่อการท่องเที่ยว"
+        }
+    ],
+    "ระดับดาว STAR": [
+    {
+      "code": "sr3",
+      "stars": 3,
+      "name_th": "3 ดาว",
+      "name_en": "3 Stars"
+    },
+    {
+      "code": "sr4",
+      "stars": 4,
+      "name_th": "4 ดาว",
+      "name_en": "4 Stars"
+    },
+    {
+      "code": "sr5",
+      "stars": 5,
+      "name_th": "5 ดาว",
+      "name_en": "5 Stars"
+    }
+  ],
+  "รายการประเภทการรับรองมาตรฐาน Safety and Health Administration (SHA)": [
+    {
+      "รหัส": "sha001",
+      "ชื่อภาษาไทย": "SHA",
+      "ชื่อภาษาอังกฤษ": "SHA",
+      "คำอธิบาย": "มาตรฐาน Safety and Health Administration พื้นฐาน"
+    },
+    {
+      "รหัส": "sha002",
+      "ชื่อภาษาไทย": "SHA Plus",
+      "ชื่อภาษาอังกฤษ": "SHA Plus",
+      "คำอธิบาย": "มาตรฐาน SHA ระดับพิเศษ"
+    },
+    {
+      "รหัส": "sha003",
+      "ชื่อภาษาไทย": "SHA Extra Plus",
+      "ชื่อภาษาอังกฤษ": "SHA Extra Plus",
+      "คำอธิบาย": "มาตรฐาน SHA ระดับสูงสุด"
+    }
+  ],
+  "ประเภทรางวัล TTA": [
+    {
+      "รหัส": "tta001",
+      "ชื่อภาษาไทย": "Gold Award",
+      "ชื่อภาษาอังกฤษ": "Gold Award",
+      "คำอธิบาย": "รางวัลระดับทอง"
+    },
+    {
+      "รหัส": "tta002",
+      "ชื่อภาษาไทย": "Silver Award",
+      "ชื่อภาษาอังกฤษ": "Silver Award",
+      "คำอธิบาย": "รางวัลระดับเงิน"
+    },
+    {
+      "รหัส": "tta003",
+      "ชื่อภาษาไทย": "Certificate",
+      "ชื่อภาษาอังกฤษ": "Certificate",
+      "คำอธิบาย": "รางวัลใบประกาศเกียรติคุณ"
+    },
+    {
+      "รหัส": "tta004",
+      "ชื่อภาษาไทย": "Hall of Fame",
+      "ชื่อภาษาอังกฤษ": "Hall of Fame",
+      "คำอธิบาย": "รางวัลเกียรติยศ สำหรับผู้ที่ได้รับรางวัลต่อเนื่อง"
+    }
+  ],
+  "ประเภทเอกสาร (docType)": [
+    {
+      "id": 1,
+      "code": "doc_type01",
+      "name_th": "รายงานประจำปี",
+      "name_en": "Annual Report",
+      "description": "เอกสารรายงานผลการดำเนินงานประจำปี"
+    },
+    {
+      "id": 2,
+      "code": "doc_type02",
+      "name_th": "อินโฟกราฟิก",
+      "name_en": "Infographic",
+      "description": "เอกสารนำเสนอข้อมูลในรูปแบบภาพกราฟิก"
+    },
+    {
+      "id": 3,
+      "code": "doc_type03",
+      "name_th": "รายงานผลการดำเนินงาน",
+      "name_en": "Performance Report",
+      "description": "เอกสารรายงานผลการปฏิบัติงาน"
+    },
+    {
+      "id": 4,
+      "code": "doc_type04",
+      "name_th": "รายงานสถานการณ์การท่องเที่ยว",
+      "name_en": "Tourism Situation Report",
+      "description": "รายงานแนวโน้มสถานการณ์การเดินทางท่องเที่ยว"
+    },
+    {
+      "id": 5,
+      "code": "doc_type05",
+      "name_th": "รายงานตลาดต่างประเทศ",
+      "name_en": "International Market Report",
+      "description": "รายงานวิเคราะห์ตลาดนักท่องเที่ยวต่างชาติ"
+    },
+    {
+      "id": 6,
+      "code": "doc_type06",
+      "name_th": "รายงานตลาดในประเทศ",
+      "name_en": "Domestic Market Report",
+      "description": "รายงานวิเคราะห์ตลาดผู้เยี่ยมเยือนชาวไทย"
+    }
+  ],
+  "ความถี่การปรับปรุง (updateFrequency)": [
+    {
+      "id": 1,
+      "code": "freq01",
+      "name_th": "รายปี",
+      "name_en": "Annually",
+      "description": "ปรับปรุงข้อมูลปีละครั้ง"
+    },
+    {
+      "id": 2,
+      "code": "freq02",
+      "name_th": "รายไตรมาส",
+      "name_en": "Quarterly",
+      "description": "ปรับปรุงข้อมูลทุก 3 เดือน"
+    },
+    {
+      "id": 3,
+      "code": "freq03",
+      "name_th": "รายเดือน",
+      "name_en": "Monthly",
+      "description": "ปรับปรุงข้อมูลทุกเดือน"
+    },
+    {
+      "id": 4,
+      "code": "freq04",
+      "name_th": "รายสัปดาห์",
+      "name_en": "Weekly",
+      "description": "ปรับปรุงข้อมูลทุกสัปดาห์"
+    },
+    {
+      "id": 5,
+      "code": "freq05",
+      "name_th": "รายวัน",
+      "name_en": "Daily",
+      "description": "ปรับปรุงข้อมูลทุกวัน"
+    },
+    {
+      "id": 6,
+      "code": "freq06",
+      "name_th": "ตามเหตุการณ์",
+      "name_en": "Ad-hoc",
+      "description": "ปรับปรุงข้อมูลเมื่อมีเหตุการณ์สำคัญ"
+    }
+  ],
+"ภาษา (languages)": [
+    {
+      "id": 1,
+      "code": "lang01",
+      "name_th": "ภาษาไทย",
+      "name_en": "Thai",
+      "iso_code": "th"
+    },
+    {
+      "id": 2,
+      "code": "lang02",
+      "name_th": "ภาษาอังกฤษ",
+      "name_en": "English",
+      "iso_code": "en"
+    },
+    {
+      "id": 3,
+      "code": "lang03",
+      "name_th": "ภาษาจีน",
+      "name_en": "Chinese",
+      "iso_code": "zh"
+    },
+    {
+      "id": 4,
+      "code": "lang04",
+      "name_th": "ภาษาญี่ปุ่น",
+      "name_en": "Japanese",
+      "iso_code": "ja"
+    },
+    {
+      "id": 5,
+      "code": "lang05",
+      "name_th": "ภาษาเกาหลี",
+      "name_en": "Korean",
+      "iso_code": "ko"
+    },
+    {
+      "id": 6,
+      "code": "lang06",
+      "name_th": "ภาษามาเลเซีย",
+      "name_en": "Malay",
+      "iso_code": "ms"
+    },
+    {
+      "id": 7,
+      "code": "lang07",
+      "name_th": "ภาษาเยอรมัน",
+      "name_en": "German",
+      "iso_code": "de"
+    },
+    {
+      "id": 8,
+      "code": "lang08",
+      "name_th": "ภาษาฝรั่งเศส",
+      "name_en": "French",
+      "iso_code": "fr"
+    },
+    {
+      "id": 9,
+      "code": "lang09",
+      "name_th": "ภาษารัสเซีย",
+      "name_en": "Russian",
+      "iso_code": "ru"
+    }
+  ],
+  "สถานะเอกสาร (documentStatus)": [
+    {
+      "id": 1,
+      "code": "status01",
+      "name_th": "เผยแพร่แล้ว",
+      "name_en": "Published",
+      "description": "เอกสารที่เผยแพร่สู่สาธารณะแล้ว"
+    },
+    {
+      "id": 2,
+      "code": "status02",
+      "name_th": "ฉบับร่าง",
+      "name_en": "Draft",
+      "description": "เอกสารที่อยู่ในขั้นตอนการจัดทำ"
+    },
+    {
+      "id": 3,
+      "code": "status03",
+      "name_th": "รออนุมัติ",
+      "name_en": "Pending Approval",
+      "description": "เอกสารที่รอการอนุมัติ"
+    },
+    {
+      "id": 4,
+      "code": "status04",
+      "name_th": "ยกเลิก",
+      "name_en": "Obsolete",
+      "description": "เอกสารที่ยกเลิกการใช้งาน"
+    },
+    {
+      "id": 5,
+      "code": "status05",
+      "name_th": "ปรับปรุง",
+      "name_en": "Under Revision",
+      "description": "เอกสารที่อยู่ระหว่างการปรับปรุง"
+    },
+    {
+      "id": 6,
+      "code": "status06",
+      "name_th": "เก็บถาวร",
+      "name_en": "Archived",
+      "description": "เอกสารที่เก็บถาวรแล้ว"
+    }
+  ],
+  "รูปแบบไฟล์ (fileFormatType)": [
+    {
+      "id": 1,
+      "code": "file01",
+      "name_th": "เอกสาร PDF",
+      "name_en": "PDF Document",
+      "mime_type": "application/pdf",
+      "extension": ".pdf"
+    },
+    {
+      "id": 2,
+      "code": "file02",
+      "name_th": "รูปภาพ JPEG",
+      "name_en": "JPEG Image",
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg"
+    },
+    {
+      "id": 3,
+      "code": "file03",
+      "name_th": "รูปภาพ PNG",
+      "name_en": "PNG Image",
+      "mime_type": "image/png",
+      "extension": ".png"
+    },
+    {
+      "id": 4,
+      "code": "file04",
+      "name_th": "รูปภาพ GIF",
+      "name_en": "GIF Image",
+      "mime_type": "image/gif",
+      "extension": ".gif"
+    },
+    {
+      "id": 5,
+      "code": "file05",
+      "name_th": "เอกสาร Word",
+      "name_en": "Microsoft Word",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx"
+    },
+    {
+      "id": 6,
+      "code": "file06",
+      "name_th": "เอกสาร Excel",
+      "name_en": "Microsoft Excel",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx"
+    },
+    {
+      "id": 7,
+      "code": "file07",
+      "name_th": "เอกสาร PowerPoint",
+      "name_en": "Microsoft PowerPoint",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx"
+    },
+    {
+      "id": 8,
+      "code": "file08",
+      "name_th": "ไฟล์วิดีโอ MP4",
+      "name_en": "MP4 Video",
+      "mime_type": "video/mp4",
+      "extension": ".mp4"
+    },
+    {
+      "id": 9,
+      "code": "file09",
+      "name_th": "ไฟล์เสียง MP3",
+      "name_en": "MP3 Audio",
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3"
+    }
+  ],
+  "ประเภทสัญญาอนุญาต (licenseType)": [
+    {
+      "id": 1,
+      "code": "lic01",
+      "name_th": "สัญญาอนุญาตข้อมูลเปิดรัฐบาล",
+      "name_en": "Open Government Data License Thailand",
+      "description": "สัญญาอนุญาตข้อมูลเปิดของรัฐบาลไทย"
+    },
+    {
+      "id": 2,
+      "code": "lic02",
+      "name_th": "Creative Commons BY 4.0",
+      "name_en": "CC BY 4.0",
+      "description": "อนุญาตให้ใช้งานโดยระบุแหล่งที่มา"
+    },
+    {
+      "id": 3,
+      "code": "lic03",
+      "name_th": "Creative Commons BY-SA 4.0",
+      "name_en": "CC BY-SA 4.0",
+      "description": "อนุญาตให้ใช้งานและแชร์ต่อในลิขสิทธิ์เดียวกัน"
+    },
+    {
+      "id": 4,
+      "code": "lic04",
+      "name_th": "Creative Commons BY-NC 4.0",
+      "name_en": "CC BY-NC 4.0",
+      "description": "อนุญาตให้ใช้งานเฉพาะที่ไม่แสวงหากำไร"
+    },
+    {
+      "id": 5,
+      "code": "lic05",
+      "name_th": "สงวนลิขสิทธิ์",
+      "name_en": "All Rights Reserved",
+      "description": "สงวนลิขสิทธิ์ทั้งหมด"
+    },
+    {
+      "id": 6,
+      "code": "lic06",
+      "name_th": "ใช้ภายในองค์กร",
+      "name_en": "Internal Use Only",
+      "description": "อนุญาตให้ใช้ภายในองค์กรเท่านั้น"
+    }
+  ],
+  "ฤดูกาลที่เหมาะสม (recommendedTravelSeason)": [
+    { "id": 1, "code": "season01", "recommendedTravelSeason": "ฤดูร้อน" },
+    { "id": 2, "code": "season02", "recommendedTravelSeason": "ฤดูฝน" },
+    { "id": 3, "code": "season03", "recommendedTravelSeason": "ฤดูหนาว" },
+    { "id": 4, "code": "season04", "recommendedTravelSeason": "ตลอดทั้งปี" }
+  ]
+}
