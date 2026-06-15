@@ -29,7 +29,7 @@ RUN apk upgrade --no-cache && npm install -g npm@latest
 WORKDIR /app
 
 ENV NODE_ENV=production
-ENV PORT=443
+ENV PORT=3000
 ENV HOSTNAME=0.0.0.0
 
 RUN corepack enable
