@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://standard.tat.or.th/inboundTourist"
+            targetNamespace="http://standard.tat.or.th/inboundTourist"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:complexType name="InboundTouristDataset">
+        <xsd:sequence>
+            <xsd:element name="sourceFileName" type="xsd:string"/>
+            <xsd:element name="sheetName" type="xsd:string"/>
+            <xsd:element name="reportingYear" type="xsd:integer"/>
+            <xsd:element name="reportingMonth" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="periodLabel" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="marketName" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="checkpointCode" type="xsd:string"/>
+            <xsd:element name="arrivalByNationality" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="nationality" type="xsd:string"/>
+                        <xsd:element name="arrivalNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="arrivalByResidence" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="countryOfResidence" type="xsd:string"/>
+                        <xsd:element name="arrivalNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByAge" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="ageGroup" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByAnnualIncome" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="annualIncomeRange" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByVisitFrequency" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="visitFrequency" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByOccupation" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="occupationGroup" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByPurpose" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="visitPurpose" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileBySex" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="sex" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="profileByTravelArrangement" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="travelArrangement" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="expenseByCategory" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="travelArrangement" type="xsd:string"/>
+                        <xsd:element name="expenseCategory" type="xsd:string"/>
+                        <xsd:element name="averageExpenseValue" type="xsd:double"/>
+                        <xsd:element name="unitOfMeasure" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="tourismRevenueSummary" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="travelArrangement" type="xsd:string"/>
+                        <xsd:element name="touristNumber" type="xsd:integer"/>
+                        <xsd:element name="lengthOfStay" type="xsd:integer"/>
+                        <xsd:element name="averageExpenditure" type="xsd:double"/>
+                        <xsd:element name="tourismRevenue" type="xsd:double "/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="revenueByCategory" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="revenueCategory" type="xsd:string"/>
+                        <xsd:element name="categoryRevenueValue" type="xsd:double"/>
+                        <xsd:element name="unitOfMeasure" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!-- Global element member -->
+    <xsd:element name="inboundTouristDataset" type="InboundTouristDataset"/>
+</xsd:schema>

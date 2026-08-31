@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://standard.tat.or.th/tourismSituation"
+            targetNamespace="http://standard.tat.or.th/tourismSituation"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:complexType name="TourismSituationReport">
+        <xsd:sequence>
+            <xsd:element name="reportType">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="reportMonthly" type="xsd:string"/>
+                        <xsd:element name="reportFestival" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="reportTitle" type="xsd:string"/>
+            <xsd:element name="reportMonth" type="xsd:string"/>
+            <xsd:element name="reportYear" type="xsd:integer"/>
+            <xsd:element name="reportDate" type="xsd:date" minOccurs="0"/>
+            <xsd:element name="sourceOfData" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="asOfDateTime" type="xsd:dateTime" minOccurs="0"/>
+            <xsd:element name="language" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="domesticRegion" type="xsd:string"/>
+            <xsd:element name="tatOfficeName" type="xsd:string"/>
+            <xsd:element name="tatOfficeCode" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="provinceName" type="xsd:string"/>
+            <xsd:element name="overallSituation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="overallSituationColor" type="xsd:string"/>
+                        <xsd:element name="overallScorePercent" type="xsd:decimal" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="domesticFactorAssessment" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="factorNo" type="xsd:integer"/>
+                        <xsd:element name="factorName" type="xsd:string"/>
+                        <xsd:element name="weightPercent" type="xsd:decimal"/>
+                        <xsd:element name="factorSituationColor" type="xsd:string"/>
+                        <xsd:element name="factorScorePercent" type="xsd:decimal" minOccurs="0"/>
+                        <xsd:element name="factorSummaryText" type="xsd:string" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!-- Global element member -->
+    <xsd:element name="tourismSituationReport" type="TourismSituationReport"/>
+</xsd:schema>
+

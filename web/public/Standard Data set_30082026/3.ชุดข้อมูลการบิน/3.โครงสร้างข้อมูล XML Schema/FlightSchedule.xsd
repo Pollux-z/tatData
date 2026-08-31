@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://standard.tat.or.th/flight"
+            targetNamespace="http://standard.tat.or.th/flight"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:complexType name="FlightSchedule">
+        <xsd:sequence>
+            <xsd:element name="flightYear" type="xsd:integer"/>
+            <xsd:element name="flightMonth" type="xsd:string"/>
+            <xsd:element name="airlineInformation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="airlineName" type="xsd:string"/>
+                        <xsd:element name="flightNumber" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="flightType" type="xsd:string"/>
+            <xsd:element name="routeInformation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="routeCode" type="xsd:string"/>
+                        <xsd:element name="originAirport" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="destinationAirport" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="originProvince" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="destinationProvince" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="entryAirport" type="xsd:string" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="operatingDays" type="xsd:string"/>
+            <xsd:element name="flightsPerWeek" type="xsd:integer"/>
+            <xsd:element name="numberOfFlights" type="xsd:integer"/>
+            <xsd:element name="aircraftInformation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="numberOfSeats" type="xsd:integer"/>
+                        <xsd:element name="aircraftType" type="xsd:string"/>
+                        <xsd:element name="seatCapacity" type="xsd:integer"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="flightCategory" type="xsd:string"/>
+            <xsd:element name="originCountry" type="xsd:string"/>
+            <xsd:element name="destinationCountry" type="xsd:string"/>
+            <xsd:element name="reportDate" type="xsd:date"/>
+            <xsd:element name="effectivePeriod">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="effectiveFrom" type="xsd:date"/>
+                        <xsd:element name="effectiveTo" type="xsd:date"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="FlightSchedule" type="FlightSchedule"/>
+</xsd:schema>

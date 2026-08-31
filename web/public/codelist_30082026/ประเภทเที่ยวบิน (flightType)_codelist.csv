@@ -1,0 +1,5 @@
+﻿ID,code,flightType_TH,flightType_EN
+1,I-Direct,เที่ยวบินระหว่างประเทศแบบบินตรง,International Direct flight
+2,II-Connected,เที่ยวบินระหว่างประเทศแบบมีจุดเชื่อมต่อ,International Connected flight
+3,D-Direct,เที่ยวบินภายในประเทศแบบบินตรง,Domestic Direct flight
+4,DD-Connected,เที่ยวบินภายในประเทศแบบมีจุดเชื่อมต่อ,Domestic Connected flight

@@ -1,0 +1,7 @@
+﻿ID,code,serviceCategory_TH,serviceCategory_EN
+1,svc01,โรงแรมและที่พัก,Accommodation
+2,svc02,ร้านอาหารและเครื่องดื่ม,Restaurant
+3,svc03,แหล่งท่องเที่ยว,Attraction
+4,svc04,การคมนาคมและการเดินทาง,Transportation
+5,svc05,กิจกรรมและประสบการณ์,Activities
+6,svc06,อื่นๆ,Others

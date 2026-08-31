@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://standard.tat.or.th/forwardbooking"
+            targetNamespace="http://standard.tat.or.th/forwardbooking"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:complexType name="ForwardBooking">
+        <xsd:sequence>
+            <xsd:element name="dataYear" type="xsd:integer"/>
+            <xsd:element name="databaseUpdateDate" type="xsd:date"/>
+            <xsd:element name="residenceInformation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="residenceRegion" type="xsd:string"/>
+                        <xsd:element name="residenceSubRegion" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="residenceCountry" type="xsd:string"/>
+                        <xsd:element name="residenceCountryCode" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="travelMonth" type="xsd:string"/>
+            <xsd:element name="travelYear" type="xsd:integer"/>
+            <xsd:element name="bookingInformation">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="onTheBookCurrentYear" type="xsd:integer"/>
+                        <xsd:element name="onTheBookPreviousYear" type="xsd:integer" minOccurs="0"/>
+                        <xsd:element name="percentChange" type="xsd:decimal" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="bookingCutoffDate" type="xsd:date" minOccurs="0"/>
+            <xsd:element name="travelMode" type="xsd:string"/>
+            <xsd:element name="dataSource" type="xsd:string"/>
+            <xsd:element name="reportDate" type="xsd:date"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <xsd:element name="forwardBooking" type="ForwardBooking"/>
+</xsd:schema>

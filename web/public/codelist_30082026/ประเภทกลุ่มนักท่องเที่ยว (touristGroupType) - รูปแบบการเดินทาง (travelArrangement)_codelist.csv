@@ -1,0 +1,9 @@
+﻿ID,code,touristGroupType_TH / travelArrangement_TH,touristGroupType_EN / travelArrangement_EN
+1,tg01,เดินทางคนเดียว,Solo Traveler
+2,tg02,คู่รัก/คู่สมรส,Couple
+3,tg03,ครอบครัวที่มีเด็ก,Family with Kids
+4,tg04,ครอบครัวหลายช่วงวัย,Multi-gen Family
+5,tg05,กลุ่มเพื่อน,Group of Friends
+6,tg06,กรุ๊ปทัวร์/หมู่คณะ,Tour Group
+7,tg07,กลุ่มนักเรียน/นักศึกษา,Student / School Group
+8,tg08,อื่นๆ,Others

@@ -80,7 +80,7 @@ const datasetCards = [
     }
   },
   {
-    title: "ชุดข้อมูลร้องเรียน",
+    title: "ชุดข้อมูลเสียงจากลูกค้า",
     href: "/datasets/customer-appeal",
     image: "/images/appeal.png",
     colorTheme: {
@@ -175,6 +175,48 @@ const datasetCards = [
       textColor: "group-hover:text-blue-700",
       overlayGradient: "from-blue-500/20 to-cyan-600/20",
       indicatorGradient: "from-blue-500 to-cyan-600"
+    }
+  },
+  {
+    title: "ชุดข้อมูลการบิน",
+    href: "/datasets/flight-data",
+    image: "/images/placeholder.png",
+    colorTheme: {
+      gradient: "from-emerald-500 to-teal-600",
+      bgGradient: "from-emerald-50/50 to-teal-50/50",
+      borderColor: "border-emerald-200",
+      hoverBorderColor: "group-hover:border-emerald-400",
+      textColor: "group-hover:text-emerald-700",
+      overlayGradient: "from-emerald-500/20 to-teal-600/20",
+      indicatorGradient: "from-emerald-500 to-teal-600"
+    }
+  },
+  {
+    title: "ชุดข้อมูลสถิตินักท่องเที่ยวระหว่างประเทศ",
+    href: "/datasets/international-tourist-statistics",
+    image: "/images/placeholder.png",
+    colorTheme: {
+      gradient: "from-amber-500 to-orange-600",
+      bgGradient: "from-amber-50/50 to-orange-50/50",
+      borderColor: "border-amber-200",
+      hoverBorderColor: "group-hover:border-amber-400",
+      textColor: "group-hover:text-amber-700",
+      overlayGradient: "from-amber-500/20 to-orange-600/20",
+      indicatorGradient: "from-amber-500 to-orange-600"
+    }
+  },
+  {
+    title: "ชุดข้อมูลอัตราการเข้าพักเฉลี่ยของสถานพักแรม",
+    href: "/datasets/occupancy-rate",
+    image: "/images/placeholder.png",
+    colorTheme: {
+      gradient: "from-rose-500 to-pink-600",
+      bgGradient: "from-rose-50/50 to-pink-50/50",
+      borderColor: "border-rose-200",
+      hoverBorderColor: "group-hover:border-rose-400",
+      textColor: "group-hover:text-rose-700",
+      overlayGradient: "from-rose-500/20 to-pink-600/20",
+      indicatorGradient: "from-rose-500 to-pink-600"
     }
   }
 ];

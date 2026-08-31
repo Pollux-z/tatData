@@ -1,0 +1,13 @@
+﻿ID,code,occupationGroup_TH,occupationGroup_EN
+1,occ01,นักเรียน/นักศึกษา,Student
+2,occ02,รับราชการ,Government officer
+3,occ03,พนักงานรัฐวิสาหกิจ,State enterprise employee
+4,occ04,พนักงานเอกชน/ลูกจ้างมีสังกัด,Private sector employee
+5,occ05,เจ้าของกิจการ/ธุรกิจส่วนตัว,Business owner
+6,occ06,รับจ้างอิสระ (Freelance),Freelancer
+7,occ07,อินฟลูเอนเซอร์ (Influencer),Influencer
+8,occ08,เกษตรกร,Farmer
+9,occ09,เกษียณ,Retired
+10,occ10,พ่อบ้าน/แม่บ้าน (ดูแลครอบครัว),Househusband/Housewife
+11,occ11,ไม่ได้ทำงาน/ว่างงาน,Unemployed
+12,occ12,อื่นๆ,Others

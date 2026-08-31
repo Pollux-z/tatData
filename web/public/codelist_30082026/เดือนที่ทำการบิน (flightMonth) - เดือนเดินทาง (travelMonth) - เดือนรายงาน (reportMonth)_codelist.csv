@@ -1,0 +1,13 @@
+﻿ID,code,flightMonth_TH / travelMonth_TH / reportMonth_TH,flightMonth_EN / travelMonth_EN / reportMonth_EN
+1,1,มกราคม,January
+2,2,กุมภาพันธ์,February
+3,3,มีนาคม,March
+4,4,เมษายน,April
+5,5,พฤษภาคม,May
+6,6,มิถุนายน,June
+7,7,กรกฎาคม,July
+8,8,สิงหาคม,August
+9,9,กันยายน,September
+10,10,ตุลาคม,October
+11,11,พฤศจิกายน,November
+12,12,ธันวาคม,December

@@ -1,0 +1,319 @@
+﻿ID,code,workUnit_TH,workUnit_EN
+1,100000,ผู้ว่าการ,Offices under the Governor
+2,110000,สำนักผู้ว่าการ,Office of the Governor
+3,110100,กองเลขานุการและวิเทศสัมพันธ์,Secretariat and International Relations Division
+4,110101,งานเลขานุการ,Secretarial Work Section
+5,110102,งานสนับสนุนวิชาการและประสานงานทั่วไป,Academic Work and General Work Section
+6,110103,งานความร่วมมือระหว่างประเทศ,International Cooperation Section
+7,110104,งานสื่อสารภายใน,Internal Communications Section
+8,110200,กองบริหารความยั่งยืน,Organisational Sustainability Division
+9,110201,งานการกำกับดูแลกิจการที่ดี,Corporate Governance Section
+10,110202,งานกิจกรรมเพื่อสังคม,Corporate Social Responsibility Section
+11,110203,งานนวัตกรรมองค์กร,Corporate Innovation Section
+12,120000,ฝ่ายตรวจสอบภายใน,Internal Audit Department
+13,120100,กองตรวจสอบส่วนกลาง,Head Office Audit Division
+14,120101,งานประชุมคณะกรรมการตรวจสอบ,Auditors' Conference Section
+15,120102,งานตรวจสอบการเงิน,Financial Audit Section
+16,120103,งานตรวจสอบการดำเนินการและดิจิทัล,Performance and Digital Audit Section
+17,120200,กองตรวจสอบสำนักงานสาขา,Branch Offices Audit Division
+18,120201,งานตรวจสอบสำนักงานในประเทศ,Domestic Offices Audit Section
+19,120202,งานตรวจสอบสำนักงานต่างประเทศ,Overseas Offices Audit Section
+20,200000,ด้านบริหาร,Offices under the Deputy Governor for Administration
+21,210000,กลุ่มงานอำนวยการด้านบริหาร,Administration Group
+22,220000,ฝ่ายบริหารทั่วไป,General Administration Department
+23,220100,กองกลาง,General Affairs Division
+24,220101,งานสารบรรณและรับส่ง,Document Management and Dispatch Section
+25,220102,งานเอกสารภาษาต่างประเทศ,Translation and Correspondence Section
+26,220103,งานประชุมคณะกรรมการ,Board of Directors' Conference Section
+27,220200,กองกฎหมายและระเบียบ,Legal Affairs and Regulations Division
+28,220201,งานปรึกษาด้านกฎหมาย,Legal Affairs Section
+29,220202,งานข้อบังคับและระเบียบ,Regulations Section
+30,220203,งานกำกับกฎหมายและระเบียบ,Legal and Regulation Compliance Section
+31,220300,กองนิติกรรมและคดี,Juristic Acts and Litigation Division
+32,220301,งานคดี,Litigation Section
+33,220302,งานนิติกรรมสัญญา,Juristic Acts and Contracts Section
+34,220303,งานวินัย,Disciplinary Section
+35,220400,กองบริหารจัดซื้อจัดจ้าง,Procurement and Supply Management Division
+36,220401,งานบริหารพัสดุ,Supply Management Section
+37,220402,งานจัดซื้อ,Purchasing Section
+38,220403,งานจัดจ้าง,Hiring Section
+39,220500,กองอาคารสถานที่,Property Division
+40,220501,งานวิศวกรรม,Engineering Section
+41,220502,งานซ่อมบำรุง,Maintenance Section
+42,220503,งานสถาปัตยกรรม,Architectural Section
+43,220504,งานอาคารสถานที่และยานพาหนะ,Household and Transportation Section
+44,230000,ฝ่ายทรัพยากรบุคคล,Human Resources Department
+45,230100,กองบริหารงานบุคคล,Personnel Division
+46,230101,งานกลยุทธ์บริหารทรัพยากรบุคคล,Human Resources Management Strategy Section
+47,230102,งานบรรจุและแต่งตั้ง,Personnel Management Section
+48,230103,งานข้อมูลบุคลากร,Personnel Records Section
+49,230104,งานติดตามและประเมินผลด้านทรัพยากรบุคคล,Human Resources Operations Monitoring and Evaluation Section
+50,230200,กองพัฒนาบุคลากร,Personnel Development Division
+51,230201,งานวางแผนการพัฒนาบุคลากร,Personnel Development Planning Section
+52,230202,งานบริหารการฝึกอบรม,Training Management Section
+53,230203,งานบริหารจัดการความรู้,Knowledge Management Section
+54,230300,กองสวัสดิการและบุคลากรสัมพันธ์,Welfare and Personnel Relations Division
+55,230301,งานบริการสวัสดิการ,Welfare Services Section
+56,230302,งานกิจการสัมพันธ์,Affairs Relations Section
+57,230303,งานค่าตอบแทน กองทุนและประโยชน์เกื้อกูล,Remuneration and Funds Section
+58,240000,ฝ่ายบัญชีและงบประมาณ,Budget and Accounting Department
+59,240100,กองบัญชี,Accounting Division
+60,240101,งานบัญชีส่วนกลาง,Head Office Accounting Section
+61,240102,งานบัญชีสาขาในประเทศ,Domestic Office Accounting Section
+62,240103,งานบัญชีสาขาต่างประเทศ,Overseas Office Accounting Section
+63,240104,งานบัญชีลูกหนี้,Accounts Receivable Section
+64,240200,กองงบประมาณ,Budget Division
+65,240201,งานจัดทำงบประมาณ,Budget Allocation Section
+66,240202,งานควบคุมงบประมาณ,Budget Control Section
+67,240203,งานรายงานงบประมาณ,Budget Report Section
+68,250000,ฝ่ายการเงิน,Finance Department
+69,250100,กองตรวจจ่าย,Payment Audit Division
+70,250101,งานตรวจจ่ายภายใน,Internal Payment Audit Section
+71,250102,งานตรวจจ่ายภายนอก,External Payment Audit Section
+72,250103,งานตรวจจ่ายลูกหนี้เงินยืมทดรอง,Advance Payment Audit Section
+73,250200,กองการเงิน,Finance Division
+74,250201,งานการเงินภายใน,Internal Cashier Section
+75,250202,งานการเงินภายนอก,External Cashier Section
+76,250203,งานฎีกา,Budget Reimbursement Section
+77,250300,กองรายได้,Revenue Division
+78,250301,งานจำหน่ายและจัดเก็บรายได้,Sales and Revenue Collection Section
+79,250302,งานควบคุมรายได้,Revenue Control Section
+80,300000,ด้านนโยบายและแผน,Offices under the Deputy Governor for Policy and Planning
+81,310000,กลุ่มงานอำนวยการด้านนโยบายและแผน,Policy and Planning Group
+82,320000,ฝ่ายวางแผน,Planning Department
+83,320100,กองแผนนโยบาย,Policy Planning Division
+84,320101,งานแผนวิสาหกิจ,Corporate Planning Section
+85,320102,งานแผนพัฒนาองค์กร,Corporate Development Planning Section
+86,320200,กองกลยุทธ์การตลาด,Marketing Strategy Division
+87,320201,งานวิเคราะห์ตลาดในประเทศ,Domestic Marketing Analysis Section
+88,320202,งานวิเคราะห์ตลาดต่างประเทศ,Overseas Marketing Analysis Section
+89,320203,งานกลยุทธ์ตลาดในประเทศ,Domestic Marketing Strategy Section
+90,320204,งานกลยุทธ์ตลาดต่างประเทศ,Overseas Marketing Strategy Section
+91,330000,ฝ่ายติดตามและบริหารความเสี่ยง,Monitoring and Risk Management Department
+92,330100,กองบริหารความเสี่ยง,Risk Management Division
+93,330101,งานบริหารความเสี่ยงการบริหารองค์กร,Administrative Risk Management Section
+94,330102,งานบริหารความเสี่ยงตลาดในประเทศ,Domestic Marketing Risk Management Section
+95,330103,งานบริหารความเสี่ยงตลาดต่างประเทศ,Overseas Marketing Risk Management Section
+96,330200,กองติดตามและประเมินผล,Monitoring and Evaluation Division
+97,330201,งานติดตามและประเมินผลการบริหารองค์กร,Administrative Monitoring and Evaluation Section
+98,330202,งานติดตามและประเมินผลตลาดในประเทศ,Domestic Marketing Monitoring and Evaluation Section
+99,330203,งานติดตามและประเมินผลตลาดต่างประเทศ,Overseas Marketing Monitoring and Evaluation Section
+100,330204,งานติดตามและพัฒนาองค์กร,Organisational Monitoring and Improvement Section
+101,400000,ด้านดิจิทัล วิจัย และพัฒนา,"Offices under the Deputy Governor for Digitalisation, Research and Development"
+102,410000,กลุ่มงานอำนวยการด้านดิจิทัล วิจัย และพัฒนา,"Digitalisation, Research and Development Group"
+103,420000,ฝ่ายดิจิทัลและเทคโนโลยีสารสนเทศ,Digital and Information Technology Department
+104,420100,กองยุทธศาสตร์ดิจิทัล,Digital Strategy Division
+105,420101,งานแผนงานดิจิทัลสารสนเทศ,Digital Information Plan Section
+106,420102,งานมาตรฐานและความมั่นคงปลอดภัยสารสนเทศ,Standardisation and Information Security Section
+107,420200,กองพัฒนาระบบ,Systems Development Division
+108,420201,งานระบบสารสนเทศองค์กร,Internal Information Systems Section
+109,420202,งานระบบสารสนเทศข้อมูล,Database Systems Section
+110,420300,กองสารสนเทศการตลาด,Marketing Information Technology Division
+111,420301,งานระบบสารสนเทศการตลาด,Marketing Information Systems Section
+112,420302,งานการตลาดออนไลน์,Online Marketing Section
+113,420400,กองคอมพิวเตอร์และระบบเครือข่าย,Computer and Networking Systems Division
+114,420401,งานระบบคอมพิวเตอร์,Computer Systems Section
+115,420402,งานระบบเครือข่าย,Networking Systems Section
+116,430000,ฝ่ายวิจัยและพัฒนาด้านการท่องเที่ยว,Research and Development Department
+117,430100,กองวิจัยการตลาดการท่องเที่ยว,Tourism Intelligence Division
+118,430101,งานพัฒนาข้อมูลตลาด,Marketing Database Section
+119,430102,งานวิจัย,Research Section
+120,430103,งานมาตรฐานข้อมูล,Data Standardisation Section
+121,430200,ศูนย์ฝึกอบรมการท่องเที่ยวแห่งประเทศไทย,Tourism Authority of Thailand Training Centre (TAT Training Centre)
+122,430201,งานพัฒนาวิชาการ,Academic Development Section
+123,430202,งานส่งเสริมและพัฒนาศูนย์ฝึกอบรม,Training Centre Development and Promotion Section
+124,430203,งานบริหารศูนย์ฝึกอบรม,Training Centre Management Section
+125,500000,ด้านสินค้าและธุรกิจท่องเที่ยว,Offices under the Deputy Governor for Tourism Products and Business
+126,510000,กลุ่มงานอำนวยการด้านสินค้าและธุรกิจท่องเที่ยว,Tourism Products and Business Group
+127,520000,ฝ่ายสินค้าการท่องเที่ยว,Tourism Products Department
+128,520100,กองวางแผนสินค้าการท่องเที่ยว,Product Planning Division
+129,520101,งานข้อมูลสินค้าการท่องเที่ยว,Product Database Section
+130,520102,งานกลยุทธ์สินค้าการท่องเที่ยว,Product Strategy Section
+131,520200,กองสร้างสรรค์สินค้าการท่องเที่ยว,Product Creation Division
+132,520201,งานสินค้าการท่องเที่ยวภาคเหนือ,"Product Creation Section, Northern Region"
+133,520202,งานสินค้าการท่องเที่ยวภาคกลาง,"Product Creation Section, Central Region"
+134,520203,งานสินค้าการท่องเที่ยวภาคตะวันออกเฉียงเหนือ,"Product Creation Section, Northeastern Region"
+135,520204,งานสินค้าการท่องเที่ยวภาคใต้,"Product Creation Section, Southern Region"
+136,520205,งานสินค้าการท่องเที่ยวภาคตะวันออก,"Product Creation Section, Eastern Region"
+137,520300,กองส่งเสริมสินค้าการท่องเที่ยว,Product Promotion Division
+138,520301,งานส่งเสริมคุณภาพสินค้าการท่องเที่ยว,Quality Enhancement Section
+139,520302,งานส่งเสริมการประกอบการท่องเที่ยว,Entrepreneurship Promotion Section
+140,520303,งานส่งเสริมโครงข่ายการท่องเที่ยว,Tourism Networking Promotion Section
+141,530000,ฝ่ายกิจกรรม,Events Department
+142,530100,กองส่งเสริมกิจกรรม,Events Promotion Division
+143,530101,งานข้อมูลกิจกรรม,Events Information Section
+144,530102,งานส่งเสริมกิจกรรมในประเทศ,Domestic Events Promotion Section
+145,530103,งานส่งเสริมกิจกรรมนานาชาติ,International Events Promotion Section
+146,530200,กองสร้างสรรค์กิจกรรม,Events Creation Division
+147,530201,งานสร้างสรรค์กิจกรรมพิเศษ,Special Events Section
+148,530202,งานสร้างสรรค์กิจกรรมในประเทศ,Domestic Events Section
+149,530203,งานสร้างสรรค์กิจกรรมนานาชาติ,International Events Section
+150,540000,ฝ่ายส่งเสริมการลงทุนอุตสาหกรรมท่องเที่ยว,Tourism Investment Promotion Department
+151,540100,กองวางแผนลงทุนอุตสาหกรรมท่องเที่ยว,Tourism Investment Planning Division
+152,540101,งานกลยุทธ์ส่งเสริมการลงทุนอุตสาหกรรมท่องเที่ยว,Investment Promotion Strategy Section
+153,540102,งานส่งเสริมธุรกิจอุตสาหกรรมท่องเที่ยว,Tourism Business Promotion Section
+154,540103,งานส่งเสริมธุรกิจร่วมทุน,Joint Venture Promotion Section
+155,540200,กองนวัตกรรมอุตสาหกรรมท่องเที่ยว,Tourism Innovation Division
+156,540201,งานพัฒนาและส่งเสริมนวัตกรรมการลงทุน,Investment Innovation Section
+157,540202,งานวางแผนพัฒนานวัตกรรมสินทรัพย์,Asset Innovation Section
+158,600000,ด้านตลาดในประเทศ,Offices under the Deputy Governor for Domestic Marketing
+159,610000,กลุ่มงานอำนวยการด้านตลาดในประเทศ,Domestic Marketing Group
+160,620000,ภูมิภาคภาคเหนือ,Northern Region
+161,620100,กองตลาดภาคเหนือ,Northern Market Division
+162,620101,งานภาคเหนือ 1,Northern Region 1 Section
+163,620102,งานภาคเหนือ 2,Northern Region 2 Section
+164,620103,งานภาคเหนือ 3,Northern Region 3 Section
+165,620104,งานภาคเหนือ 4,Northern Region 4 Section
+166,620200,ททท. สำนักงานเชียงใหม่,TAT Chiang Mai Office
+167,620300,ททท. สำนักงานเชียงราย,TAT Chiang Rai Office
+168,620301,ศูนย์ประสานงานการท่องเที่ยวจังหวัดพะเยา,Phayao Provincial Tourism Coordination Centre
+169,620400,ททท. สำนักงานพิษณุโลก,TAT Phitsanulok Office
+170,620500,ททท. สำนักงานตาก,TAT Tak Office
+171,620600,ททท. สำนักงานแม่ฮ่องสอน,TAT Mae Hong Son Office
+172,620700,ททท. สำนักงานแพร่,TAT Phrae Office
+173,620701,ศูนย์ประสานงานการท่องเที่ยวจังหวัดอุตรดิตถ์,Uttaradit Provincial Tourism Coordination Centre
+174,620800,ททท. สำนักงานอุทัยธานี,TAT Uthai Thani Office
+175,620900,ททท. สำนักงานสุโขทัย,TAT Sukhothai Office
+176,621000,ททท. สำนักงานลำปาง,TAT Lampang Office
+177,621100,ททท. สำนักงานนครสวรรค์,TAT Nakhon Sawan Office
+178,621200,ททท. สำนักงานน่าน,TAT Nan Office
+179,630000,ภูมิภาคภาคกลาง,Central Region
+180,630100,กองตลาดภาคกลาง,Central Region Market Division
+181,630101,งานภาคกลาง 1,Central Region 1 Section
+182,630102,งานภาคกลาง 2,Central Region 2 Section
+183,630103,งานภาคกลาง 3,Central Region 3 Section
+184,630200,ททท. สำนักงานกาญจนบุรี,TAT Kanchanaburi Office
+185,630300,ททท. สำนักงานเพชรบุรี,TAT Phetchaburi Office
+186,630400,ททท. สำนักงานพระนครศรีอยุธยา,TAT Phra Nakhon Si Ayutthaya Office
+187,630500,ททท. สำนักงานลพบุรี,TAT Lop Buri Office
+188,630600,ททท. สำนักงานสุพรรณบุรี,TAT Suphan Buri Office
+189,630700,ททท. สำนักงานกรุงเทพมหานคร,TAT Bangkok Office
+190,630800,ททท. สำนักงานประจวบคีรีขันธ์,TAT Prachuap Khiri Khan Office
+191,630900,ททท. สำนักงานสมุทรสงคราม,TAT Samut Songkhram Office
+192,631000,ททท. สำนักงานราชบุรี,TAT Ratchaburi Office
+193,640000,ภูมิภาคภาคตะวันออกเฉียงเหนือ,Northeastern Region
+194,640100,กองตลาดภาคตะวันออกเฉียงเหนือ,Northeastern Market Division
+195,640101,งานภาคตะวันออกเฉียงเหนือ 1,Northeastern Region 1 Section
+196,640102,งานภาคตะวันออกเฉียงเหนือ 2,Northeastern Region 2 Section
+197,640103,งานภาคตะวันออกเฉียงเหนือ 3,Northeastern Region 3 Section
+198,640200,ททท. สำนักงานนครราชสีมา,TAT Nakhon Ratchasima Office
+199,640300,ททท. สำนักงานอุบลราชธานี,TAT Ubon Ratchathani Office
+200,640400,ททท. สำนักงานขอนแก่น,TAT Khon Kaen Office
+201,640500,ททท. สำนักงานนครพนม,TAT Nakhon Phanom Office
+202,640600,ททท. สำนักงานอุดรธานี,TAT Udon Thani Office
+203,640700,ททท. สำนักงานเลย,TAT Loei Office
+204,640800,ททท. สำนักงานสุรินทร์,TAT Surin Office
+205,640900,ททท. สำนักงานบุรีรัมย์,TAT Buri Ram Office
+206,650000,ภูมิภาคภาคใต้,Southern Region
+207,650100,กองตลาดภาคใต้,Southern Market Division
+208,650101,งานภาคใต้ 1,Southern Region 1 Section
+209,650102,งานภาคใต้ 2,Southern Region 2 Section
+210,650103,งานภาคใต้ 3,Southern Region 3 Section
+211,650104,งานภาคใต้ 4,Southern Region 4 Section
+212,650200,ททท. สำนักงานหาดใหญ่,TAT Hat Yai Office
+213,650300,ททท. สำนักงานนครศรีธรรมราช,TAT Nakhon Si Thammarat Office
+214,650400,ททท. สำนักงานนราธิวาส,TAT Narathiwat Office
+215,650500,ททท. สำนักงานภูเก็ต,TAT Phuket Office
+216,650600,ททท. สำนักงานสุราษฎร์ธานี,TAT Surat Thani Office
+217,650700,ททท. สำนักงานตรัง,TAT Trang Office
+218,650800,ททท. สำนักงานกระบี่,TAT Krabi Office
+219,650900,ททท. สำนักงานชุมพร,TAT Chumphon Office
+220,651000,ททท. สำนักงานเกาะสมุย,TAT Ko Samui Office
+221,651100,ททท. สำนักงานพังงา,TAT Phang-nga Office
+222,651200,ททท. สำนักงานสตูล,TAT Satun Office
+223,660000,ภูมิภาคภาคตะวันออก,Eastern Region
+224,660100,กองตลาดภาคตะวันออก,Eastern Market Division
+225,660101,งานภาคตะวันออก 1,Eastern Region 1 Section
+226,660102,งานภาคตะวันออก 2,Eastern Region 2 Section
+227,660200,ททท. สำนักงานพัทยา,TAT Pattaya Office
+228,660300,ททท. สำนักงานระยอง,TAT Rayong Office
+229,660400,ททท. สำนักงานตราด,TAT Trat Office
+230,660500,ททท. สำนักงานนครนายก,TAT Nakhon Nayok Office
+231,660600,ททท. สำนักงานฉะเชิงเทรา,TAT Chachoengsao Office
+232,660700,ททท. สำนักงานจันทบุรี,TAT Chanthaburi Office
+233,700000,ด้านตลาดเอเชีย และแปซิฟิกใต้,Offices under the Deputy Governor for International Marketing (Asia and South Pacific)
+234,710000,กลุ่มงานอำนวยการด้านตลาดเอเชีย และแปซิฟิกใต้,Asia and South Pacific Marketing Group
+235,720000,ภูมิภาคเอเชียตะวันออก,East Asia Region
+236,720100,กองตลาดเอเชียตะวันออก,East Asia Market Division
+237,720101,งานเอเชีย 1,Asia 1 Section
+238,720102,งานเอเชีย 2,Asia 2 Section
+239,720103,งานเอเชีย 3,Asia 3 Section
+240,720200,ททท. สำนักงานโตเกียว,TAT Tokyo Office
+241,720300,ททท. สำนักงานโอซากา,TAT Osaka Office
+242,720400,ททท. สำนักงานไทเป,TAT Taipei Office
+243,720500,ททท. สำนักงานโซล,TAT Seoul Office
+244,720600,ททท. สำนักงานฮ่องกง,TAT Hong Kong Office
+245,720700,ททท. สำนักงานปักกิ่ง,TAT Beijing Office
+246,720800,ททท. สำนักงานเซี่ยงไฮ้,TAT Shanghai Office
+247,720900,ททท. สำนักงานคุนหมิง,TAT Kunming Office
+248,721000,ททท. สำนักงานเฉิงตู,TAT Chengdu Office
+249,721100,ททท. สำนักงานกว่างโจว,TAT Guangzhou Office
+250,721200,ททท. สำนักงานฟูกูโอกะ,TAT Fukuoka Office
+251,730000,ภูมิภาคอาเซียน เอเชียใต้ และแปซิฟิกใต้,"ASEAN, South Asia and South Pacific Region"
+252,730100,กองตลาดอาเซียน เอเชียใต้ และแปซิฟิกใต้,"ASEAN, South Asia and South Pacific Market Division"
+253,730101,งานอาเซียน 1,ASEAN 1 Section
+254,730102,งานอาเซียน 2,ASEAN 2 Section
+255,730103,งานเอเชียใต้ และแปซิฟิกใต้,South Asia and South Pacific Section
+256,730200,ททท. สำนักงานซิดนีย์,TAT Sydney Office
+257,730300,ททท. สำนักงานกัวลาลัมเปอร์,TAT Kuala Lumpur Office
+258,730400,ททท. สำนักงานสิงคโปร์,TAT Singapore Office
+259,730500,ททท. สำนักงานนิวเดลี,TAT New Delhi Office
+260,730600,ททท. สำนักงานโฮจิมินห์,TAT Ho Chi Minh Office
+261,730700,ททท. สำนักงานมุมไบ,TAT Mumbai Office
+262,730800,ททท. สำนักงานจาการ์ตา,TAT Jakarta Office
+263,800000,ด้านตลาดยุโรป อเมริกา ตะวันออกกลาง และแอฟริกา,"Offices under the Deputy Governor for Marketing (Europe, Americas, Middle East and Africa)"
+264,810000,กลุ่มงานอำนวยการด้านตลาดยุโรป อเมริกา ตะวันออกกลาง และแอฟริกา,"Europe, Americas, Middle East and Africa Marketing Group"
+265,820000,ภูมิภาคยุโรป,Europe Region
+266,820100,กองตลาดยุโรป,Europe Market Division
+267,820101,งานยุโรปตะวันตกและยุโรปใต้,Western and Southern Europe Section
+268,820102,งานยุโรปเหนือ,Northern Europe Section
+269,820103,งานยุโรปตะวันออก,Eastern Europe Section
+270,820200,ททท. สำนักงานลอนดอน,TAT London Office
+271,820300,ททท. สำนักงานแฟรงก์เฟิร์ต,TAT Frankfurt Office
+272,820400,ททท. สำนักงานปารีส,TAT Paris Office
+273,820500,ททท. สำนักงานกรุงโรม,TAT Rome Office
+274,820600,ททท. สำนักงานสตอกโฮล์ม,TAT Stockholm Office
+275,820700,ททท. สำนักงานมอสโก,TAT Moscow Office
+276,820800,ททท. สำนักงานกรุงปราก,TAT Prague Office
+277,830000,ภูมิภาคอเมริกา ตะวันออกกลาง และแอฟริกา,"The Americas, Middle East and Africa Region"
+278,830100,กองตลาดอเมริกา ตะวันออกกลาง,"The Americas, Middle East and Africa Division"
+279,830101,งานอเมริกา,The Americas Section
+280,830102,งานตะวันออกกลาง และแอฟริกา,Middle East and Africa Section
+281,830200,ททท. สำนักงานนิวยอร์ก,TAT New York Office
+282,830300,ททท. สำนักงานลอสแอนเจลิส,TAT Los Angeles Office
+283,830400,ททท. สำนักงานชิคาโก,TAT Chicago Office
+284,830500,ททท. สำนักงานดูไบ,TAT Dubai Office
+285,900000,ด้านสื่อสารการตลาด,Offices under the Deputy Governor for Marketing Communications
+286,910000,กลุ่มงานอำนวยการด้านสื่อสารการตลาด,Marketing Communications Group
+287,920000,ฝ่ายโฆษณาและประชาสัมพันธ์,Advertising and Public Relations Department
+288,920100,กองเผยแพร่โฆษณาต่างประเทศ,International Advertising Publicity Division
+289,920101,งานกลยุทธ์โฆษณาต่างประเทศ,International Advertising Strategy Section
+290,920102,งานสื่อโฆษณาออนไลน์ต่างประเทศ,International Online Media Section
+291,920103,งานสื่อโฆษณาออฟไลน์ต่างประเทศ,International Offline Media Section
+292,920200,กองเผยแพร่โฆษณาในประเทศ,Domestic Advertising Publicity Division
+293,920201,งานกลยุทธ์โฆษณาในประเทศ,Domestic Advertising Strategy Section
+294,920202,งานสื่อโฆษณาออนไลน์ในประเทศ,Domestic Online Media Section
+295,920203,งานสื่อโฆษณาออฟไลน์ในประเทศ,Domestic Offline Media Section
+296,920204,งานนิทรรศการและสื่อพิเศษ,Exhibition and Special Media Section
+297,920300,กองประชาสัมพันธ์ต่างประเทศ,International Public Relations Division
+298,920301,งานกลยุทธ์ประชาสัมพันธ์ต่างประเทศ,International Public Relations Strategy Section
+299,920302,งานข่าวต่างประเทศ,International News Section
+300,920303,งานสื่อมวลชนสัมพันธ์ต่างประเทศ,International Media Relations Section
+301,920400,กองประชาสัมพันธ์ในประเทศ,Domestic Public Relations Division
+302,920401,งานกลยุทธ์ประชาสัมพันธ์ในประเทศ,Domestic Public Relations Strategy Section
+303,920402,งานข่าวในประเทศ,Domestic News Section
+304,920403,งานสื่อมวลชนสัมพันธ์ในประเทศ,Domestic Media Relations Section
+305,930000,ฝ่ายบริการการตลาด,Marketing Services Department
+306,930100,กองวางแผนและผลิตสื่อ,Promotional Material Production Division
+307,930101,งานวางแผนการผลิตและประเมินผล,Production Planning and Evaluation Section
+308,930102,งานออกแบบและสร้างสรรค์สื่อ,Media Design and Creativity Section
+309,930103,งานวีดิทัศน์,Video Section
+310,930104,งานภาพถ่าย,Photograph Section
+311,930200,กองข่าวสารท่องเที่ยว,Tourist Information Division
+312,930201,งานพัฒนาข้อมูลท่องเที่ยว,Information Development Section
+313,930202,งานดิจิทัลข้อมูลท่องเที่ยว,Digital Tourist Information Section
+314,930203,งานบริการข่าวสาร,Information Service Section
+315,930300,กองวารสาร,Magazine and Periodical Division
+316,930301,งานนิตยสาร,Magazine Section
+317,930302,งานหนังสือพิเศษและสื่อดิจิทัล,Special Publications and Digital Media Section
+318,930303,งานการตลาดวารสาร,Sales Section

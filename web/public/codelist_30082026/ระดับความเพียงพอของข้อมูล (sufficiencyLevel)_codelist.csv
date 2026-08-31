@@ -1,0 +1,4 @@
+﻿ID,code,sufficiencyLevel_TH,sufficiencyLevel_EN
+1,suf01,ข้อมูลเพียงพอและชัดเจน,Sufficient
+2,suf02,ข้อมูลไม่เพียงพอ,Insufficient
+3,suf03,ไม่เคยเห็นข้อมูล,Never Seen

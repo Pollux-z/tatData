@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://standard.tat.or.th/voc"
+            targetNamespace="http://standard.tat.or.th/voc"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:complexType name="VoiceOfCustomer">
+        <xsd:sequence>
+            <xsd:element name="vocRecordId" type="xsd:string"/>
+            <xsd:element name="fiscalYear" type="xsd:integer"/>
+            <xsd:element name="quarter" type="xsd:integer"/>
+            <xsd:element name="reportingUnit">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="workUnit" type="xsd:string"/>
+                        <xsd:element name="workUnitType" type="xsd:string"/>
+                        <xsd:element name="tatRegion" type="xsd:string" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="vocCollectionType" type="xsd:string"/>
+            <xsd:element name="vocChannel" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="vocType" type="xsd:string"/>
+            <xsd:element name="serviceCategory" type="xsd:string"/>
+            <xsd:element name="activityInfo" minOccurs="0">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="activityName" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="activityDate" type="xsd:date" minOccurs="0"/>
+                        <xsd:element name="activityEndDate" type="xsd:date" minOccurs="0"/>
+                        <xsd:element name="vocActivityType" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="vocActivityChannel" type="xsd:string" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="customerProfile">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="customerGroup" type="xsd:string"/>
+                        <xsd:element name="businessType" type="xsd:string" minOccurs="0"/>
+                        <xsd:element name="touristSegment" minOccurs="0">
+                            <xsd:complexType>
+                                <xsd:sequence>
+                                    <xsd:element name="isThaiNationality" type="xsd:boolean" minOccurs="0"/>
+                                    <xsd:element name="nationality" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="nationalityOther" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="marketingTier" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="gender" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="ageGroup" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="ageGroupIdentify" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="touristGroupType" type="xsd:string" minOccurs="0"/>
+                                    <xsd:element name="travelPurpose" type="xsd:string" minOccurs="0"/>
+                                </xsd:sequence>
+                            </xsd:complexType>
+                        </xsd:element>
+                        <xsd:element name="respondentCount" type="xsd:integer" minOccurs="0"/>
+                        <xsd:element name="everVisitedThailand" type="xsd:boolean" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="customerExpectation" minOccurs="0">
+                <xsd:complexType>
+                   <xsd:sequence>
+                       <xsd:element name="value" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="safetyConvenience" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="activitiesExperience" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="socialResponsibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="informationAccess" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="serviceQuality" type="xsd:integer" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="informationSufficiency">
+                <xsd:complexType>
+                    <xsd:sequence>
+                       <xsd:element name="accommodationSufficiency" type="xsd:string"/>
+                       <xsd:element name="restaurantSufficiency" type="xsd:string"/>
+                       <xsd:element name="attractionSufficiency" type="xsd:string"/>
+                       <xsd:element name="transportationSufficiency" type="xsd:string"/>
+                       <xsd:element name="activitiesSufficiency" type="xsd:string"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="visibilityChannel" minOccurs="0">
+                <xsd:complexType>
+                    <xsd:sequence>
+                       <xsd:element name="WebsiteVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="FacebookVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="InstagramVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="TiktokVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="YoutubeVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="BillboardVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="TvRadioVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="BrochureVisibility" type="xsd:integer" minOccurs="0"/>
+                       <xsd:element name="OtherVisibility" type="xsd:integer" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="serviceExpectationRating" minOccurs="0">
+                <xsd:complexType>
+                    <xsd:sequence>
+                       <xsd:element name="serviceExpectationValue" type="xsd:double" minOccurs="0"/>
+                       <xsd:element name="serviceExpectationSafety" type="xsd:double" minOccurs="0"/>
+                       <xsd:element name="serviceExpectationQuality" type="xsd:double" minOccurs="0"/>
+                       <xsd:element name="serviceExpectationActivities" type="xsd:double" minOccurs="0"/>
+                       <xsd:element name="serviceExpectationSocialResponsibility" type="xsd:double" minOccurs="0"/>
+                       <xsd:element name="serviceExpectationInformationAccess" type="xsd:double" minOccurs="0"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="suggestion" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="keyIssue" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xsd:element name="vocVolume" type="xsd:integer" minOccurs="0"/>
+            <xsd:element name="dataSource" type="xsd:string" minOccurs="0"/>
+            <xsd:element name="collectionDate" type="xsd:date"/>
+            <xsd:element name="lastUpdatedDate" type="xsd:dateTime"/>
+            <xsd:element name="dataOwner" type="xsd:string" minOccurs="0"/>
+        </xsd:sequence>
+    </xsd:complexType>
+    <!-- Global element member -->
+    <xsd:element name="voiceOfCustomer" type="VoiceOfCustomer"/>
+</xsd:schema>

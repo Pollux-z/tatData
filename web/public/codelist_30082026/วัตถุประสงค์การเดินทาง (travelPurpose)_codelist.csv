@@ -1,0 +1,22 @@
+﻿ID,code,travelPurpose_TH,travelPurpose_EN
+1,tp01,การท่องเที่ยวเชิงสุขภาพและความงาม,Health & Wellness tourism
+2,tp02,การท่องเที่ยวเชิงการแพทย์,Medical tourism
+3,tp03,การท่องเที่ยวเชิงศิลปวัฒนธรรม,Cultural tourism
+4,tp04,การท่องเที่ยวเชิงผจญภัย,Adventure tourism
+5,tp05,การท่องเที่ยวเชิงนิเวศ,Ecotourism
+6,tp06,การท่องเที่ยวเชิงศาสนา,Religious tourism
+7,tp07,การท่องเที่ยวเชิงกีฬา,Sports tourism
+8,tp08,การท่องเที่ยวเพื่อการซื้อสินค้าและบริการ,Shopping tourism
+9,tp09,การท่องเที่ยวเชิงธุรกิจ,Business tourism
+10,tp10,การท่องเที่ยวเพื่องานไมซ์,MICE tourism
+11,tp11,การท่องเที่ยวเพื่อการศึกษา,Education tourism
+12,tp12,การท่องเที่ยววิถีเมือง,Urban/ city tourism
+13,tp13,การท่องเที่ยวเชิงอาสาสมัคร,Volunteer tourism
+14,tp14,การท่องเที่ยวเชิงเกษตร,Agrotourism
+15,tp15,การท่องเที่ยวเพื่อความบันเทิงและกิจกรรมยามค่ำคืน,Nightlife & Entertainment tourism
+16,tp16,การท่องเที่ยวเพื่อเยี่ยมเยียนเพื่อนและญาติ,Visiting Friends & Relatives (VFR) tourism
+17,tp17,งานดนตรี,Music festival
+18,tp18,"งานเฉลิมพระเกียรติสดุดีวีรชนและ
+เหตุการณ์สำคัญ",Celebration honors national heroes & important events
+19,tp19,เทศกาลอาหาร,Food festival
+20,tp20,อื่นๆ,Others
