@@ -128,8 +128,8 @@ const datasetMeta = {
   },
   "international-tourist-statistics": {
     title: "ชุดข้อมูลสถิตินักท่องเที่ยวระหว่างประเทศ",
-    logo: "/images/placeholder.png",
-    image: "/images/placeholder.png",
+    logo: "/images/2026/tourist_logo.png",
+    image: "/images/2026/squad_country.png",
     pdf: "/PDF/14international-tourist-statistics.pdf",
     xsd: "/XML/InboundTouristDataset.xsd",
     datadict: "/datadict/DataDictionaryสถิตินักท่องเที่ยวระหว่างประเทศ.xlsx",
@@ -137,8 +137,8 @@ const datasetMeta = {
   },
   "occupancy-rate": {
     title: "ชุดข้อมูลอัตราการเข้าพักเฉลี่ยของสถานพักแรม",
-    logo: "/images/placeholder.png",
-    image: "/images/placeholder.png",
+    logo: "/images/2026/hotel.png",
+    image: "/images/2026/squad_hotel.png",
     pdf: "/PDF/15occupancy-rate.pdf",
     xsd: "/XML/occupancyRateAverage.xsd",
     datadict: "/datadict/DataDictionaryอัตราการเข้าพักเฉลี่ย.xlsx",
@@ -146,8 +146,8 @@ const datasetMeta = {
   },
   "tourism-situation-standard": {
     title: "ชุดข้อมูลสถานการณ์การท่องเที่ยว",
-    logo: "/images/travel_circumstance_data.png",
-    image: "/dataset/tourism_situation.png",
+    logo: "/images/2026/tourism_02.png",
+    image: "/images/2026/squad_country.png",
     pdf: "/PDF/16tourism-situation-standard.pdf",
     xsd: "/XML/TourismSituationReport.xsd",
     datadict: "/datadict/DataDictionaryชุดข้อมูลสถานการณ์การท่องเที่ยว.xlsx",
@@ -166,8 +166,8 @@ const datasetMeta = {
   },
   "flight-data": {
     title: "ชุดข้อมูลการบิน",
-    logo: "/images/placeholder.png",
-    image: "/images/placeholder.png",
+    logo: "/images/2026/travel_airport.png",
+    image: "/images/2026/squad_airport.png",
     pdf: "/PDF/13flight-data.pdf",
     schemas: [
       {

@@ -180,7 +180,7 @@ const datasetCards = [
   {
     title: "ชุดข้อมูลการบิน",
     href: "/datasets/flight-data",
-    image: "/images/placeholder.png",
+    image: "/images/2026/travel_airport.png",
     colorTheme: {
       gradient: "from-emerald-500 to-teal-600",
       bgGradient: "from-emerald-50/50 to-teal-50/50",
@@ -194,7 +194,7 @@ const datasetCards = [
   {
     title: "ชุดข้อมูลสถิตินักท่องเที่ยวระหว่างประเทศ",
     href: "/datasets/international-tourist-statistics",
-    image: "/images/placeholder.png",
+    image: "/images/2026/tourist_logo.png",
     colorTheme: {
       gradient: "from-amber-500 to-orange-600",
       bgGradient: "from-amber-50/50 to-orange-50/50",
@@ -208,7 +208,7 @@ const datasetCards = [
   {
     title: "ชุดข้อมูลอัตราการเข้าพักเฉลี่ยของสถานพักแรม",
     href: "/datasets/occupancy-rate",
-    image: "/images/placeholder.png",
+    image: "/images/2026/hotel.png",
     colorTheme: {
       gradient: "from-rose-500 to-pink-600",
       bgGradient: "from-rose-50/50 to-pink-50/50",
@@ -222,7 +222,7 @@ const datasetCards = [
   {
     title: "ชุดข้อมูลสถานการณ์การท่องเที่ยว",
     href: "/datasets/tourism-situation-standard",
-    image: "/images/travel_circumstance_data.png",
+    image: "/images/2026/tourism_02.png",
     colorTheme: {
       gradient: "from-indigo-500 to-purple-600",
       bgGradient: "from-indigo-50/50 to-purple-50/50",
@@ -236,7 +236,7 @@ const datasetCards = [
   {
     title: "ชุดข้อมูลเสียงจากลูกค้า",
     href: "/datasets/voice-of-customer",
-    image: "/images/appeal.png",
+    image: "/images/2026/customer_survey.png",
     colorTheme: {
       gradient: "from-blue-500 to-cyan-600",
       bgGradient: "from-blue-50/50 to-cyan-50/50",
